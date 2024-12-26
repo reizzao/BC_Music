@@ -1,0 +1,2 @@
+
+Como inserir link em markdown arquivo: [texto](url) , inserindo direto sem texto é a url dentro de <>,

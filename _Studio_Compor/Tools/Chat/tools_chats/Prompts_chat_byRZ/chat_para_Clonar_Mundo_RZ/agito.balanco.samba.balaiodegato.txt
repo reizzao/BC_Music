@@ -1,0 +1,238 @@
+=== LER_A_PLANILHA :
+
+Estude a planilha em anexo, ela tem os códigos para criar músicas em inteligências artificiais de
+músicas, entenda os códigos da planilha e para que serve cada um deles, e a partir de agora aja
+como um compositor de musicas por IA experiente usando os códigos para gerar músicas com
+as letras que fornecerei a seguir da melhor maneira possível.
+
+
+CLONAR :
+
+Atue como experiente crítico, pesquisador e produtor musical e, utilizando-se do seu vasto e
+profundo conhecimento de engenharia de prompt de texto para música, Faça ampla e
+minuciosa análise na canção "É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café
+Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz
+
+Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver
+
+Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição
+Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra VOCÊ:
+Não dorme no barulho dela
+Não dorme no barulho dela" da “Gamação” e apresente: a) a estrutura de cada uma das músicas para preencher fielmente
+o campo "lyrics"; b) extraía seus respectivos prompts necessários para preencher, de maneira
+eficaz e de alta qualidade técnica, o campo "style of music" obedecendo todos os parâmetros e
+regras de engenharia de prompt da plataforma Suno.com.
+Ao responder, sempre respeite as regras e limitações da plataforma. Principalmente os 120
+caracteres incluindo vírgulas e espaços para as tags do campo "style of music". Coloque as tags
+em inglês para obter os melhores resultados na plataforma. Na resposta aproxime-se sempre
+dos 120 caracteres para definir melhor e mais detalhadamente a música a ser gerada.
+Apresente o resultado em formato que se possa utilizar do recurso: copiar e colar
+
+
+PROMPT_NORMAL :
+
+Como compositor experiente, crie uma música para uma IA de música utilizando a seguinte
+letra: "É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café
+Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz
+
+Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver
+
+Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição
+Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra VOCÊ:
+Não dorme no barulho dela
+Não dorme no barulho dela". O ritmo deve ser "Samba, pagode, Brazilian percussion, festive atmosphere, live performance, cuíca, cavaquinho, tamborim, pandeiro". Aplique os
+melhores comandos disponíveis nas planilhas acima, visando deixar a música o mais linda
+possível. Todos os comandos devem estar em inglês, assim como suas explicações, que
+devem ser colocadas entre colchetes []. Somente a letra deve ser escrita em português do
+Brasil.
+
+
+
+
+--- LETRA ---
+
+Balaio De Gato
+Gamação
+---
+
+É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café
+Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz
+
+Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver
+
+Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição
+Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra VOCÊ:
+Não dorme no barulho dela
+Não dorme no barulho dela
+
+
+=== RESULTADO CHAT ::
+
+a) Estrutura da música (lyrics)
+[INTRO]
+Trecho: "É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café"
+
+Descrição: A introdução da música é ritmada, criando um ambiente leve e descontraído, sugerindo um swing natural com repetição de frases.
+
+[VERSE]
+Trecho: "Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz"
+
+Descrição: O verso explora temáticas tradicionais da cultura brasileira, como casamento e a juventude, transmitindo uma mensagem simples e positiva.
+
+[CHORUS]
+Trecho: "Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver"
+
+Descrição: O refrão tem um tom lúdico e reforça a leveza da canção. Usa a repetição e a comparação para criar impacto, valorizando o uso do pandeiro.
+
+[BRIDGE]
+Trecho: "Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição"
+
+Descrição: A ponte faz a transição ao destacar os elementos percussivos e harmônicos que tipicamente aparecem no samba e no pagode, mencionando instrumentos tradicionais como cavaquinho e cuíca.
+
+[CHORUS] (Repetição)
+Trecho: "Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver"
+[VERSE] (Conclusão)
+Trecho: "Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra você:
+Não dorme no barulho dela
+Não dorme no barulho dela"
+
+Descrição: O verso final destaca a espontaneidade e a autenticidade da performance ao vivo, trazendo um elemento festivo e de celebração.
+
+b) Extração de prompts para o campo "style of music"
+Estilo de música: Para definir o estilo da música no campo "style of music", precisamos considerar os elementos principais dessa canção: o uso de instrumentos brasileiros (cavaquinho, cuíca, tamborim), a atmosfera festiva e a natureza rítmica que remete ao samba e ao pagode, com uma possível fusão de elementos contemporâneos.
+
+Aqui está o prompt necessário para obter o melhor resultado no campo "style of music":
+
+arduino
+Copiar código
+"Samba, pagode, Brazilian percussion, festive atmosphere, live performance, cuíca, cavaquinho, tamborim, pandeiro"
+Este prompt define adequadamente o estilo musical, respeitando o limite de 120 caracteres e mantendo a especificidade de gênero, instrumentos e atmosfera para uma composição autêntica.
+
+Resultado final:
+Estrutura da música:
+
+[INTRO] "É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café"
+
+[VERSE] "Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz"
+
+[CHORUS] "Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver"
+
+[BRIDGE] "Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição"
+
+[VERSE] "Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra você:
+Não dorme no barulho dela
+Não dorme no barulho dela"
+
+Style of music
+
+
+== RESPOSTA PROMPT NORMAL ::
+
+[INTRO]
+[Start with a soft samba groove, using light percussion and gentle strings to set a relaxed mood.]
+"É no balanço, é no balaio de gato
+É no mingau do meu café
+É na copa, é na copa, é na copa
+Que se deve tomar um café"
+
+[VERSE]
+[Introduce cavaquinho and cuíca, keeping the rhythm steady and smooth while emphasizing the storytelling.]
+"Menina moça quer casar de branco
+Levar o pAÍ na igreja e tudo mais
+Menina nova nunca perde tempo
+Que Deus conserve assim a sua paz"
+
+[CHORUS]
+[Shift to a more lively and catchy melody, increasing intensity with the use of pandeiro and tamborim.]
+"Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver"
+
+[PRE-CHORUS]
+[Gradually build up energy with a crescendo in percussion, focusing on tamborim and cuíca to prepare for the next section.]
+"Mistura cavaquinho com cuíca e tamborim
+E metaleira brava gente na maior curtição"
+
+[CHORUS]
+[Repeat the chorus, keeping it rhythmic and catchy, with added emphasis on vocal harmonies and stronger percussion.]
+"Ela não toa pandeiro
+Mas tem um pandeiro
+Que é bom de se ver"
+
+[BRIDGE]
+[Use the bridge to introduce a new musical element or key change, highlighting a variation in the melody and rhythm.]
+"Quem sabe faz ao vivo
+Faz a fESTÁda virada
+Só que eu digo pra você:
+Não dorme no barulho dela
+Não dorme no barulho dela"
+
+[OUTRO]
+[End with a smooth decrescendo, softening the rhythm and letting the cavaquinho and percussion gradually fade out.]
+"Não dorme no barulho dela
+Não dorme no barulho dela"
+
+Comandos Utilizados
+[INTRO]: Soft percussion with strings to create a calm atmosphere.
+[VERSE]: Maintain a steady, relaxed rhythm, using traditional Brazilian instruments like cavaquinho and cuíca.
+[CHORUS]: Increase the energy with a lively melody, focusing on pandeiro and tamborim for a catchy refrain.
+[PRE-CHORUS]: Build up the song's momentum by intensifying the percussion, preparing for the chorus.
+[BRIDGE]: Introduce variety with a key change or new rhythm, connecting sections of the song.
+[OUTRO]: Smoothly decrease intensity and finish the song with a gentle fade-out of instruments.

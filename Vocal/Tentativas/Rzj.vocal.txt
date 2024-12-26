@@ -1,0 +1,32 @@
+Cantar_Por_Frase : {
+
+Padrao :
+
+  Inícios:
+    macete: bico de cima 
+    Som : Medio/Agudo
+    Palato : Duro - Ceu da Boca
+    Ornamentos_Op : [ Fry, liso, ]
+    Altura : Meio / Alto
+    Forca: [ Moderada, ]
+    Afinacao: Som se HÃ ao rebater ar no Palato Duro.,
+    Lingua: levantadinha.
+
+
+Finais: 
+    macete: bico de baixo
+    Som : Grave
+   Palato : Mole - Fundo da Boca
+    Ornamentos_Op : [ Glissando, ]
+    Volume : Baixo / 
+    Forca: [ 1° forte, 2° Fraca, Ultima Forte, ]
+    Afinacao: Som se HÃ ao rebater ar no Palato Mole,
+    Lingua: baixa.
+
+
+
+---
+
+
+tutoriais : [ https://www.instagram.com/reel/DCZsm3sxmJk/?igsh=YXB0enc1cjQyeGM4,  ]
+

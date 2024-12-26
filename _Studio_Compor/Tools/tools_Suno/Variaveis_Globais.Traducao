@@ -1,0 +1,55 @@
+# [Variáveis ​​globais para configuração de música no Suno AI]
+
+# Defina o gênero e o estilo geral
+GENRE:
+- pagode:
+style: smooth
+rhythm: lively
+bpm: 100
+voice: male
+type: medium
+time_signature: 4/4
+chord_progression: I-V-VI-IV
+
+# Defina a emoção do cantor
+SINGER_EMOTION: joyful
+
+# Defina a emoção primária da música
+CENTRAL_EMOTION: passionate
+
+# Defina o tom lógico ou tema da música
+LOGIC: NOTSAD
+
+# Forneça uma solução ou conclusão para a música
+BIG_SOLUTION:
+description: A última frase deve encapsular o tema.
+triggers: Como celebro a solução?
+
+# Refrão global (pode ser reutilizado em várias seções)
+REFRAIN_TEXT: |
+Então me ajude a segurar
+Essa barra é gostar de você
+
+# Defina gatilhos ou ganchos para envolver o público
+GATILHOS:
+- ritmo dançante
+- frases cativantes
+- conexão emocional
+
+# Defina o estilo vocal para o cantor
+VOCAL_STYLE:
+tom: quente
+articulação: claro
+dinâmica: expressivo
+
+# Atributos globais para o arranjo
+ARRANJO:
+instrumentação: cavaquinho, tamborim, pandeiro
+dinâmica: energético
+humor: festivo
+
+# Estilos submusicais para variação
+SUB_MUSICAL_STYLES:
+- rítmico animado
+- harmônico suave
+- construção emocional

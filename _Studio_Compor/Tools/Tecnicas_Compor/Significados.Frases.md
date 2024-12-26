@@ -1,0 +1,1 @@
+Os substantivos indicam alguma coisa. Os adjetivos indicam como é essa coisa. Os verbos indicam o que essa coisa faz.

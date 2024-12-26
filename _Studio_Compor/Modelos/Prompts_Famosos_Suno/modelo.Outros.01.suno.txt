@@ -1,0 +1,89 @@
+[STYLE]: Tropical House, Funk, Tech House, Melodic Techno
+[MOOD]: Summer vibes, Happy, Uplifting, Energetic
+[VOCALS]: Female singer, Electro-pop tone, vibrant and melodic; sweet yet powerful, captivating delivery
+[PRODUCTION]: Tropical beats, Funk basslines, tech-driven grooves, melodic synths, and summer-inspired percussion
+[TEMPO]: 128 BPM for an energetic, danceable flow
+
+<SONG MODULES>
+
+<INTRO>
+[Vocals:]
+[Soft, airy female voice layered with light tropical reverb]
+"Feel the sun... (pause)
+The rhythm calling you."
+
+[Instrumentation:]
+[Warm atmospheric pads, tropical plucks, and deep kick drum]
+[Percussion:]
+[Syncopated hi-hats, soft shakers, and a subtle clap groove]
+
+<VERSE 1>
+[Vocals:]
+"Dancing waves under the skies,
+Melody flows where the summer lies.
+From the beach to the floor,
+This rhythm leaves you wanting more."
+
+[Instrumentation:]
+[Tropical synth plucks layered over a funky bassline]
+[Effect:]
+[Ambient waves and birds subtly in the background for a summery feel]
+
+<CHORUS>
+[Vocals:]
+"Let the music lift you high,
+Tropical beats under a blue sky.
+Feel the funk, feel the groove,
+Summer vibes, it’s time to move."
+
+[Instrumentation:]
+[Deep bassline with driving tech-house grooves, layered with melodic pads]
+[Effect:]
+[Echoed vocal chops enhance the uplifting vibe]
+
+<BUILD-UP>
+[Percussion:]
+[Intensified tribal beats with rolling hi-hats and dynamic claps]
+[Vocals:]
+"Closer... (pause) Feel it rising... (pause) Let go."
+
+[Instrumentation:]
+[Synth arpeggios swell, leading into a powerful drop]
+
+<DROP>
+[Instrumentation:]
+[Explosive Funk-Techno bassline, tropical plucks, and rhythmic tribal drums]
+[Effect:]
+[Processed vocal chops adding texture to the groove]
+[Vocals:]
+"Move with the rhythm, let the summer ignite... Tonight."
+
+<VERSE 2>
+[Vocals:]
+"The night lights up with beats so bright,
+Tropical grooves take flight.
+The ocean breeze carries the sound,
+Dancing hearts all around."
+
+[Instrumentation:]
+[Tropical house pads mixed with tech-driven beats]
+
+<FINAL CHORUS>
+[Vocals:]
+"Let the music lift you high,
+Tropical beats under a blue sky.
+Feel the funk, feel the groove,
+Summer vibes, it’s time to move."
+
+[Instrumentation:]
+[Dynamic blend of Funk, Tropical House, and Tech-House layers]
+
+<OUTRO>
+[Vocals:]
+"Feel the waves, the rhythm flows...
+Let the summer stay, where the music goes."
+
+[Instrumentation:]
+[Soft pads fade into atmospheric sounds of waves and birds]
+[Effect:]
+[Vocal whispers fading with a warm reverb]

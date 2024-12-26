@@ -1,0 +1,4 @@
+Pergunta:
+prompt para criar um arranjo no Suno AI com um verso triste em Am e Dm no compasso 4/4
+
+Resposta : ["Crie um arranjo minimalista em compasso 4/4, com foco em transmitir uma emoção triste e introspectiva. Utilize os acordes Am e Dm como base para o verso, com progressão simples e melodia vocal expressiva. O instrumento principal deve ser violão ou piano, com uma leve ambientação melancólica. O estilo pode ser intimista, evocando sentimentos de saudade e solidão."]

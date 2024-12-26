@@ -1,0 +1,39 @@
+<DETALHES>
+[Set Time To 60 Bpm]
+[ Pagofunk, Pagode,  One Male Voice ,   Pt-Br Portuguese ]
+[delicate rhythmic pattern inspired by pagofunk,  *RITMO ]
+[ The baritone voice always softer, one male Emotional Melismatic voice, pt-br português, *VOZ_SUAVE_BARITONO*]
+[ pagofunk , pagode romântico ,  ]
+<\DETALHES>
+
+[INTRO]
+[Calm acoustic guitar and soft percussion to set a relaxed romantic mood]
+
+
+[VERSO 1] (4/4, Am - E)
+[Gentle melody with rhythmic guitar, focusing on vocal delivery, 2 frases]
+
+
+[VERSO 2] (4/4, Am - E)
+[ 2 frases,]
+
+
+
+[PRE-CHORUS](4/4, Am - E)
+[Build intensity with additional instruments like piano and subtle strings, 1 frases ]
+
+
+[BULDUP] [ 1 frases]
+
+
+[CHORUS - REPRISE](4/4, Am - E)
+[Bring back the full instrumental arrangement with increased intensity]
+
+
+
+[OUTRO](4/4, Am - E)
+[Slow fade with acoustic guitar and soft vocals repeating the final line]
+
+
+
+[End] [Fade Out] [Fade to End]

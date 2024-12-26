@@ -1,0 +1,80 @@
+# [Global Tags: ALERTA DE PAGODIN .]
+genre:
+  - pagofunk_pagode_samba_funk:
+      style: excited
+      rhythm: upbeat but smooth with a pagofunk, pagode, samba and funk groove
+      bpm: 110
+      voice: male
+      type: emotional
+      time_signature: 4/4
+Logic: NAOTRISTE
+Central_Emotion: passionate
+BigSolution:
+  description: The last phrase can represent the theme.
+  Triggers: How do I celebrate the solution?
+
+# [Global variable for the chorus text.]
+REFRAIN_TEXT: |
+Digui, digui, digui, digui digui dim
+Digui, digui, digui, digui digui dim
+
+[INTRO]
+# [COMMENT OF THE SESSION: Soft cavaquinho and percussion to introduce the mood.]
+
+[VERSE]
+# [COMMENT OF THE SESSION: Develop the narrative with the lyrics.]
+lyrics: |
+Sêxtou e já chegou pra mim
+alerta de pagodin
+Sêxtou e já chegou pra mim
+alerta de pagodin
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+[VERSE]
+# [COMMENT OF THE SESSION: Develop the narrative with the lyrics.]
+lyrics: |
+Será que já pode
+dar aquele góle
+Será que já pode
+dançar o bole bole
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+[VERSE][1x]
+# [COMMENT OF THE SESSION: Develop the narrative with the lyrics.]
+lyrics: |
+Já vou chegar como
+na festa que falei que não ia ir
+Eu já to é como
+naquele modelin, naquele modelin
+
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+
+[HOOK][1x]
+# [COMMENT OF THE SESSION: Develop the narrative with the lyrics.]
+lyrics: |
+É Só vim Suavin
+É Só vim Suavin
+
+
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+
+[OUTRO]
+# [COMMENT OF THE SESSION: Develop the narrative with the lyrics.]
+lyrics: |
+Aí aí aí aí aí
+Ui ui ui ui ui
+
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}

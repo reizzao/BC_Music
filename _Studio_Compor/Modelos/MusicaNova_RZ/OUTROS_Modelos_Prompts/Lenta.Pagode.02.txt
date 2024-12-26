@@ -1,0 +1,96 @@
+-- arrumar ta lendo comentarios
+
+# TITULO_TEMA : ???
+# Logica: Triste || NaoTriste ???
+# Emocao: ???
+# Solucao: ???
+
+[estrutura]
+  # tags globais use ou comente as que não vai usar em tudo.
+  # obs: se for usar essas tags no conteudo das estrofes copie e retire/comentando elas aqui.
+
+  [gênero:pagofunk|estilo:suave]
+  [ritmo:lento|bpm:90]
+  [voz:masculina| tipo:medio| estilo:suave| ]
+  [emocional:apaixonada]
+  [compasso:4\4]
+  [acordes:I-V-VI-IV]
+
+# --- INTRODUCAO ---
+[introdução]
+  [estilo:suave|instrumental|piano, violão, saxofone ]
+
+
+# --- ESTROFES --------------
+
+  [verso][acordes:I-V-VI-IV]
+  [comentário:"Frases: 2, TempoVerbal: Presente, Objetivo: levar a emoção - Gatilhos: [ hey,  ,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+ # ---
+
+  [verso][acordes:I-V-VI-IV]
+  [comentário:"Frases: 2, TempoVerbal: Futuro, Objetivo: refletir sobre a Ultima - Gatilhos: [ E Ai da anterior ,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+ # ---
+
+  [pré-refrão:crescente|emocional:sincero][acordes:V-VI-I]
+  [comentário:"Frases: 2, TempoVerbal: Passado, Objetivo: o que levou ao estadoAtual- Gatilhos: [ Reação ,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+
+ # ---
+
+  [ponte:suspense|emocional:esperançoso][acordes:V-I]
+  [comentário:"Frases: 2, TempoVerbal: Presente, Objetivo: Sugestao- Gatilhos: [ Pergunta O que vai melhorar mudar ? ,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+
+ # ---
+
+  [refrão:intenso|emocional:explosivo |repetir:2x] [acordes:I-V-VI-IV]
+  [comentário:"Frases: 4, TempoVerbal: Futuro, Objetivo: grande solução- Gatilhos: [ Em loop  ,Com um braço pro alto, Fala de Nós, O que precisamos, como vai ser,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+[Refeain]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+ # ---
+
+  [fim:emocional|última nota prolongada][ponte]
+  [comentário:"Frases: 1, TempoVerbal: Presente, Objetivo: - Gatilhos: [  ,  ]"]
+
+# ACAO
+  [conteúdo:"..."]
+# REACAO
+  [conteúdo:"..."]
+
+
+  [fim:apoteótico]
+
+ # --- FIM -----------

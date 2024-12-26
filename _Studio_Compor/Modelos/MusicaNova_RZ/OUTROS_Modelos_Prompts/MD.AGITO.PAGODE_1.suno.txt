@@ -1,0 +1,68 @@
+# [Global configuration]
+genre:
+  - pagofunk:
+      rhythm: upbeat but smooth with a funk groove
+      bpm: 110
+      voice: male
+      type: exciting
+      time_signature: 4/4
+
+# [COMMENT: VARIAVEIS GLOBAIS para SESSOES  ]
+SINGER_EMOTION: joyful
+CENTRAL_EMOTION: passionate
+
+# [COMMENT: GUIAR > Cada frase com AFIRMOQUE + EAI, .]
+
+# [COMMENT: DEF DE VARS DE REFRÃO.]
+REFRAIN_TEXT: |
+
+" "
+
+[INTRO]
+
+[VERSE 1] [Whispered, Harmonized]
+# [COMMENT OF THE SESSION: $Levam_a_Emocao_Central, - Padroes: [ Frases= AFIRMOQUE + EAI,], Gatilhos : [ hey, ] ]
+${SINGER_EMOTION}
+lyrics: |
+" "
+
+repeat: 0
+
+[VERSE 2]
+# [COMMENT OF THE SESSION: $OProblema - Climax: [ Solidificando o Anterior , ] , Padroes: [ Frases= AFIRMOQUE + EAI,],]
+${SINGER_EMOTION}
+lyrics: |
+" "
+
+[PRE-CHORUS] [MUSICAL BALLAD]
+# [COMMENT OF THE SESSION: $Levou_ao_Estado_Atual - Padroes: [ Frases= AFIRMOQUE + EAI,], Gatilhos : [ Reacões, lembranças, O que levou, ] ]
+${SINGER_EMOTION}
+lyrics: |
+" "
+
+[BRIDGE]
+# [COMMENT OF THE SESSION: $Vai_Fazer_Mudar - PONTE - FRASE MARCANTE -  [ FRASE MARCANTE, Uma deixa, Pergunta no ar, Será bom se, ], Padroes: [ Frases= AFIRMOQUE + EAI,], ]
+${SINGER_EMOTION}
+lyrics: |
+" "
+
+repeat: 0
+
+[CHORUS]
+# [COMMENT OF THE SESSION: $Grande_Solucao || $Tema - Padroes: [ Frases= AFIRMOQUE + EAI,], Gatilhos : [ Gritar com um braço pra cima, Forma diferentona de solucionar, a ultima palavra pode ser o $Tema, Vou comemorar a solução se?,  ], Padroes: [ Frases= AFIRMOQUE + EAI,], ]
+lyrics: |
+${REFRAIN_TEXT}
+
+repeat: 1
+
+[OUTRO]
+# [COMMENT OF THE SESSION: $Declaracao || $Tema - Climax: [ Acalmou, Baladinha, ] - Padroes: [ Frases= AFIRMOQUE + EAI,], Gatilhos : [ Um desejo, Confirmar a $Grande_Solucao, Quero pra Sempre,  ], Padroes: [ Frases= AFIRMOQUE + EAI,], ]
+lyrics: |
+" "
+repeat: 1
+
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+repeat: 2

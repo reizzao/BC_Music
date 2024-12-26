@@ -1,0 +1,48 @@
+[GENRE: pagofunk, time_signature: 4/4]
+[SINGER_EMOTION: Whispered, Harmonized]
+[CENTRAL_EMOTION: passionate]
+[INTRO, PRELUDE]
+
+# [COMMENT: 2 frases - AfirmoQue + E_DoQue_EAI ]
+[VERSE 1]
+
+1. Sacada,  ficaNoAR_SemConcluir (RIMA_Deixa)
+2. e_AfirmoQue_EAI
+
+1. Sacada,  ficaNoAR_SemConcluir (Rimou)
+2. e_AfirmoQue_EAI
+
+
+# [COMMENT: 2 frases - AfirmoQue + E_DoQue_EAI ]
+[VERSE 2]
+
+1. Sacada,  ficaNoAR_SemConcluir (RIMAForte)
+2. e_AfirmoQue_EAI
+
+1. Sacada,  ficaNoAR_SemConcluir (RIMAForte)
+2. e_AfirmoQue_EAI
+
+
+# [COMMENT: 2 frases - AfirmoQue + E_DoQue_EAI ]
+[PRE-CHORUS] [Musical Ballad]
+
+1. Sacada,  Entao_AfirmoQue_Conclui_BALANCA (DeixaRima)
+
+# [COMMENT: 1 frase - AfirmoQue + E_DoQue_EAI ]
+[BRIDGE]
+
+1. Sacada,  Entao_AfirmoQue_Conclui_BALANCA_FIRME (Rimou)
+
+
+# [COMMENT: 2 frases - AfirmoQue + E_DoQue_EAI ]
+[CHORUS] [2x]
+
+1. Sacada,  AfirmoQueQuero_Conclui (RIMAForte)
+2. e_AfirmoQue_EAI (Rimou)
+
+# [COMMENT: 2 frases - AfirmoQue + E_DoQue_EAI ]
+[OUTRO] [2x]
+
+1. Sacada,  ficaNoAR_SemConcluir_AcalmaBslanca (Rima_Deixa)
+2. e_AfirmoQue_EAI (Rimou)
+

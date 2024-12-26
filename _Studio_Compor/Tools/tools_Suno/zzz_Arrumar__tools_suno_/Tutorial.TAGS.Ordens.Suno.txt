@@ -1,0 +1,166 @@
+Link para respostas chat gpt sobre opções tags suno :
+(https://chatgpt.com/c/67489df1-b458-8008-a909-adc95fc1362f)
+
+Formato Geral para Inserir Tags Dentro de Tags
+===
+INTRODUÇÃO
+1. Introdução Simples
+plaintext
+Copiar código
+[introdução]
+Marca o início da música com uma abertura padrão.
+2. Introdução com Emoção ou Estilo
+plaintext
+Copiar código
+[introdução:emocional|calma]
+[introdução:épica|impactante]
+[introdução:suspense|misteriosa]
+Define o tom emocional da introdução.
+3. Introdução com Instrumentos
+plaintext
+Copiar código
+[introdução:instrumental|violão|suave]
+[introdução:piano|atmosférico]
+[introdução:bateria|intensa]
+Especifica os instrumentos usados e o estilo.
+4. Introdução com Estrutura Harmônica
+plaintext
+Copiar código
+[introdução:acordes|C-Am-F-G]
+[introdução:solo|guitarra]
+[introdução:riff|baixo]
+Inclui acordes, solos ou riffs para a abertura.
+5. Introdução com Ritmo ou BPM
+plaintext
+Copiar código
+[introdução:ritmo|4/4|bpm:120]
+[introdução:lenta|crescendo]
+[introdução:rápida|explosiva]
+Define o tempo e o ritmo.
+6. Introdução com Letra ou Verso Inicial
+plaintext
+Copiar código
+[introdução:letra]
+  [conteúdo:"O sol nasce no horizonte, trazendo esperança."]
+Especifica uma abertura com letra.
+7. Instruções Contextuais no Prompt
+Se a plataforma não utiliza tags específicas, descreva no texto:
+
+plaintext
+Copiar código
+Crie uma introdução suave com piano e violão, sugerindo um clima nostálgico.
+Use acordes em C-Am-F-G, com um ritmo lento e crescente.
+Exemplo Completo com Detalhes
+plaintext
+Copiar código
+[introdução]
+  [estilo:suave|instrumental|violão]
+  [emocional:nostálgica]
+  [acordes:C-G-Am-F]
+  [ritmo:lento|bpm:90]
+
+====
+
+VOZ
+
+Defina a tag principal:
+Exemplo: [voz]
+
+Adicione as tags internas usando delimitadores:
+Exemplo: [voz:suave|emocional:triste|verso:calmo]
+
+Como Funciona:
+Tag principal: voz (categoria maior).
+Subtags:
+suave descreve o tipo de voz.
+emocional:triste insere uma emoção.
+verso:calmo conecta o verso ao tom definido.
+
+
+# Exemplo
+## Específico - Estrutura Musical
+Para um projeto que conecta voz, emoção, verso e refrão:
+
+[estrutura]
+  [voz:potente|emocional:apaixonada|verso:rápido]
+  [refrão:intenso|emocional:esperançoso]
+
+Nesse caso: A tag [estrutura] agrupa tudo, as subtags especificam as características de cada elemento.
+
+===
+# ACORDES
+
+1. Formato Simples (Apenas Acordes)
+Liste os acordes diretamente na tag:
+
+[acordes:C-G-Am-F]
+Indica uma progressão comum (do ciclo harmônico de Dó maior).
+2. Formato Estruturado com Função Harmônica
+Se quiser incluir detalhes sobre as funções dos acordes:
+
+[acordes:I-V-vi-IV]
+[chave:C]
+Aqui, I-V-vi-IV representa os graus harmônicos na tonalidade de Dó maior.
+
+3. Especificando Estilo ou Gênero
+Inclua instruções sobre o gênero ou estilo musical:
+
+
+[acordes:C-G-Am-F|gênero:pop|estilo:suave]
+4. Acordes por Parte da Música
+Organize os acordes para diferentes seções:
+
+
+[verso:Em-G-D-A]
+[refrão:C-Am-F-G]
+[ponte:Am-G-F]
+5. Instruções Contextuais no Prompt
+Se a plataforma não reconhecer tags específicas para acordes, insira as informações no texto:
+
+
+Use a progressão de acordes C-G-Am-F para o refrão e Em-G-D-A para o verso. Mantenha o estilo pop acústico.
+6. Acordes com Ritmo ou Padrões de Execução
+Se você quiser incluir o ritmo:
+
+
+[acordes:C-G-Am-F|padrão:strumming|ritmo:4/4|bpm:120]
+Isso combina os acordes com informações sobre o ritmo e o estilo de execução.
+
+===
+
+# FIM DA MUSICA
+1. Tag Simples de Fim
+plaintext
+Copiar código
+[fim]
+Indica que a música ou a composição termina nesse ponto.
+2. Fim com Contexto (Encerramento Específico)
+plaintext
+Copiar código
+[fim:fade-out]
+Para músicas que terminam com um "fade-out" gradual.
+Substitua fade-out por outras opções como súbito, instrumental, ou refrão.
+3. Fim com Emoção ou Impacto
+Se o encerramento deve ter um efeito emocional ou sonoro específico:
+
+plaintext
+Copiar código
+[fim:emocional|última nota prolongada]
+Isso descreve como o fim deve soar.
+4. Especificando a Última Parte da Música
+Se o final está em uma seção específica, combine com outras tags:
+
+plaintext
+Copiar código
+[ponte]
+  [conteúdo:"A última palavra dita..."]
+[fim:apoteótico]
+5. Instruções Contextuais no Prompt
+Se a Suno AI não suporta uma tag específica, descreva o fim no texto:
+
+Finalize a música com um refrão repetido três vezes, terminando em um fade-out suave.
+6. Encerramento Instrumental
+Se a música termina sem letra, apenas com instrumentos:
+
+[fim:instrumental|piano|calmo]
+Dicas

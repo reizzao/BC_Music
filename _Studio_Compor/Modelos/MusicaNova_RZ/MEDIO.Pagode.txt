@@ -1,0 +1,38 @@
+[STYLES : pagofunk, pagode, R&B, groove, funk, time_signature: 4/4]
+[SINGER_EMOTION: Whispered, Harmonized]
+[CENTRAL_EMOTION: passionate]
+[INTRO, PRELUDE]
+
+#[STYLES : pagofunk, pagode, rnb, funk]
+
+[VERSE] [Whispered, Harmonized]
+
+ [ ]  [ ]  [ ] <  >,
+ [ ]  [ ]  [ ].
+
+
+[VERSE 2] [HOOK] [Whispered, Harmonized]
+
+[ ]  [ ]  [ ] <  >,
+[ ]  [ ]  [ ].
+
+[PRE-CHORUS] [MUSICAL BALLAD]
+
+[ ]  [ ]  [ ] <  >,
+[ ]  [ ]  [ ].
+
+[BRIDGE]
+
+[ ]  [ ]  [ ] <  >,
+[ ]  [ ]  [ ].
+
+[CHORUS] [expressive] (REPEAT)
+
+[ ]  [ ]  [ ] <  >,
+[ ]  [ ]  [ ].
+
+[OUTRO]  [MUSICAL BALLAD]
+
+[ ]  [ ]  [ ] <  >,
+[ ]  [ ]  [ ].
+
