@@ -65,6 +65,12 @@ TA BACANA LEGAL {
   arquivos: https://drive.google.com/drive/u/0/folders/1991jwB5cZZd-AmIdC_MC-b08LZ-u7Sf4
 }
 
+JURAS DA PAIXAO {
+  registro : (https://outlook.live.com/mail/0/inbox/id/AQQkADAwATYwMAItNTE2Mi0yZGYzLTAwAi0wMAoAEABOd3QtJ8WKRJuzy0PqvebmAA%3D%3D?nlp=1&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c&culture=pt-br&country=br&RpsCsrfState=5f7a1231-83ee-7749-c299-21e24be4b1da&url=%2fowa%2f0%2f%3fnlp%253d1%2526cobrandid%253dab0455a0-8d03-46b9-b18b-df2f57b9e44c%2526culture%253dpt-br%2526country%253dbr%2526RpsCsrfState%253d5f7a1231-83ee-7749-c299-21e24be4b1da)
+  letra :  (https://docs.google.com/document/d/1MP62b0QgqpOF1sj426M9sHTqyLoUYHmvg7qrVcDltBs/edit?usp=sharing)
+  arquivos: (https://drive.google.com/drive/u/0/folders/1kHDJVqTqVdneNyubR-52eFrin2xylsyu)
+}
+
 
 
 ---
