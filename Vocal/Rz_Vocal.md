@@ -30,6 +30,13 @@ Emissão: [
 
 Fade NA voz nos inicios igual do Lucas Morato : https://www.instagram.com/reel/C_0nBsoPqVo/?igsh=MWJyNWFrcjNzbnlpMg==
 
+Alternados : [
+- vai com embalo até meio da frase e suaviza a entrega do fim
+
+- 
+
+]
+
 Musicalmente:
 Maior : tem mais salto entre as notas e harmonia , alusao: berimbau nota pra cae nota pra lá
 
