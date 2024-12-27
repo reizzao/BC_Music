@@ -1,0 +1,30 @@
+# GERADORES DE PROMPTS
+
+Gerador de magaprompt:
+https://chatgpt.com/g/g-sUDxKZ7cy-megaprompt-para-o-suno
+
+Compositor virtual:
+https://chatgpt.com/g/g-gSrhvoV1f-compositor-virtual
+
+Compositor místico:
+https://chatgpt.com/g/g-X5969Va2n-compositor-mistico
+
+Maestro dos estilos:
+https://chatgpt.com/g/g-9uNMre6Ic-maestro-de-estilos
+
+---
+
+# ESTILOS
+
+Estilos Pagode lento
+exemplos : [ CoracaoPartido, ]
+
+`
+Pagode, Acoustic, Male Vocal, Romantic, Smooth Percussion, Samba Groove, Chord Progressions, Light Melody
+
+Estilo 2:
+Samba-Pagode, Warm, Male Vocal, Guitar-driven, Soft Rhythm, Emotional, Relaxed Tempo, Group Chants
+
+Estilo 3:
+Brazilian Popular Music, Pagode, Male Vocal, Intimate, Gentle Beat, Percussion Accents, Emotional Flow, Acoustic Strings
+`
