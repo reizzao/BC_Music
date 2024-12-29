@@ -6,7 +6,12 @@ Respiracao: [
 ]
 
 
-Emissão: [
+Emissão: [    ]
+
+Camadas_na_Frase : 
+  Inicio: Medio_SemForça, 
+  Meio: Forte, 
+  Final: Fraco_Efeite
 
   Acessos : [
     - Corpo postura de valentão Maioral.
