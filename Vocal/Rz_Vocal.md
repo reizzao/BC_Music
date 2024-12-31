@@ -9,9 +9,11 @@ Respiracao: [
 Emissão: [    ]
 
 Camadas_na_Frase : 
-  Inicio: Medio_SemForça, 
+
+
+  Inicio: Boqueirao_Grave - Medio_SemForça - PalatoMole_Fundao, 
   Meio: Forte, 
-  Final: Fraco_Efeite
+  Final: VozBixinga - Fraco_Efeite - PalatoDuro_CeuBoca e LadosBoca
 
   Acessos : [
     - Corpo postura de valentão Maioral.
