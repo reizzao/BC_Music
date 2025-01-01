@@ -10,7 +10,7 @@ Emissão: [
 
 - Atitude. Animo
 Ânimo
-- Tipo Mascar
+- Tipo Mascar, voz continua sem pausar, suave, gentil 
 
 Camadas_na_Frase : 
 
