@@ -9,7 +9,7 @@ boa vindas : https://thejay.com.br/obrigado/?transactionkey=6adbcfab8f8f4c538bfb
 ---
 Bandlab do GravacaoDescomplicada 
 acesso : reizao1977@g -- Rz..30..@
-link : https://app.kirvano.com/purchases
+link : https://app.kirvano.com/lessons/2409759a-3ea4-42bf-9832-3d890ab228a6
 
 ---
 
