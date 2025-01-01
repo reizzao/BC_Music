@@ -6,7 +6,11 @@ Respiracao: [
 ]
 
 
-Emissão: [    ]
+Emissão: [  
+
+- Atitude. Animo
+Ânimo
+- Tipo Mascar
 
 Camadas_na_Frase : 
 
