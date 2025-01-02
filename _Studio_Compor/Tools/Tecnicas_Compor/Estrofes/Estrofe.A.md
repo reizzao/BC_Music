@@ -9,7 +9,10 @@ Estrofe : A :
   - faca-o se sentir como se esse sentimento é pra ele sobre ele,
 ]
 
-Gatilhos : [  
+Gatilhos : 
+falo_pra_Demosntrar_a_Empcao : [  
+O que fez ? 
+O que faz ?
   Hum ...
   Já que ...
   É que ...
