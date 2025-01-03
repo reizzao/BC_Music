@@ -8,13 +8,17 @@ Escala_Triste_Alegre :
 
 # GRAUS_FUNCOES_COMPOSICAO
 
-Iniciar_Tonico : [ I, VI ]
+Inicios
+Inicio_Tonico : [ I, VI ]
+Inicio_NaoTonico : [ VI. III ]
 
-Continuar_Firme : [  IV, I ]
-Continuar_Sofrido : [ II. III ]
-Continuar_Destacado : [ VI. III ]
+Continuacoes_Afasta
+Afasta_Tonico : [  IV, I ]
+Adasta_NaoTonico : [ II. III ]
 
-Parar_Normal : [ II, V, I ]
-Parar_Brusco : : [ Diminuto ]
-Parar_Suspense : : [ V ]
-Parar_Sofrido : : [ III ]
+Parar
+
+Parar_Tonico : [ II, V, I ]
+Parar_Brusco_NaoTonico : : [ Diminuto ]
+Parar_Suspense_Tonico : : [ V ]
+Parar_Sofrido_NaoTonico : : [ III ]
