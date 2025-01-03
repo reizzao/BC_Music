@@ -1,3 +1,10 @@
+
+Suno : 
+prompts_exemplos: [
+- tecno 2025 (https://suno.com/song/f41ae450-4798-464f-90f1-10e9d2f44228)
+
+]
+
 briga SUNO x Udio - Outubro 2024 ,
 No caso da justiça aí que tá acontecendo, Sony diz que Udio e Suno usaram músicas para treinar suas ias só para treinar igual como uma ia de imagens são treinadas para gerar Imagens para estudar porém as músicas que são geradas são totalmente originais
 
