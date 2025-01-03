@@ -20,7 +20,12 @@ O que faz ?
   Contar fatos pra alguém: ( Toda vez, Sempre, Quando, )
 - Dar ordem que mude algo,
 
+Use adjetivos: Eles tornam a letra mais rica e expressiva. Ex: "Seus olhos verdes, seu sorriso lindo..."
+ * Crie metáforas: Compare seus sentimentos a algo da natureza ou a um objeto. Ex: "Meu amor por você é como o mar, imenso e profundo."
+
 ]
+
+
 
 
 
