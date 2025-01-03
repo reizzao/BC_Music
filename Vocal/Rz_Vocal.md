@@ -5,7 +5,7 @@ Respiracao: [
 
 ]
 
-Afinacao. é igualar com a nota se ela está no grave ou agudo e fazer igual.
+Afinacao. é igualar com a nota se ela está no GRAVE ou AGUDO e a altura da região  e fazer igual. 
 
 
 Emissão: [  
