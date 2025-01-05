@@ -1,4 +1,5 @@
-# TEMAS
+# TEMAS 
+( Verdades, )
 >
 > Palavras Marcantes - use em [ refrão inicio ou final, inicios, ]
 
@@ -19,5 +20,7 @@
 ---
 
 # TRISTE
+
+A felicidade não dependa de ninguém 
 
 ---
