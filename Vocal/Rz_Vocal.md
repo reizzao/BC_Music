@@ -10,6 +10,8 @@ Afinacao. é igualar com a nota se ela está no GRAVE ou AGUDO e a altura da reg
 
 Emissão: [  
 
+- Direção: Principal : Ceu da Boca,
+
 - Atitude. Animo
 Ânimo
 - Tipo Mascar, voz continua sem pausar, suave, gentil 
