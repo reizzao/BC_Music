@@ -1,5 +1,0 @@
-Comprar curso de BeatMaker do Rafael 38.00 https://thejay.com.br/dozeroaosom/?utm_source=ig&utm_medium=Auto%20Tune&utm_campaign=CBO%20-%20Do%20Zero%20ao%20Som%20(16%2F05)&utm_content=Sem%20ei%20ei%20ei&utm_term=Instagram_Reels&utm_id=120208337116660658&fbclid=PAY2xjawGuP9hleHRuA2FlbQEwAGFkaWQBqxQwF3ayIgGmUKXIP4Gn-LyF6mszPgQB7mxXuIH4DGJ-1gJO0CnYxH4H4qC4CNzdrzhf_aem_eRxxnVapNGxR9u6OiIl7xw&fbclid=PAZXh0bgNhZW0BMABhZGlkAasUMBd2siIBplClyD-Bp_i8heprMz4EAe5sV7iB-AxiftYCTtAp2MR-B-KguAjc3a84Xw_aem_eRxxnVapNGxR9u6OiIl7xw
-
-Curso Bandlab : 98.00 :: com Aron Ivans https://www.gravacaodescomplicada.com/?utm_source=Facebook&utm_medium=Interesse&utm_campaign=Compra%2Bde%2BDados%2B-%2BP%25C3%25A1gina%2Bde%2Bvendas%2B%2528Convers%25C3%25A3o%2529%2B-%2BR%252445&utm_content=Interesse&utm_term=Facebook_Right_Column
-
-Curso Composição Infinita : 300.00 (https://pay.hotmart.com/Y91249364S?off=p6j4w4me&checkoutMode=10&bid=1734896511433&fbclid=PAY2xjawHVStxleHRuA2FlbQEwAGFkaWQBqxSIpcJsjQGmp_ryjC4Cdh6wLkdusL6P9PakLRT2DA7uDXTaLkfPNC2VZxiFy-0NkJwG_aem_Cxa_3y5sRRRRX2aYKyExtA)
