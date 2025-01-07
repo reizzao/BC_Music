@@ -16,16 +16,30 @@
 [ VERSE 1 ] [ Whispered, Harmonized, The voice always softer]
 [Comment: # Verse 1 - meta > Descreve a $Emocao_Central , Gatilhos { O que acontece?, } ]
 
-
+A gente tem que valorizar
+e pro alto estender a mão
+por ter um amor em meio a tantas ilusões
 
 
 [ VERSE 2 ] [ Whispered, Harmonized, The voice always softer]
 [Comment: # Verse 2 - meta > Esclarece Mostra Minha Conclusao da Anterior, Gatilhos > ( O que acho disso? , ) ]
 
 
+A papai do céu agradecer
+até pelo que não deu
+porque os seus planos
+foram melhores que o meu
+
+
 [ PRE-CHORUS] [ MUSICAL BALLAD, The voice gradually growing]
 
 [Comment: # Pre-chorus - meta: Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
+
+
+Já brigamos , voltamos
+Balançamos, Nem ligamos
+coisas de casais
+
 
 [Comment: # Pre-chorus EAI - meta: EAI do Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
 
@@ -33,21 +47,36 @@
 [BULDUP]
 [Comment: # finalPreChorus meta: Dica_Solucao > Gatilhos ( Frase Marcante,) ]
 
+Nosso amor é daqueles que as vezes balança mas não cai !
+
 
 [ CHORUS] [CATCHY AND EMOTIONAL, The voice conveying emotion ] [ REPEAT: 3 ] [OUTRO]
 
 [Comment: # Solucao_In > meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ] ]
 
+Ela tem a senha
+
 
 [Comment: # Solucao_In_2 > meta: EAI da solucao, Gatilhos ( , )]
+
+a chave e o segredo
 
 
 [Comment: # EAI_Baladinha_In,  meta: , Gatilhos ( , )  ]
 
+do meu coração
+
 
 [Comment: # EAI_Baladinha_Out,  meta: , Gatilhos ( , )  ]
 
+(do meu coração)
+
 [Comment: # Fecha_Marcante_Refrao, meta: , Gatilhos ( , )  ]
+
+Por isso eu amo
+amo tanto ...
+tanto, tanto
+sem moderação.
 
 
 [ Fade in, Fade out, end]
