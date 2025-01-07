@@ -9,6 +9,11 @@
 [Evento: Radio]
 <\DETALHES>
 
+[Comment: Tema_Titulo #  ]
+[Comment: Logica - # Triste ? NaoTriste ]
+[Comment: Emocao_Central #  ]
+[ Comment: GrandeSolucao  #  ]
+
 [INTRO] [SOFT PIANO AND ACOUSTIC GUITAR] [Create a soft and melancholic introduction to set the emotional tone of the song.]
 
 [Comment: # Frase_por_Sessao : 1 frase Conclusiva [ 1 SubJetivo, EAI  DeixaRima_Fechada + Conclusao_Rimando ]]

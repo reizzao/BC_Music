@@ -1,5 +1,13 @@
 # POLO UNICO METAS
 
+Dados_Musica :
+[Comment: Tema_Titulo #  ]
+[Comment: Logica - # Triste ? NaoTriste ]
+[Comment: Emocao_Central #  ]
+[ Comment: GrandeSolucao  #  ]
+
+---
+
 ## Pagode_Lento
 
 Meta_por_Sessao_Estrofe :
