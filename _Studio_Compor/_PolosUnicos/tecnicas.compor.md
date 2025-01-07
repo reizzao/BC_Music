@@ -1,5 +1,15 @@
 # TECNICAS COMPOR
 
+
+Formar_Frases :
+
+ Frase_Longa : "
+FRASE: longo_fato_Subjetivo_RimaDeixa + curto_OQUE_Concludivo_Rimou
+ "
+
+
+
+
 Rimas:
   Sistema_PrimeiraVogal: seguir o formato da _PRIMEIRISSIMA vogal inicial, se ela for fechada Padrao segue rimando com as do mesma abertura.
 
