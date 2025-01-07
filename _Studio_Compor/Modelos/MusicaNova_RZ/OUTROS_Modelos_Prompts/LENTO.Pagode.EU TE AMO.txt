@@ -1,5 +1,5 @@
-[STYLES : Pagode, Acoustic, Male Vocal, Romantic, Smooth Percussion, Samba Groove, Chord Progressions, Light Melody, time_signature: 4/4]
-[SINGER_EMOTION: Whispered, Harmonized]
+[STYLES : Pagode, Acoustic, Male Vocal, passionate, Smooth Percussion, Samba Groove, Chord Progressions, Light Melody, time_signature: 4/4]
+[SINGER_EMOTION: passionate]
 [CENTRAL_EMOTION: passionate]
 
 [Comment: EM CADA SESSAO, 2 frases , METRICA, pergunta 4 silabas, resposta 3 silabas,]
@@ -13,8 +13,8 @@
 
 [Comment: # Rimas entre Perguntas ]
 
-"1 ", " "
-"2 ", " "
+"Os contras vão ter que lutar", "mais um pouco"
+"dar o seu pior", "para nos separar um do outro."
 
 
 [VERSE 2]
@@ -22,8 +22,8 @@
 
 [Comment: # Rimas entre Respostas ]
 
-"1 ", " "
-"2 ", " "
+"inventaram tanta coisa", "já estavam contando vitória"
+"mas os páparázis de plantão", "não contavam com a reviravolta"
 
 
 [PRE-CHORUS] [MUSICAL BALLAD]
@@ -31,16 +31,16 @@
 
 [Comment: # Rimas entre Respostas ]
 
-"1 ", " "
-"2 ", " "
+"Invejoso é um grande fã", "que quér ter o que a gente tem"
+"Mas quem nos protege não dorme",  "mundão não é pra amadores"
 
 [BRIDGE]
 [KEY CHANGE WITH A MORE AGGRESSIVE RHYTHM] [Introduce a tonal shift to heighten the drama and variety.]
 
 [Comment: # Rimas entre Respostas ]
 
-"1 ", " "
-"2 ", " "
+"", ""
+"O destino desse nosso voo", "já estava programado meu bem"
 
 
 [CHORUS]

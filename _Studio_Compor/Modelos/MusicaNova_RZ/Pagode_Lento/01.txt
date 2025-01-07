@@ -1,0 +1,51 @@
+<DETALHES>
+[Estilo: pagofunk , pagode ,Melancholy, one male voice, brazilian portuguese ]
+[STYLES : Pagode, Acoustic, One Male Vocal, passionate, Smooth Percussion, Samba Groove, Chord Progressions, Light Melody, time_signature: 4/4]
+[SINGER_EMOTION: passionate]
+[CENTRAL_EMOTION: passionate]
+[The voice always softer, one male Emotional Melismatic and Melancholy voice, pt-br portuguese]
+[Tonalidade: foo, 4/4]
+[Referência:  Ferrugem, Pericles, Belo, Jeito Muleque, Gloria Groove, Sorriso Maroto ]
+[Evento: Radio]
+<\DETALHES>
+
+[INTRO] [SOFT PIANO AND ACOUSTIC GUITAR] [Create a soft and melancholic introduction to set the emotional tone of the song.]
+
+[Comment: # Frase_por_Sessao : 1 frase Conclusiva [ 1 SubJetivo, EAI  DeixaRima_Fechada + Conclusao_Rimando ]]
+
+[ VERSE 1 ] [ Whispered, Harmonized, The voice always softer]
+[Comment: # Verse 1 - meta > Descreve a $Emocao_Central , Gatilhos { O que acontece?, } ]
+
+
+[ VERSE 2 ] [ Whispered, Harmonized, The voice always softer]
+[Comment: # Verse 2 - meta > Esclarece Mostra Minha Conclusao da Anterior, Gatilhos > ( O que acho disso? , ) ]
+
+
+[ PRE-CHORUS] [ MUSICAL BALLAD, The voice gradually growing]
+
+[Comment: # Pre-chorus - meta: Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
+
+[Comment: # Pre-chorus EAI - meta: EAI do Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
+
+
+[BULDUP]
+[Comment: # finalPreChorus meta: Dica_Solucao > Gatilhos ( Frase Marcante,) ]
+
+
+[ CHORUS] [CATCHY AND EMOTIONAL, The voice conveying emotion ] [ REPEAT: 3 ] [OUTRO]
+
+[Comment: # Solucao_In > meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ] ]
+
+
+[Comment: # Solucao_In_2 > meta: EAI da solucao, Gatilhos ( , )]
+
+
+[Comment: # EAI_Baladinha_In,  meta: , Gatilhos ( , )  ]
+
+
+[Comment: # EAI_Baladinha_Out,  meta: , Gatilhos ( , )  ]
+
+[Comment: # Fecha_Marcante_Refrao, meta: , Gatilhos ( , )  ]
+
+
+[ Fade in, Fade out, end]

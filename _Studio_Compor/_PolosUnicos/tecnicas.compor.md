@@ -1,6 +1,6 @@
 # TECNICAS COMPOR
 
-Rimas: 
+Rimas:
   Sistema_PrimeiraVogal: seguir o formato da _PRIMEIRISSIMA vogal inicial, se ela for fechada Padrao segue rimando com as do mesma abertura.
 
 Vogais_Fechadas : [ e, o, u, m ]
@@ -73,11 +73,7 @@ EntrePartes : [ 122, 122 ]
 Estrofes :
 Estrofe_Compassada_Pausada: são Estrofes mais lentas, mais pausadas demora mais nas palavras, então por consequência tem menos palavras.
 
-Meta_cada_Estrofe :
-  Estrofe: A, meta: Contar o Caso:[ Problema, Alegria ]
-  Estrofe: B, meta: Analise do Caso:[ Problema, Alegria ]
-  Estrofe: C, meta: Melhorar Caso:[ Reação, Estado atual ]
-  Estrofe: R, meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ]
+
 
 
 
