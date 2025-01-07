@@ -1,6 +1,6 @@
 # GERADORES DE PROMPTS
 
-Gerador de magaprompt:
+Gerador de megaprompt:
 https://chatgpt.com/g/g-sUDxKZ7cy-megaprompt-para-o-suno
 
 Compositor virtual:

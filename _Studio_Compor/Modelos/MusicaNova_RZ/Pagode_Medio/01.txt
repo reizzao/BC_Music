@@ -1,0 +1,53 @@
+<DETALHES>
+[Comment: # exemplo pagodeira marvilla,]
+[STYLE: samba-inspired with funk groove]
+[SET_STYLE: "pagofunk, samba, pagode"]
+[SET_BPM: 95]
+[SET_INSTRUMENTS: "acoustic guitar, cavaquinho, tamborim, 808 drum"]
+[SET_MOOD: "upbeat, festive"]
+[GENERATE_MELODY: "samba-inspired with funk groove"]
+[APPLY_EFFECT: "reverb on vocals, slight compression on instruments"]
+<\DETALHES>
+
+[Comment: Tema_Titulo #  ]
+[Comment: Logica - # Triste ? NaoTriste ]
+[Comment: Emocao_Central #  ]
+[ Comment: GrandeSolucao  #  ]
+
+
+[Intro: cavaquinho, guitar, pandeiro, 808 drum ]
+
+[ Comment: # na $Emocao_Central eu...  ]
+[VERSE 1]
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+[ Comment: # O QUE CAUSOU  ]
+[CHORUS 1]
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+[ Comment: # COMO MELHORAR  ]
+[Pós-Refrão]
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+[ Comment: # EAI DA ANTERIOR  ]
+[VERSE 2]
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+[break]
+[Bridge, CHORUS 2]
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
