@@ -18,15 +18,15 @@
 
 [Comment: # Frase_por_Sessao : 1 frase Conclusiva [ 1 SubJetivo, EAI  DeixaRima_Fechada + Conclusao_Rimando ]]
 
-[ VERSE 1 ] [ Whispered, Harmonized, The voice always softer]
+[ VERSE 1 ] [ Whispered, Harmonized, The voice always softer, Soft instrumental with light beats, creating an immersive atmosphere.]
 [Comment: # Verse 1 - meta > Descreve a $Emocao_Central , Gatilhos { O que acontece?, } ]
 
 
-[ VERSE 2 ] [ Whispered, Harmonized, The voice always softer]
+[ VERSE 2 ] [ Develop the narrative by highlighting vulnerability and emotional depth, accompanied by cavaquinho and light rhythmic beats.]
 [Comment: # Verse 2 - meta > Esclarece Mostra Minha Conclusao da Anterior, Gatilhos > ( O que acho disso? , ) ]
 
 
-[ PRE-CHORUS] [ MUSICAL BALLAD, The voice gradually growing]
+[ PRE-CHORUS] [ MUSICAL BALLAD,Build intensity with layered harmonies and slightly faster percussion to lead into the chorus.]
 
 [Comment: # Pre-chorus - meta: Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
 
@@ -37,7 +37,7 @@
 [Comment: # finalPreChorus meta: Dica_Solucao > Gatilhos ( Frase Marcante,) ]
 
 
-[ CHORUS] [CATCHY AND EMOTIONAL, The voice conveying emotion ] [ REPEAT: 3 ] [OUTRO]
+[ CHORUS] [CATCHY AND EMOTIONAL, The voice conveying emotion, Create a catchy and heartfelt melody with vibrant instruments, including surdo and repique, to amplify the emotional connection. ] [ REPEAT: 3 ] [OUTRO]
 
 [Comment: # Solucao_In > meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ] ]
 
