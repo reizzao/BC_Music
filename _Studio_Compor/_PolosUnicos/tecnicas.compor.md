@@ -4,9 +4,11 @@
 Formar_Frases :
 
  Frase_Longa : "
-FRASE: longo_fato_Subjetivo_RimaDeixa + curto_OQUE_Concludivo_Rimou
+FRASE: longo_fato_Subjetivo_RimaDeixa + curto_OQUE_Conclusivo_Rimou
  "
-
+---
+"Frase_Fecha_Sessao : Curta , Marcante,  Sinto de Importante ! "
+--
 
 
 
