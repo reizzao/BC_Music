@@ -13,4 +13,7 @@ link : https://app.kirvano.com/lessons/2409759a-3ea4-42bf-9832-3d890ab228a6
 
 ---
 
-
+Aprenda Escrever Mudica com Rafa
+acesso (https://treinamentos.aprendaescrevermusica.com.br/)
+user : reizao1977@gmail.com 
+pass : Rz..30..@
