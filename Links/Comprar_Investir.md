@@ -2,6 +2,8 @@
 
 Ritmos Samba midi de Bateria da midtracker -> tutorial : (https://www.instagram.com/p/CzEalokPq68/)
 
+LoopsMy VS completao variis ritmos. zap: +55 18 99137-3977 , preco 100.00 completo ou 30.00 individual. Playlist: (https://youtube.com/playlist?list=PL582eajVkXnmoP1rV2Uvo2-jAygdbehCg&si=9N-9_zpF4PMyFj3R)
+
 
 
 talvez comprar packs de bateria : 37.00 (https://www.facebook.com/61554496677790/videos/909583510671279/?app=fbl)
