@@ -17,3 +17,7 @@ Aprenda Escrever Mudica com Rafa
 acesso (https://treinamentos.aprendaescrevermusica.com.br/)
 user : reizao1977@gmail.com 
 pass : Rz..30..@
+
+---
+
+NSO ESQUECER DOS CONTRATOS MUDICSIS QUE TENHO -- GUARDA-LOS
