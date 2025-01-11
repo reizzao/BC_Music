@@ -8,6 +8,8 @@ Estou igual formiga no pote de açúcar, torcendo pra acabar nunca
 
 dando a vida
 
+aqui seus olhos vão brilhar
+
 
 ---
 
