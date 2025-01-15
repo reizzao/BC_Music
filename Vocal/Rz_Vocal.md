@@ -1,3 +1,7 @@
+Preparos :
+- Estique os nervos do pescoço
+- Massagem os nervos e a Papada.
+
 Respiracao: [
 - Ao aspirar aspire pelo nariz também,  assim mandará mais volume pra barriga e se segurar sem respirar voltará com mais pressão.
 
@@ -20,6 +24,11 @@ INTERPRETACAO :
 Conceito : Acredite_no_que_Diz, transmita a fease, pra isso sustente o Ar já venha com ele no começo, ASIRE sempre no início, e tente cantar o compasso todo com o Mesmo Ar
 
 Forma_de_Interpretar : Sempre suave em falsete , não emitir voz de fala,
+
+---
+Pre_Emissao :
+
+- Deixe a Pspasa livre, levante mais o Queixo pra isso, é durante a emissão deixe a papada sempre livre.
 
 ---
 
