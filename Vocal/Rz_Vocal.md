@@ -38,6 +38,8 @@ Emissão: [
 
 - Manter_Conducao_Ritmo : Como se tivesse concordando com algo, com suaves ataques glotivos
 
+- A primeira nota o ataque é mais fraco, a segunda decide se desce ou sobe, por padrão ela primeiro desce, na sequência faz o contrário.
+
 - Corpo postura de valentão Maioral.
 - Narina forçada pra traz em direção a testa.
 - Impostar direcionar a voz para algo que faça sua captação na frente ex:[celular, microfone]
