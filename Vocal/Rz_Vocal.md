@@ -34,6 +34,14 @@ Pre_Emissao :
 
 Emissão: [  
 
+Acessos : 
+  Grave : fundo baixo da lingua
+  Agudo : Uvula cano farfanta livre
+
+Sequencia : 
+  Padrão: Grave - Agudo
+  Diferenciada : Agudo - Grave
+
 - Tipo Mascar, de inicio da uvula pea fora, voz continua sem pausar, suave, gentil 
 
 - Manter_Conducao_Ritmo : Como se tivesse concordando com algo, com suaves ataques glotivos
