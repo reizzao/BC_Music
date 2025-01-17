@@ -35,8 +35,11 @@ Pre_Emissao :
 Emissão: [  
 
 Acessos : 
-  Grave : fundo baixo da lingua
-  Agudo : Uvula cano farfanta livre
+
+  Grave : coloxar peso no  do meio pro fundo da língua.
+
+  Agudo : norjinho hain, levanta labio esquerdo e deixa vir direto da Uvula do cano da garfanta livre
+
 
 Sequencia : 
   Padrão: Grave - Agudo
