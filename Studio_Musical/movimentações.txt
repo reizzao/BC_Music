@@ -1,7 +1,10 @@
 
 na daw oa tempos marcados ex: 1, 2, 3, etc... são os compassos 
 
-signifixado: compasso são os delimitadores de passos, se a definição dele for 4/4 quer dizer que dentro de cada posso dar 4 passos.
+significados: 
+compasso : compasso são os delimitadores de passos, se a definição dele for 4/4 quer dizer que dentro de cada posso dar 4 passos.
+
+cada_passo: cada passo na partitura é chama-se Seminima.
 
 detalhes: casa nota ocupa 1 desses passos, a primeira é a forte tonica as outras são fracas, rodando entre os comandos a nota que se prolongar demorar mais será pra marcar o fim desse ciclo de compassos e assim mudará o acorde/ambiente.
 
