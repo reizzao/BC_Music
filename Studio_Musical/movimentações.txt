@@ -5,3 +5,8 @@ signifixado: compasso são os delimitadores de passos, se a definição dele for
 
 detalhes: casa nota ocupa 1 desses passos, a primeira é a forte tonica as outras são fracas, rodando entre os comandos a nota que se prolongar demorar mais será pra marcar o fim desse ciclo de compassos e assim mudará o acorde/ambiente.
 
+nota: cada nota é um oasso, um toque apenas, na daw representa apenas um quadrado.
+
+o conjunto de passos firma conjunto_melódicos, para marcar o final de cada conjunto a ultima nota prolongada mais.
+
+para não ficar sequência de tátátá a melodia. AA notas pra fornar um conjunto melodico decente precisam ter espaços entre elas de no minimo 2 passos, 2 passos formará uma Terça, e 5 passos uma Quinta.
