@@ -30,6 +30,8 @@ Pre_Emissao :
 
 - Deixe a Pspasa livre, levante mais o Queixo pra isso, é durante a emissão deixe a papada sempre livre.
 
+- Timbrar : encorpar_voz , Sinta tensione abaixo no fundo do nariz, pronuncie de ênfase nas vogais nos final de feases
+
 ---
 
 Emissão: [  
