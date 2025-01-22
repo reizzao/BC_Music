@@ -39,7 +39,7 @@
 # _1_
 # _2_
 
-[ chorus, outro, 2x] [expressive]
+[ chorus, 2x] [expressive]
 
 # _1_ ATAQUE
 # _2_

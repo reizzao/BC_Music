@@ -4,21 +4,21 @@
 [Comment: # -----------------------------]
 
 <DETAILS>
-[Comment: # Estilo: LENTO_PAGODE ]
-[ SET_STYLE: pagofunk , pagode , melancholic, one male voice , pt-br portuguese, delicate rhythmic pattern inspired by samba pop latino]
-
-[SET_BPM: 90 ]
-[SET_INSTRUMENTS: "acoustic guitar, piano, 808 drum"]
-[SET_MOOD: "melancholic"]
+[Comment: # Estilo: MEDIO_PAGODE ]
+[SET_STYLE: samba-inspired with funk groove, batida envolvente, sensual, Bateria, samba-reggae, pagode, funk melody , one male voice , pt-br portuguese ]
+[SET_BPM: 95 ]
+[SET_INSTRUMENTS: "acoustic guitar, cavaquinho, tamborim, 808 drum"]
+[SET_MOOD: "upbeat, festive"]
+[ The voice always softer ]
 [ compasso: "4/4" ]
 [ instrumental: "Voice, Guitar" ]
-[ voice : one male voice,The voice always softer, passionate ]
+[ voice : one male voice, excited ]
 <\DETAILS>
 
 [INTRO]
 " "
 
-[verse] [ Whispered, Harmonized, The voice always softer]
+[verse] [ Whispered, Harmonized]
 
 # _1_
 # _2_
@@ -39,7 +39,7 @@
 # _1_
 # _2_
 
-[ chorus, outro, 2x] [expressive]
+[ chorus, 2x] [expressive]
 
 # _1_ ATAQUE
 # _2_

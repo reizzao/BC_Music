@@ -1,0 +1,54 @@
+[Comment:  1 Olfato, 2 Visao, 3 Audicao, 4 Toque, 5 Paladar, 6 Movimento, 7 Corpo ]
+[Comment: Frase nas Sessoes _1_ > ACAO_CONCLUSIVA]
+[Comment: Frase nas Sessoes _2_ > EAI_CONCLUSIVO]
+[Comment: # -----------------------------]
+
+<DETAILS>
+[Comment: # Estilo: LENTO_PAGODE ]
+[ SET_STYLE: pagofunk , pagode , melancholic, one male voice , pt-br portuguese, delicate rhythmic pattern inspired by samba pop latino]
+
+[SET_BPM: 90 ]
+[SET_INSTRUMENTS: "acoustic guitar, piano, 808 drum"]
+[SET_MOOD: "melancholic"]
+[ compasso: "4/4" ]
+[ instrumental: "Voice, Guitar" ]
+[ voice : one male voice,The voice always softer, passionate ]
+<\DETAILS>
+
+[INTRO]
+" "
+
+[verse] [ Whispered, Harmonized, The voice always softer]
+
+# _1_
+# _2_
+
+[verse 2] [ Whispered, Harmonized, The voice always softer, Continue to complement the harmony and melody from the previous session with small, subtle changes. ]
+
+# _1_
+# _2_
+
+
+[ pre-chorus] [ musical ballad, The voice and melody gradually growing]
+
+# _1_
+# _2_
+
+[ bridge]
+
+# _1_
+# _2_
+
+[ chorus, 2x] [expressive]
+
+# _1_ ATAQUE
+# _2_
+
+# _1_ ACALMA
+# _2_
+
+[outro]
+# _1_ FECHA
+# _2_
+
+[ Fade in, Fade out, end]
