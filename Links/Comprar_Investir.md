@@ -1,5 +1,9 @@
 # Compras
 
+Ritmos
+
+-compra vs de Pagode do Paulera Monteiro : https://youtube.com/@estudiovsoficial?si=n-W7JzElKQEvl1We
+
 Ritmos Samba midi de Bateria da midtracker -> tutorial : (https://www.instagram.com/p/CzEalokPq68/)
 
 Fone particular : Fone Realfit f2 , preco: 40.00 shope
