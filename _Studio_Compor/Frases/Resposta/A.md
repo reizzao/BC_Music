@@ -18,7 +18,8 @@ chegamos no local da ocorrência
 # TRISTE
 prometeu nada entregou menos ainda
 
-
+As vezes é preciso ficar fora de área, porque
+Quem é disponível demais só ferra
 
 ---
 
