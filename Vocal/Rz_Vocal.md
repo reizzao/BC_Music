@@ -30,11 +30,15 @@ Pre_Emissao :
 
 - Postura : Imponente, oeito pra frente, ombro ora baixo, vai deixe a Papada livre, levante mais o Queixo.
 
-- Timbrar : encorpar_voz : use a mascara, Sinta tensione abaixo no fundo do nariz, pronuncie de ênfase nas vogais nos final de feases
+- Timbrar : encorpar_voz : use a mascara, Sinta tensione abaixo no fundo do nariz, pronuncie de ênfase nas vogais nos final de frases
 
 ---
 
 Emissão: [  
+
+Começos: timbrado atraz do nariz.
+
+Finais: Liberando, bafo Quente, variando com pouco ou muito ar
 
 Acessos : 
 
