@@ -2,7 +2,8 @@
 
 Ritmos
 
--compra vs de Pagode do Paulera Monteiro : https://youtube.com/@estudiovsoficial?si=n-W7JzElKQEvl1We
+-compra vs de Pagode do Paulera Monteiro :
+(https://www.instagram.com/estudiovspagodeesamba?igsh=NDV5M284aWk1Z3Zo) https://youtube.com/@estudiovsoficial?si=n-W7JzElKQEvl1We
 
 Ritmos Samba midi de Bateria da midtracker -> tutorial : (https://www.instagram.com/p/CzEalokPq68/)
 
