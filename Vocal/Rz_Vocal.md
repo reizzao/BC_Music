@@ -36,11 +36,11 @@ Pre_Emissao :
 
 Emissão: [  
 
-Comecos: Grave, igual tonica da triade, timbrado atraz do nariz.
+Comecos: som: Grave, sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
 
-Meio : Agudo, pulo leve, igual terça da tríade. 
+Meio : som: Agudo,sensacao: pulo leve, igual terça da tríade. 
 
-Finais: Grave, Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
+Finais: som: Grave,sensacao: Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
 
 Ordem_Sequencia_Frase_Inteiea : 1 GraveInicio,  2 AgudoMeio, 3 GraveFinal
 
