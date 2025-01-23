@@ -36,9 +36,9 @@ Pre_Emissao :
 
 Emissão: [  
 
-Começos: timbrado atraz do nariz.
+Começos: Medio_Agudo, timbrado atraz do nariz.
 
-Finais: Liberando, bafo Quente, variando com pouco ou muito ar
+Finais: Medio_Grave, Liberando, bafo Quente, variando com pouco ou muito ar
 
 Acessos : 
 
