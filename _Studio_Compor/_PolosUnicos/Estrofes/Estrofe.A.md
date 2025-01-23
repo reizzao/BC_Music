@@ -11,6 +11,8 @@ Estrofe : A :
 
 Gatilhos : 
 falo_pra_Demosntrar_a_Empcao : [  
+
+falar com alguém pelo fone ,
 O que fez ? 
 O que faz ?
   Hum ...
