@@ -36,9 +36,12 @@ Pre_Emissao :
 
 Emissão: [  
 
-Começos: Medio_Agudo, timbrado atraz do nariz.
+Comecos: Grave, timbrado atraz do nariz.
+Meio : Agudo
 
-Finais: Medio_Grave, Liberando, bafo Quente, variando com pouco ou muito ar
+Finais: Grave, Liberando, bafo Quente, variando com pouco ou muito ar
+
+Ordem_Sequencia_Frase_Inteiea : 1 GraveInicio,  2 AgudoMeio, 3 GraveFinal
 
 Acessos : 
 
