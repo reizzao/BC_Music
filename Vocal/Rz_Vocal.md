@@ -36,10 +36,11 @@ Pre_Emissao :
 
 Emissão: [  
 
-Comecos: Grave, timbrado atraz do nariz.
-Meio : Agudo
+Comecos: Grave, igual tonica da triade, timbrado atraz do nariz.
 
-Finais: Grave, Liberando, bafo Quente, variando com pouco ou muito ar
+Meio : Agudo, pulo leve, igual terça da tríade. 
+
+Finais: Grave, Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
 
 Ordem_Sequencia_Frase_Inteiea : 1 GraveInicio,  2 AgudoMeio, 3 GraveFinal
 
