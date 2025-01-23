@@ -4,10 +4,12 @@ Conceitos:
 
 TempoVerbal: PASSADO 
 
-Gatilhos : [
+Gatilhos : [    ]
+, Reflexão sobre o Anterior.
 - Explica o porque do atual Presente, falando algo do passado,
 
 - É claro que...,
+- Quantas vezes ...
 
 
 
