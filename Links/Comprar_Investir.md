@@ -2,6 +2,8 @@
 
 Ritmos
 
+- 500 loops de bateria em mp3 do ChickenStudio por 28.00 (https://www.instagram.com/chickenstudio.music?igsh=MWw5YnZndmFlcGp6Zw==) tutos : (https://youtu.be/-FDabn_wu2Q?si=vflod0-gkNY7y-h-)
+
 -compra vs de Pagode do Paulera Monteiro :
 (https://www.instagram.com/estudiovspagodeesamba?igsh=NDV5M284aWk1Z3Zo) https://youtube.com/@estudiovsoficial?si=n-W7JzElKQEvl1We
 
