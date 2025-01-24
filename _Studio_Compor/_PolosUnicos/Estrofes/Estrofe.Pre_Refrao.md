@@ -10,6 +10,7 @@ Gatilhos : [    ]
 
 - É claro que...,
 - Quantas vezes ...
+- Já que ,
 
 
 
