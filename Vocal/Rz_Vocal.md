@@ -36,11 +36,11 @@ Pre_Emissao :
 
 Emissão: [  
 
-Comecos: som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
+Comecos: embocadura: de O - Ar de Invocado - Tipo Scooby,  som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
 
-Meio : som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade. 
+Meio : embocadura: , som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade. 
 
-Finais: voz: verdadeira_falsa, som: Grave,sensacao: Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
+Finais: embocadura: ,voz: verdadeira_falsa, som: Grave,sensacao: Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
 
 Ordem_Sequencia_Frase_Inteiea : 1 GraveInicio,  2 AgudoMeio, 3 GraveFinal
 
