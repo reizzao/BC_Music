@@ -36,6 +36,12 @@ Pre_Emissao :
 
 Emissão: [  
 
+Direcionar_Ar_e_Som : direcione sempre pro Céu da Boca.
+
+Grave : obtenho do Ceu da Boca pra baixo guela.
+
+Agudo : obtenho do Ceu da Boca pra cima dentes.
+
 Importante: faça o Balanco_do_Barco para terminar.
 
 Comecos: embocadura: de O - Ar de Invocado - Tipo Scooby,  som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
