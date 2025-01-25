@@ -12,6 +12,8 @@ aqui seus olhos vão brilhar
 
 chegamos no local da ocorrência
 
+Eu dei a vida
+
 
 ---
 
