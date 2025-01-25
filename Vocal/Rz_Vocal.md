@@ -38,7 +38,8 @@ Emissão: [
 
 Comecos: embocadura: de O - Ar de Invocado - Tipo Scooby,  som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
 
-Meio : sessao: MudaChave gancho impacto pro agudo, embocadura: , som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade. 
+Meio : sessao: MudaChave gancho impacto pro agudo,
+recurso:Faça PAUSA SUPER RAPIDA pra pegar fôlego paea o Términos, embocadura: , som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade. 
 
 Finais: embocadura: Gentil ,voz: verdadeira_falsa, som: Grave,sensacao: Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
 
