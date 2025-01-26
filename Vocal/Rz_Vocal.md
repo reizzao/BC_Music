@@ -44,6 +44,8 @@ Agudo : obtenho do Ceu da Boca pra cima dentes.
 
 Importante: faça o Balanco_do_Barco para terminar.
 
+importantes: soltar pouco ar no início, controlar saída de ar a cada troca de registro.
+
 Comecos: embocadura: de O - Ar de Invocado - Tipo Scooby,  som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
 
 Meio : sessao: Balanco_do_Barco MudaChave gancho impacto pro agudo,
