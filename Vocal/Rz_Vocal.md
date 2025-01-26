@@ -33,10 +33,19 @@ Pre_Emissao :
 - Timbrar : encorpar_voz : use a mascara, Sinta tensione abaixo no fundo do nariz, pronuncie de ênfase nas vogais nos final de frases
 
 ---
+EMISSAO
 
 Emissão: [  
 
-Recurso : Pressurizar : abocanhar o Ar, segura-lo no início e soltar no fim.
+Recurso : [
+Pressurizar : abocanhar o Ar, 
+Nao abre muito a boca, 
+Umbigo pra dentro, ombros para baixo,
+Segura a saída de Ar no início e soltar no fim.
+tutorial : [
+by JanaPimenta https://www.instagram.com/reel/DFPpNQPM_nI/?igsh=cXhmNXAxdnIxM2p6 ,
+
+]
 
 Direcionar_Ar_e_Som : direcione sempre pro Céu da Boca.
 
