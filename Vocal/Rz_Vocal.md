@@ -36,6 +36,8 @@ Pre_Emissao :
 
 Emissão: [  
 
+Recurso : Pressurizar : abocanhar o Ar, segura-lo no início e soltar no fim.
+
 Direcionar_Ar_e_Som : direcione sempre pro Céu da Boca.
 
 Grave : obtenho do Ceu da Boca pra baixo guela.
