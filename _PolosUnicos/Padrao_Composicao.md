@@ -1,12 +1,19 @@
 # PADRAO COMPOSICAO
 
-Sinopse_Dados :
-  Tema_Titulo
-  Logica_Sentimental - Triste ? NaoTriste
-  Emocao_Central
-  Destino_da_Solicitacao
-  Grande_Solucao
-  Praque_da_Grande_Solucao
+Composicao_Dados :
+  DirecoesTematicas :
+    Tema_Titulo
+    Logica_Sentimental - Triste ? NaoTriste
+    Emocao_Central
+    Destino_da_Solicitacao
+
+  Sinopse :
+    O_Grande_Fato_Que_Esta_Acontecendo
+    Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
+    O_Que_Houve_Pra_Tudo_Estar_Assim
+    O_Que_Precisa_Pra_Melhorar_O_Cenario
+    A_Grande_Solucao
+    PraQue_da_Grande_Solucao
 
 
 
@@ -23,7 +30,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : [ O_Que_Esta_Acontecendo em relacao a Emocao_Central,]
+Objetivo_Descrever : [ $O_Grande_Fato_Que_Esta_Acontecendo em relacao a $Emocao_Central,]
 
 Musical :
   Andamento :
@@ -68,7 +75,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : latar_O_Que_Eu_Quero_Sobre_O_que_Esta_Acontecendo
+Objetivo_Descrever : $Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
 
 Musical :
   Andamento :
@@ -92,7 +99,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : Que_Houve_Pra_Tudo_Estar_Assim
+Objetivo_Descrever : $O_Que_Houve_Pra_Tudo_Estar_Assim
 
 Musical :
   Andamento :
@@ -144,7 +151,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : O_Que_Precisa_Pra_Melhorar_O_Cenario
+Objetivo_Descrever : $O_Que_Precisa_Pra_Melhorar_O_Cenario
 
 Musical :
   Andamento :
@@ -170,7 +177,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : A_Grande_Solucao
+Objetivo_Descrever : $A_Grande_Solucao
 
 Musical :
   Andamento :
@@ -190,7 +197,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : + $Praque_da_Grande_Solucao
+Objetivo_Descrever : + $PraQue_da_Grande_Solucao
 
 Musical :
   Andamento :
