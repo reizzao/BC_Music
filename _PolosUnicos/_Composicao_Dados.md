@@ -1,4 +1,4 @@
-# PADRAO COMPOSICAO
+# COMPOSICAO DADOS
 
 Composicao_Dados :
   DirecoesTematicas :
