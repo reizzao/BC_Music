@@ -1,10 +1,13 @@
 # PADRAO COMPOSICAO
 
-Dados_Musica :
-[Comment: Tema_Titulo #  ]
-[Comment: Logica - # Triste ? NaoTriste ]
-[Comment: Emocao_Central #  ]
-[ Comment: GrandeSolucao  #  ]
+Sinopse_Dados :
+  Tema_Titulo
+  Logica_Sentimental - Triste ? NaoTriste
+  Emocao_Central
+  Destino_da_Solicitacao
+  Grande_Solucao
+  Praque_da_Grande_Solucao
+
 
 
 
@@ -12,11 +15,29 @@ Dados_Musica :
 
 ---
 
-### A
+### Estrofe : A
 
-meta > Descreve a $Emocao_Central , Gatilhos { O que acontece?, }
+Nome_Formal :
 
-Estrofe : A :
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : [ O_Que_Esta_Acontecendo em relacao a Emocao_Central,]
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+
+Objetivo_Descrever:  a $Emocao_Central
+
+Gatilhos { O que acontece?, }
+
   Conceito: [
   - tempoVerbal: fale sobre. o presente, o momento atual
   - é a Abordagem,o que da sinais do Tema, o que leva ao tema, sem ficar falando do tema só sinais, mostre ao ouvinte o mesma sensação do Sentimento_Emocao_Central definido,
@@ -39,20 +60,54 @@ Use adjetivos: Eles tornam a letra mais rica e expressiva. Ex: "Seus olhos verde
 
 ---
 
-### B
+### Estrofe : B
+
+Nome_Formal :
+
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : latar_O_Que_Eu_Quero_Sobre_O_que_Esta_Acontecendo
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>>
 
  meta > Esclarece Mostra Minha Conclusao da Anterior, Gatilhos > ( O que acho disso? , )
 
 ---
 
-### C
+### Estrofe : C
 
-Apelido : Pre-Refrao
+Nome_Formal : Pre-Refrao
 
- Estrofe: C,
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : Que_Houve_Pra_Tudo_Estar_Assim
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>>
+
+
   Pre-chorus - meta: Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  )
 
-  [Comment: # Pre-chorus EAI - meta: EAI do Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
+   # Pre-chorus EAI - meta: EAI do Como ou Porque do EstadoAtual, Gatilhos > ( Ou o que levou ai Estado Atual , Chamando Atencao, Dramatico  ) ]
 
   finalPreChorus meta: Dica_Solucao > Gatilhos ( Frase Marcante,) ]
 
@@ -81,15 +136,93 @@ notas : notas tensas (menor, com setima, diminuto) oposto das partes anteriores
 
 ---
 
-### D
+### Estrofe : D
 
-Apelido : PONTE , BRIDGE
+Nome_Formal : Ponte, Ponte-Refrao
+
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : O_Que_Precisa_Pra_Melhorar_O_Cenario
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>>
+
 
 Frase de impacto que deixa no ar Uma DEIXA_pra_grande_solucao
 
 ---
 
-### E_REFRAO_IN
+
+### Estrofe : REFRAO_IN
+
+Nome_Formal :
+
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : A_Grande_Solucao
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>>
+
+### Estrofe : REFRAO_OUT
+
+Nome_Formal :
+
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever : + $Praque_da_Grande_Solucao
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>>
+
+### Estrofe : OUTRO_OPCIONAL
+
+Nome_Formal :
+
+Conceito :
+
+Tempo_Verbal :
+
+Objetivo_Descrever :
+
+Musical :
+  Andamento :
+  Melodico :
+
+Gatilhos : [
+
+]
+
+>>>> -- ARRUMAR PRO REFRAO ---
+
+
 
 Estrofe: Refrao, meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ]
 
