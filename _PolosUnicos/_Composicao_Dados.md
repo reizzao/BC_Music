@@ -15,6 +15,13 @@ Composicao_Dados :
     A_Grande_Solucao
     PraQue_da_Grande_Solucao
 
+  Musical :
+    Estilo_Vogal :
+      Estilo_Vogal_Aberta = [ A, E ]
+      Estilo_Vogal_Fechada = [ I, O, U ]
+
+    VogalFinal : v1 = "Estilo_Vogal_Aberta", v2 = "Estilo_Vogal_Fechada", v3 = "Estilo_Vogal_Fechada[1]"
+
 ---
 
 ## ESTROFES
@@ -37,6 +44,7 @@ Musical :
   Andamento : Compassado Lento
   Melodico :
 
+
 Gatilhos : [
 O Grande problema é que,
 falar com alguém pelo fone ,
@@ -53,12 +61,15 @@ Quando,
 Dar ordem que mude algo,
 ]
 
+Frase_1 : VogalFinal: v1 , Detalhes_Vogais: alterna inicio Estilo_Vogal_Aberta - termina em Estilo_Vogal_2
+Frase_2 : VogalFinal: v2 , Detalhes_Vogais:
+
 
 ---
 
 ### Estrofe : Sessao_B
 
-Nome_Formal : Verso 2
+Nome_Formal : Verso 2 Hook
 
 Conceito :
 
@@ -67,13 +78,17 @@ Tempo_Verbal : Presente
 Objetivo_Descrever : $Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
 
 Musical :
-  Andamento :
+  Andamento : Baladinha suave de complemneto da parte A,
   Melodico : O mesmo da sessao anterior, pode mudar a ultima nota para passagem pra outra sessao.
+  VogalFinal:
+
 
 Gatilhos : [
 O que acho disso?,
 ]
 
+Frase_1 : VogalFinal: v1 , Detalhes_Vogais: Auto Rimas curtas
+Frase_2 : VogalFinal: v1 , Detalhes_Vogais: Auto Rimas curtas
 
 ---
 
@@ -91,6 +106,7 @@ Musical :
   Andamento :
   Melodico : [ Dramatico, Suspense, notas tensas (menor, com setima, diminuto) oposto das partes anteriores ]
 
+
 Gatilhos : [
 Como ou Porque do EstadoAtual,
 o que levou ai Estado Atual , Chamando Atencao,
@@ -101,6 +117,9 @@ Já que ,
 
 ]
 
+Frase_1 : VogalFinal: v2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+
+Frase_2 : VogalFinal: v2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
 ---
 
@@ -117,6 +136,7 @@ Objetivo_Descrever : $O_Que_Precisa_Pra_Melhorar_O_Cenario
 Musical :
   Andamento :
   Melodico :
+  VogalFinal:
 
 Gatilhos : [
 Frase Marcante,
@@ -124,6 +144,9 @@ O que fazer nesse Presente pensando pról do Futuro
 
 ]
 
+Frase_1 : VogalFinal: v3 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+
+Frase_2 : VogalFinal: v3 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
 ---
 
@@ -141,7 +164,7 @@ Objetivo_Descrever : $A_Grande_Solucao
 Musical :
   Andamento :
   Melodico :
-
+  VogalFinal:
 Gatilhos : [
 
 ]
@@ -160,6 +183,7 @@ Objetivo_Descrever : + $PraQue_da_Grande_Solucao
 Musical :
   Andamento :
   Melodico :
+  VogalFinal:
 
 Gatilhos : [
 
@@ -179,6 +203,7 @@ Objetivo_Descrever :
 Musical :
   Andamento :
   Melodico :
+  VogalFinal:
 
 Gatilhos : [
 
