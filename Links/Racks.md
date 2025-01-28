@@ -18,5 +18,5 @@ FL Studio crackeado :contato zap : 11 93951-1034 -Senha Descompactacao: 123
  tuto instalacao: https://drive.google.com/file/d/1FGG-W-Ki6v8wje8fJL1uf3Q_q8xImLxU/view
  liberado: reizao1977@gmail.com
 
-Cursos Geatis : https://downloadcursos.top/curso-de-canto-alem-da-voz/
+Cursos Gratis : Vocal Gratis https://downloadcursos.top/curso-de-canto-alem-da-voz/
 
