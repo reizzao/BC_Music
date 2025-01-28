@@ -14,6 +14,8 @@ chegamos no local da ocorrência
 
 Eu dei a vida
 
+* Fica a dica
+
 
 ---
 
