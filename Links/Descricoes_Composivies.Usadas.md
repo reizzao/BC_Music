@@ -34,6 +34,17 @@
 ---
 #reizao_jr #composicao #disponivelparagravacao  #musicanova #reizao #musica #musicanova #sucesso #pop #samba #pagode #mpb #musica #dilsinho #dilsinhooficial #pericles #ferrugem #ferrugemoficial #belo #prateado #brunocardoso #menosemais #gloriagroove #mumuzinhooficial #ludmilla #gruponossaonda #grupopretensao #exaltasamba #thiaguinho #tardezinha #brunomars #sorrisomaroto #compositor 
 --- 
+
+#Composicao : OBRA DO DESTINO    
+#Compositor: @Reizao_Jr
+
+* Liberações no Site : digite no seu navegador : sites.google.com/view/reizaomusic 
+
+• Arquivo Mp3 + Dados acesse : ( drive.google.com/drive/folders/16RpjylyAmkBFtujo08xWODYxOW8NbvUh )
+
+---
+#reizao_jr #composicao #disponivelparagravacao  #musicanova #reizao #musica #musicanova #sucesso #pop #samba #pagode #mpb #musica #dilsinho #dilsinhooficial #pericles #ferrugem #ferrugemoficial #belo #prateado #brunocardoso #menosemais #gloriagroove #mumuzinhooficial #ludmilla #gruponossaonda #grupopretensao #exaltasamba #thiaguinho #tardezinha #brunomars #sorrisomaroto #compositor 
+--- 
 ---
 
 ---
