@@ -14,4 +14,14 @@
 
 , Na gangorra se o acorde for Maior inicia no Grace --  se for Menor inicia no Agudo.
 
+---
 
+Partes:
+ Entrada_Inicial : Voz_Peito
+ Final_Inicial : enfeite_Vibrato
+
+Entrada_Alta : Falsete
+Final_Alta : enfeite_Melisma
+ 
+
+---
