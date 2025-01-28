@@ -8,6 +8,7 @@
 * vai achando que a vida é um morango
 * eu tô rindo mais é sério
 * Viver é diferente de estar vivo
+* Quem é de verdade não agrada todo mundo
 
 
 ---
