@@ -17,10 +17,15 @@
 ---
 
 Partes:
+
+Regiao_Calma :
  Entrada_Inicial : Voz_Peito
+ Transicao: transicao_Iodel
  Final_Inicial : enfeite_Vibrato
 
+Regiao_Tensa :
 Entrada_Alta : Falsete
+Transicao: transicao_Iodel
 Final_Alta : enfeite_Melisma
  
 
