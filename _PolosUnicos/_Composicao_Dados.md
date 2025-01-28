@@ -12,15 +12,26 @@ Composicao_Dados :
     Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
     O_Que_Houve_Pra_Tudo_Estar_Assim
     O_Que_Precisa_Pra_Melhorar_O_Cenario
-    A_Grande_Solucao
-    PraQue_da_Grande_Solucao
+    A_Grande_Solucao_Pro_Futuro
+    PraQue_da_Grande_Solucao_Pro_Futuro
 
-  Musical :
-    Estilo_Vogal :
+  Vogais :
+    Estilo_Vogal_Disponiveis :
       Estilo_Vogal_Aberta = [ A, E ]
       Estilo_Vogal_Fechada = [ I, O, U ]
 
-    VogalFinal : v1 = "Estilo_Vogal_Aberta", v2 = "Estilo_Vogal_Fechada", v3 = "Estilo_Vogal_Fechada[1]"
+  Config_VogalFinal :
+      vA1 = "Estilo_Vogal_Aberta",
+      vF1 = "Estilo_Vogal_Fechada",
+      vF2 = "Estilo_Vogal_Fechada[1]"
+      vC = "Estilo_Vogal_Aberta"
+
+  Vogais_Escolhidas :
+    vA1 = "A",
+    vF1 = "I",
+    vF2 = "O",
+    vC = "A"
+
 
 ---
 
@@ -62,15 +73,15 @@ Quando,
 Dar ordem que mude algo,
 ]
 
-FrasesFrase: F1, VogalFinal: v1 , Detalhes_Vogais: alterna inicio Estilo_Vogal_Aberta - termina em Estilo_Vogal_2
-Frase: F2, VogalFinal: v2 , Detalhes_Vogais:
+FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: alterna inicio Estilo_Vogal_Aberta - termina em Estilo_Vogal_F1
+Frase: FF1, Detalhes_Frase: , VogalFinal: vF1 , Detalhes_Vogais:
 
 
 ---
 
 ### Estrofe : Sessao_B
 
-Nome_Formal : Verso 2 Hook
+Nome_Formal : Verso F1 Hook
 
 Conceito :
 
@@ -87,8 +98,8 @@ Gatilhos : [
 O que acho disso?,
 ]
 
-FrasesFrase: F1, VogalFinal: v1 , Detalhes_Vogais: Auto Rimas curtas
-Frase: F2, VogalFinal: v1 , Detalhes_Vogais: Auto Rimas curtas
+FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curtas
+Frase: FF1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curtas
 
 ---
 
@@ -117,9 +128,9 @@ Já que ,
 
 ]
 
-FrasesFrase: F1, VogalFinal: v2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vF1 || vC , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
-Frase: F2, VogalFinal: v2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+Frase: FF1, Detalhes_Frase: , VogalFinal: vF1  || vC , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
 ---
 
@@ -143,9 +154,9 @@ O que fazer nesse Presente pensando pról do Futuro
 
 ]
 
-FrasesFrase: F1, VogalFinal: v3 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
-Frase: F2, VogalFinal: v3 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
+Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
 ---
 
@@ -154,23 +165,29 @@ Frase: F2, VogalFinal: v3 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Est
 
 Nome_Formal :
 
-Conceito :
+Conceito : Ouvinte tem que querer contar com 1 dedo levantado pro alto, tem que funcionar sozinho independe outras partes, sem gerar dúvidas. Tem que funcionar como um Loop do Começo combinando com o Fim e voltar em Loop mesmao sentido de historia
 
 Tempo_Verbal :
 
-Objetivo_Descrever : $A_Grande_Solucao
+Objetivo_Descrever : $A_Grande_Solucao_Pro_Futuro
 
 Musical :
   Andamento :
-  Melodico :
+  Melodico : [ martelo,  em loop pra viciar, k final tem que chamar o começode novo pra entrar em loop, ]
 
 Gatilhos : [
-
+  Solução do tema,
+  Atitude,
+  repetições de Silabas Poéticas,
+  Tem (mos) que ?...,
+  Precisa (mos) ?...,
+  É que ...,
+  Um Pedido...,
 ]
 
-FrasesFrase: F1, VogalFinal:  , Detalhes_Vogais:
+FrasesFrase: F1, Detalhes_Frase: [grito de solucao_atitude], VogalFinal:  vA1, Detalhes_Vogais:
 
-Frase: F2, VogalFinal:  , Detalhes_Vogais:
+Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 
 
 ### Estrofe : Sessao_REFRAO_OUT
@@ -181,7 +198,7 @@ Conceito :
 
 Tempo_Verbal :
 
-Objetivo_Descrever : + $PraQue_da_Grande_Solucao
+Objetivo_Descrever : + $PraQue_da_Grande_Solucao_Pro_Futuro
 
 Musical :
   Andamento :
@@ -191,9 +208,9 @@ Gatilhos : [
 
 ]
 
-FrasesFrase: F1, VogalFinal:  , Detalhes_Vogais:
+FrasesFrase: F1, Detalhes_Frase: [ baladinha, abaixa a levada, cadência da espaço mais cadenciado pro cantor descansar ], VogalFinal: vF2 , Detalhes_Vogais:
 
-Frase: F2, VogalFinal:  , Detalhes_Vogais:
+Frase: FF1, Detalhes_Frase: , VogalFinal:  vF2, Detalhes_Vogais:
 
 
 ### Estrofe : Sessao_OUTRO_OPCIONAL
@@ -216,53 +233,10 @@ Gatilhos : [
 ]
 
 Frases
-Frase: F1, VogalFinal:  , Detalhes_Vogais:
+Frase: F1
+Detalhes_Frase:  ,  VogalFinal:  , Detalhes_Vogais:
 
-Frase: F2, VogalFinal:  , Detalhes_Vogais:
-
----
-
-
->>>> -- ARRUMAR PRO REFRAO ---
-
-
-
-Estrofe: Refrao, meta: Solucionar o Caso:[ O que Resolve o Caso, Atitude, Futuro será ]
-
-  Solucao_In  ,meta: , Gatilhos ( , )
-  Solucao_In_2 ,meta: , Gatilhos ( , )
-
-  EAI_Baladinha_In ,meta: , Gatilhos ( , )
-  EAI_Baladinha_Out ,meta: , Gatilhos ( , )
-
-  Fecha_Marcante_Refrao ,meta: , Gatilhos ( , )
-
-
-conceito: Ouvinte tem que querer contar com 1 dedo levantado pto alto, tem que funcionar sozinho indepede outras partes, sem gerar dúvidas.
-
-Gatilhos: [
-  Solução do tema,
-  Atitude,
-  repetições de Silabas Poéticas,
-  Tem (mos) que ?...
-  Precisa (mos) ?...
-  É que ...
-  Um Pedido...
-
-]
-
-construção: {
-
- linha_um : grito de solucao_atitude
-
- linha_dois : complementa de forma curta a linha anterior
-
- linha_tres : baladinha, abaixa a levada, cadência da espaço mais cadenciado pro cantor descansar
-
-ultima_linha : é o Tema_Sacada_Declaracao_Final_Que_Chama_SolucaoDeVolta
-
-}
-
-melodias: [  martelo,  em loop pra viciar, k final tem que chamar o começode novo pra entrar em loop, ]
+Frase: FF1, Detalhes_Frase: , VogalFinal:  , Detalhes_Vogais:
 
 ---
+
