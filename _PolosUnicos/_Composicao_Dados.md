@@ -39,6 +39,7 @@ Musical :
 
 Gatilhos : [
 O Grande problema é que,
+O que a Personagem é .. cheia de manias...,
 falar com alguém pelo fone ,
 O que fez ?,
 O que faz ?,
