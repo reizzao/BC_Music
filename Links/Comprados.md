@@ -1,5 +1,7 @@
 # COMPRADOS
 
+Baixar : livraria loop kontact do Caixias : https://youtu.be/tXtg1F6x0Vw?si=EmzaX7kHspgEV7N6
+
 Curso completo FL , by Eduzz Tecnologia ,perfil: @eusouojuan,  
 user: rzjprogramador@gmail.com - pass: R..30..@
 acessos : 
