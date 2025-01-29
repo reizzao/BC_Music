@@ -1,9 +1,7 @@
 Treinos
   Diarios
  
- Todos : (https://youtube.com/playlist?list=PLB6LmtBpWYEGtgnoClJ72DhIFwUKyeGGJ&si=5yQu91VXlyQXcFRq)
-
-Um : Molde_Respiratorio_Com_Emissao : (https://youtube.com/shorts/UBaUOLEUBQQ?si=g8yPXupreS7TpYOh)
+Um : Molde_Respiratorio_Com_Emissao
 
 Dois : Bexiga : Pro: AperfeicoaRespiracao
 
