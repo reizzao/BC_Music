@@ -10,13 +10,15 @@ ModoDeFonacao :
  Modo_Neutro : É O Soproso mais firme sem liberar Ar
 Modo_Fluido : É O Agudo de cabeca
 
+Trandicao_Entre_Modos : use o BafoQuente e Menos Volume.
+
 
 
 Passos : Padrão 1 nota, 3° nota se saltar alto salta pra 5°
 
-QuebraVocal : só tem quando muda de um ModoDeFonacao pto outro.
+QuebraVocal : só tem quando muda de um ModoDeFonacao pro outro.
 
-Anti_Quebra : Estilo BossaNova , Se cantar com a voz Natural e abaixando volume nos agudos não quebra.
+Anti_Quebra : Nao colocar volume + Usar BafoQuente na Transicao ou >> Estilo BossaNova , Se cantar com a voz Natural e abaixando volume nos agudos não quebra.
 
 ===
 
