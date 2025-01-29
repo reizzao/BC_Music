@@ -1,9 +1,16 @@
-Som : Grave , acesso : Som DBAN , volume: medio
-Som : Agudo , acesso : BixaFanha, volume: baixo
+CONFIGURACOES
+
+Natural_da_Voz :
+  Som : Grave , acesso : Som DBAN , volume: alto
+  Som : Agudo , acesso : BixaFanha, volume: baixo
+  Som : Medio , acesso : Nem Grave Nem Agudo , volume: medio
 
 Passos : Padrão 1 nota, 3° nota se saltar alto salta pra 5°
 
-Conducao_Normal : Nem o Grave Nem o Agudo - Meio Termo, só usar a Embocaduea do Geave.
+===
+
+EMITINDO :
+  Conducao_Normal : Som : Medio
 
 
 
