@@ -1,5 +1,13 @@
 CONFIGURACOES
 
+Respiracao : 
+  Um : Peito SuperMan Aberto, sente a dividoria no meio.
+  Dois : Empurra Umbigo pra dentro das Costas
+
+  Três : Aspira
+
+---
+
 Natural_da_Voz :
   Som : Grave , acesso : Som DBAN , volume: alto
   Som : Agudo , acesso : BixaFanha, volume: baixo
