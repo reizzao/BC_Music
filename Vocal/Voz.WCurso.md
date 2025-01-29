@@ -7,6 +7,8 @@ Natural_da_Voz :
 
 Passos : Padrão 1 nota, 3° nota se saltar alto salta pra 5°
 
+Anti_Quebra : Estilo BossaNova , Se cantar com a voz Natural e abaixando volume nos agudos não quebra.
+
 ===
 
 EMITINDO :
