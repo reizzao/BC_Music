@@ -10,7 +10,7 @@ ModoDeFonacao :
  Modo_Neutro : É O Soproso mais firme sem liberar Ar
 Modo_Fluido : É O Agudo de cabeca
 
-Trandicao_Entre_Modos : use o BafoQuente e Menos Volume.
+Trandicao_Entre_Modos : use o BafoQuente em todo fluxo / frase e Menos Volume, pode manter a altura da nota normal que pede. mas o volume abaixa.
 
 
 
