@@ -5,7 +5,16 @@ Natural_da_Voz :
   Som : Agudo , acesso : BixaFanha, volume: baixo
   Som : Medio , acesso : Nem Grave Nem Agudo , volume: medio
 
+ModoDeFonacao :
+ Modo_Soproso : Liberando muito ar
+ Modo_Neutro : É O Soproso mais firme sem liberar Ar
+Modo_Fluido : É O Agudo de cabeca
+
+
+
 Passos : Padrão 1 nota, 3° nota se saltar alto salta pra 5°
+
+QuebraVocal : só tem quando muda de um ModoDeFonacao pto outro.
 
 Anti_Quebra : Estilo BossaNova , Se cantar com a voz Natural e abaixando volume nos agudos não quebra.
 
