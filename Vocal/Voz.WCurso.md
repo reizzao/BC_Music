@@ -12,9 +12,12 @@ Anti_Quebra : Estilo BossaNova , Se cantar com a voz Natural e abaixando volume 
 ===
 
 EMITINDO :
+
+ Nas_Pausas : 1° Engole_Cuspe e 2° Aspira
+
   Conducao_Normal : Som : Medio
 
-
+===
 
 ==== MEU ERROS E DUVIDAS ===
 
