@@ -1,0 +1,13 @@
+// 2 - Interno: O Cli precisa usar algum recurso e pra isso criamos uma função
+function RecursoCli (dep) {
+  return `Ola ${dep.dep1}`
+}
+
+// 3 - Externo: Ofertamos ao Cli uma porta de entrada um objeto para ele usar o Recurso.
+const Request = {
+  dep1 : "Rei1"
+}
+
+
+// 1 - Interno : Testando o Recurso Ofertado.
+console.log( RecursoCli( Request ) );
