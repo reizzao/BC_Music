@@ -2,13 +2,15 @@ CONFIGURACOES
 
 Respiracao : 
 
-  Um : Peito SuperMan Aberto, sente a dividoria no meio.
+  Postura : 
+    Um : Peito SuperMan Aberto, sente a dividoria no meio.
 
-  Dois : Empurra Umbigo pra dentro das Costas
+    Dois : Empurra Umbigo pra dentro das Costas
 
-  Três : Abre superior dos bracos pra sentir costela expandir, pode sentir os 2 osdos das costelas querendo se unir.
+    Três : Abre superior dos bracos pra sentir costela expandir, pode sentir os 2 osdos das costelas querendo se unir.
 
-  Quatro : Aspira
+  Quatro : Aspira : Puxa o ar como se fosse relaxar  entrar por Cima entra pela Boca e Nariz até o céu da boca e desce e volta como voz. 
+obs: tocando no céu da boca o ar , vem mais pressão. 
 
 ---
 
