@@ -9,8 +9,8 @@ Respiracao :
 
     Três : Abre superior dos bracos pra sentir costela expandir, pode sentir os 2 osdos das costelas querendo se unir.
 
-  Quatro : Aspira : Puxa o ar como se fosse relaxar  entrar por Cima entra pela Boca e Nariz até o céu da boca e desce e volta como voz. 
-obs: tocando no céu da boca o ar , vem mais pressão. 
+  Quatro : Aspirar : Puxa o ar como se fosse relaxar  entrar por Cima entra pela Boca e Nariz até o céu da boca e desce e volta como voz. 
+  Sentir : o Arzinho no céu da boca é o #ouro.
 
 ---
 
