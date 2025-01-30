@@ -42,6 +42,8 @@ EMITINDO :
 
   Conducao_Normal : Som : Medio
 
+  Movimentar_Notas : Faça as notas na PaAPADA , imagine ela como as notas do piano ou violão.
+
 ===
 
 ==== MEU ERROS E DUVIDAS ===
