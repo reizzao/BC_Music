@@ -2,7 +2,7 @@
 
 // 2 - Interno: O Cli precisa usar algum recurso e pra isso criamos uma função
 function RecursoCli (dep) {
-  return "Olá" + " " + DepRecursoCli (dep. dep1)
+  return mtRecursosCliOptions(dep.dep1)
 }
 
 // 1 - Externo: Ofertamos ao Cli uma porta de entrada um objeto para ele usar o Recurso.
@@ -10,27 +10,23 @@ const Request = {
   dep1 : "Rei1"
 }
 
-// 3 - Interno : Toda dependencia pode ser uma função para poder ter inteligência. é será retornada no RecursoCli que fala com o Cli.
-function DepRecursoCli(d) {
-  return d
-}
-
-// 4 - Interno: A Operação di RecursoCli pode ser um objeto de funções para decidiria o que retornar ao Cli abrindo leque para várias funções.
-function OperaciesDisponiveisRecursoCli (d) {
-  return objRecursosCliOptions
-}
-
-// 5 - Interno : uma funcao que retorna um objeto de funções para o retorno do Recurso
-function fnRecursosCliOptions () {
-  return {
-    op1: Op_Ola(d)
-    }
-}
-
-// 6 - Interno : função para dar opções de operações.
-function Op_Ola (d) {
+// 3 - interno : Onde seria uma função pode ser um método de uma classe , evitaria hell de funções e abriria opções de operações.
+class DepRecursoCliClass {
+  Op_Ola (d) {
     return `Ola ${d}`
   }
+
+  Op_ComoVai (d) {
+    return `Ola ${d}`
+  }
+
+}
+
+// 4 - Interno : uma funcao que retorna um objeto de funções para o retorno do Recurso
+function mtRecursosCliOptions (d) {
+  const recurso1 = new DepRecursoCliClass()
+  return recurso1.Op_Ola(d)
+}
 
 // 1 - Interno : Testando o Recurso Ofertado.
 console.log( RecursoCli( Request ) );
