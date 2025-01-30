@@ -12,6 +12,8 @@ Respiracao :
   Quatro : Aspirar : Puxa o ar como se fosse relaxar  entrar por Cima entra pela Boca e Nariz até o céu da boca e desce e volta como voz. 
   Sentir : o Arzinho no céu da boca é o #ouro.
 
+Emissao_Ar : uma vez o ar saído não o volte, ele sempre vai pra fora pra frente imagine uma linha expandida triangular pra frente, se precisar recomeçar use sempre ar novo, aspire de novo.
+
 ---
 
 Natural_da_Voz :
