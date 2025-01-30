@@ -1,8 +1,7 @@
-
-
 // 2 - Interno: O Cli precisa usar algum recurso e pra isso criamos uma função
-function RecursoCli (dep) {
-  return mtRecursosCliOptions(dep.dep1)
+function RecursoCli (d) {
+  const i = new DepRecursoCliClass()
+  return i.Op_Ola(d.dep1)
 }
 
 // 1 - Externo: Ofertamos ao Cli uma porta de entrada um objeto para ele usar o Recurso.
@@ -22,11 +21,5 @@ class DepRecursoCliClass {
 
 }
 
-// 4 - Interno : uma funcao que retorna um objeto de funções para o retorno do Recurso
-function mtRecursosCliOptions (d) {
-  const recurso1 = new DepRecursoCliClass()
-  return recurso1.Op_Ola(d)
-}
-
 // 1 - Interno : Testando o Recurso Ofertado.
-console.log( RecursoCli( Request ) );
+console.log( RecursoCli ( Request ) );
