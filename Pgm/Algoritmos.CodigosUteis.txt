@@ -15,7 +15,7 @@ class RecursoCli  {
 
 // 1 - Externo: Ofertamos ao Cli uma porta de entrada um objeto para ele usar o Recurso.
 const Request = {
-  dep1 : "Rei1"
+  dep1 : "Rei2"
 }
 
 // 4 - interno : Onde seria uma função pode ser um método de uma classe , evitaria hell de funções e abriria opções de operações.
@@ -26,6 +26,10 @@ class DepRecursoCliClass {
 
   OpComoVai (d) {
     return `Como vai ${d}`
+  }
+
+  EmStandyBy1 (d) {
+    return `EmStandyBy1 ${d}`
   }
 
 }
