@@ -26,7 +26,7 @@ ModoDeFonacao :
  Modo_Neutro : É O Soproso mais firme sem liberar Ar
 Modo_Fluido : É O Agudo de cabeca
 
-Trandicao_Entre_Modos : use o BafoQuente em todo fluxo / frase e Menos Volume, pode manter a altura da nota normal que pede. mas o volume abaixa.
+Transicao_Entre_Modos : use o BafoQuente em todo fluxo / frase e Menos Volume, pode manter a altura da nota normal que pede. mas o volume abaixa.
 
 
 
@@ -39,6 +39,10 @@ Anti_Quebra : Nao colocar volume + Usar BafoQuente na Transicao ou >> Estilo Bos
 ===
 
 EMITINDO :
+
+Afinacao :
+  Afinar : saboreando a nota , igualar a frequência.
+  Tom: a tonalidade é o limitador de um ambiente, se mantenha dentro dele, você sente na onda grave a atmosfera do ambiente que está a harmonia. É como o prof. mostrou no piano um conjunto de noras que se harmonizam no mesmo ambiente, se colocar outra nota qye não faz parte vc percebe que não faz o arte dali, sua estranho intruso.
 
  Nas_Pausas : 1° Engole_Cuspe e 2° Aspira
 
