@@ -49,7 +49,7 @@ Afinacao :
   Conducao_Normal : Som : Medio
 
   Movimentar_Notas : Faça as notas na PAPADA , imagine ela como as notas do piano ou violão.
-Obs: a 1° nota é sempre a mais forte, inicie do início perto do gogó pra frente.
+Obs: a 1° nota é sempre a mais forte, inicie do início perto do gogó pra frente termine na direção do Queixo.
 
 ===
 
