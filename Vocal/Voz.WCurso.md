@@ -3,7 +3,7 @@ CONFIGURACOES
 Respiracao : 
 
   Postura : 
-    Um : Peito SuperMan Aberto, sente a dividoria no meio.
+    Um : Peito SuperMan Aberto, sente a divisoria no meio.
 
     Dois : Empurra Umbigo pra dentro das Costas
 
