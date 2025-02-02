@@ -7,8 +7,8 @@ FAZER SONS
 Projetadao: Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
 tutoriais : ( https://www.instagram.com/reel/DCXiYHPxeq5/?igsh=cjhqOXAyY3cxZml5 )
 
-Ritmo Vocal by Partitura : Toda frase tem um padrão  de batidas, descritas na partitura
-tutoriais : [ by Kalleb https://www.instagram.com/reel/DFaXQYYMymF/?igsh=MXNndGYxamlkeHUwcg== ,  ]
+Ritmo_Vocal : Toda frase tem um padrão  de batidas, descritas na partitura
+tutoriais : [ by KalebMesmo https://www.instagram.com/reel/DFaXQYYMymF/?igsh=MXNndGYxamlkeHUwcg== ,  ]
 
 
 
