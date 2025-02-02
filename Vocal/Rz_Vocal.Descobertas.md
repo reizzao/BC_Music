@@ -10,7 +10,11 @@ Principal:
 Projetadao: 
   objetivo: não deixar o ar voltar do cano da garganta.
 
+Pre_projecao: AACENDER Faça um Rumming antes de emitir pra sentir o espaço de ar se formando.
+
 acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo 
+
+importante : ao emitir esse caminho do palato Mole tem que estar sempre aberto pra sair o ar direto, então não feche a boca ao emitir.
 
   recurssos : não levantar a língua enquanto projeta.
  usar : [    ]
