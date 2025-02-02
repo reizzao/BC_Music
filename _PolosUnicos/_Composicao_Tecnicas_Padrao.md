@@ -50,6 +50,9 @@ Ritmos :
   Ritmo_RefraoOUT_Martelo_Balada : 1_2 - 1_2 - lento
   Ritmo_Fecha_Cromatico : 1234 Rapido
 
+Formar_Frase 
+ Padrao_Conclusiva : : SemConcluusao + Conclusao
+
 ---
 
 ## ESTROFES
