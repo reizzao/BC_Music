@@ -3,7 +3,7 @@
 # Sentimento: NOVO
 
 ## A
-*
+* Chegou neste nível separa nunca
 *
 
 ## E
