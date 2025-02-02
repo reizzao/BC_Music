@@ -1,3 +1,7 @@
+Tools_Music 
+  extensão Chrome para criar melodia : Song Msker , tutoriais : [ https://youtube.com/shorts/jIW3xWs6-yE?si=ThYPVNYjnOSNctlI , ]
+
+
 
 Escala_Triste_Alegre :
 
