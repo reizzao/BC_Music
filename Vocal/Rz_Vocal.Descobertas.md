@@ -10,7 +10,7 @@ Principal:
 Projetadao: 
   objetivo: não deixar o ar voltar do cano da garganta.
 
-acesso: sensacao de MASCAR , antes da palavra fazer som de Ligação BÃN 
+acesso: sensacao de quase morder os dentes do fundo + sentir pressao na cabeca + abrir bem a boca  A .
 
   ferramenta : não levantar a língua enquanto projeta.
  usar : [    ]
