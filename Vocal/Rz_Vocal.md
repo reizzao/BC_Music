@@ -1,3 +1,27 @@
+
+
+---
+
+FAZER SONS
+
+Projetadao: Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
+tutoriais : ( https://www.instagram.com/reel/DCXiYHPxeq5/?igsh=cjhqOXAyY3cxZml5 )
+
+
+
+=========
+
+
+
+
+
+
+
+
+
+
+
+
 Preparos :
 - Estique os nervos do pescoço
 - Massagem os nervos e a Papada.
