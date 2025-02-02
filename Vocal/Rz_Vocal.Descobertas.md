@@ -10,9 +10,9 @@ Principal:
 Projetadao: 
   objetivo: não deixar o ar voltar do cano da garganta.
 
-acesso: sensacao de quase morder os dentes do fundo + sentir pressao na cabeca + abrir bem a boca  A .
+acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo 
 
-  ferramenta : não levantar a língua enquanto projeta.
+  recurssos : não levantar a língua enquanto projeta.
  usar : [    ]
  1 - deixa a língua baixa atraz dos dentes,
  2 - mostrar os dentes superiores.
