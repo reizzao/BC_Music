@@ -4,9 +4,18 @@
 
 FAZER SONS
 
-Principal: Ter a BOLA que é a Vóz pra Fora Projetada, depois vem os ajustes.
+Principal: 
+ conceito: Ter a BOLA que é a Vóz pra Fora Projetada, depois vem os ajustes.
 
-Projetadao: Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
+Projetadao: 
+  objetivo: não deixar o ar voltar do cano da garganta.
+
+  ferramenta : não levantar a língua enquanto projeta.
+ usar : [    ]
+ 1 - deixa a língua baixa atraz dos dentes,
+ 2 - mostrar os dentes superiores.
+
+ acessos :Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
 tutoriais : ( https://www.instagram.com/reel/DCXiYHPxeq5/?igsh=cjhqOXAyY3cxZml5 )
 
 Ritmo_Vocal : Toda frase tem um padrão  de batidas, descritas na partitura
