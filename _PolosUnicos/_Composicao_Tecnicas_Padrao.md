@@ -1,4 +1,4 @@
-# COMPOSICAO DADOS
+# Composicao_Tecnicas_Padrao
 
 Composicao_Dados :
   DirecoesTematicas :
@@ -32,6 +32,23 @@ Composicao_Dados :
     vF2 = "O",
     vC = "A"
 
+Quantidade_Palavras :
+  Causar_Descompasso: 4 Silabas Poeticas
+  Causar_Viajem: 2 Silabas Poeticas
+  Causar_Expectativa: 2 Silabas Poeticas - obs: poucas palavras pausadas ,
+  Causar_Ponte: 4 Silabas Poeticas Cromaticas Rapidas
+  Martelar_Resolucao_IN: 4 Silabas Poeticas Descompassada
+  Martelar_Resolucao_OUT: 4 Silabas Poeticas Cromatica Rapida
+
+Ritmos :
+  Ritmo_Descompassado : 1_2
+  Ritmo_Viajem : 1_2
+  Ritmo_Descompassado_Termino : [ 1_2_34, ]
+  Ritmo_Expectativa : [ 1234, ]
+  Ritmo_Expectativa_Termino : [ 1_2_34, ]
+  Ritmo_RefraoIN_Martelo : 1_2 - 1_2
+  Ritmo_RefraoOUT_Martelo_Balada : 1_2 - 1_2 - lento
+  Ritmo_Fecha_Cromatico : 1234 Rapido
 
 ---
 
@@ -54,6 +71,8 @@ Objetivo_Descrever : [ $O_Grande_Fato_Que_Esta_Acontecendo em relacao a $Emocao_
 Musical :
   Andamento : Compassado Lento
   Melodico :
+  Quantidade_Palavras : $Causar_Descompasso
+  Ritmo : $Ritmo_Descompassado
 
 
 Gatilhos : [
@@ -91,7 +110,10 @@ Objetivo_Descrever : $Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Aconte
 
 Musical :
   Andamento : Baladinha suave de complemneto da parte A,
-  Melodico : O mesmo da sessao anterior, pode mudar a ultima nota para passagem pra outra sessao.
+  Melodico : pode mudar a ultima nota para passagem pra outra sessao.
+  Quantidade_Palavras : $Causar_Viajem
+  Ritmo : Ritmo_Viajem
+  obs: ,
 
 
 Gatilhos : [
@@ -115,7 +137,10 @@ Objetivo_Descrever : $O_Que_Houve_Pra_Tudo_Estar_Assim
 
 Musical :
   Andamento :
-  Melodico : [ Dramatico, Suspense, notas tensas (menor, com setima, diminuto) oposto das partes anteriores ]
+  Melodico :
+  Quantidade_Palavras : $Causar_Expectativa
+  Ritmo : $Ritmo_Expectativa
+  obs: [ Dramatico, Suspense, notas tensas (menor, com setima, diminuto) oposto das partes anteriores ]
 
 
 Gatilhos : [
@@ -147,6 +172,8 @@ Objetivo_Descrever : $O_Que_Precisa_Pra_Melhorar_O_Cenario
 Musical :
   Andamento :
   Melodico :
+  Quantidade_Palavras : $Causar_Ponte
+  Ritmo : $Ritmo_Expectativa_Termino
 
 Gatilhos : [
 Frase Marcante,
@@ -173,7 +200,10 @@ Objetivo_Descrever : $A_Grande_Solucao_Pro_Futuro
 
 Musical :
   Andamento :
-  Melodico : [ martelo,  em loop pra viciar, k final tem que chamar o começode novo pra entrar em loop, ]
+  Melodico :
+  Quantidade_Palavras : $Martelar_Resolucao_IN
+  Ritmo : $Ritmo_RefraoIN_Martelo
+  obs: [ martelo,  em loop pra viciar, k final tem que chamar o começode novo pra entrar em loop, ]
 
 Gatilhos : [
   Solução do tema,
@@ -203,6 +233,8 @@ Objetivo_Descrever : + $PraQue_da_Grande_Solucao_Pro_Futuro
 Musical :
   Andamento :
   Melodico :
+  Quantidade_Palavras : $Martelar_Resolucao_OUT
+  Ritmo : $Ritmo_RefraoOUT_Martelo_Balada + Ritmo_Fecha_Cromatico
 
 Gatilhos : [
 
@@ -225,7 +257,8 @@ Objetivo_Descrever :
 
 Musical :
   Andamento :
-  Melodico :
+  Melodico :  Quantidade_Palavras :
+  Ritmo :
   VogalFinal:
 
 Gatilhos : [

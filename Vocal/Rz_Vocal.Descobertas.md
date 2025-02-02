@@ -1,8 +1,10 @@
-
+# DESCOBERTAS_RZJ
 
 ---
 
 FAZER SONS
+
+Principal: Ter a BOLA que é a Vóz pra Fora Projetada, depois vem os ajustes.
 
 Projetadao: Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
 tutoriais : ( https://www.instagram.com/reel/DCXiYHPxeq5/?igsh=cjhqOXAyY3cxZml5 )
@@ -38,11 +40,11 @@ Respiracao: [
 
 - Afinacao. Começos e Términos SABOREAR A NOTA com humming para afinar.
 
-Afinacao : 
+Afinacao :
 
 Como_Afinar : SABOREAR A NOTA com humming para afinar.
 
-O_que_e_Afinado : é igualar com a nota se ela está no GRAVE ou AGUDO e a altura da região  e fazer igual. 
+O_que_e_Afinado : é igualar com a nota se ela está no GRAVE ou AGUDO e a altura da região  e fazer igual.
 
 ---
 
@@ -62,11 +64,11 @@ Pre_Emissao :
 ---
 EMISSAO
 
-Emissão: [  
+Emissão: [
 
 Recurso : [
-Pressurizar : abocanhar o Ar, 
-Nao abre muito a boca, 
+Pressurizar : abocanhar o Ar,
+Nao abre muito a boca,
 Umbigo pra dentro, ombros para baixo,
 Segura a saída de Ar no início e soltar no fim.
 tutorial : [
@@ -87,24 +89,24 @@ importantes: soltar pouco ar no início, controlar saída de ar a cada troca de 
 Comecos: embocadura: de O - Ar de Invocado - Tipo Scooby,  som: Grave, voz: falsa,  sensacao: firne, igual tonica da triade, timbrado atraz do nariz.
 
 Meio : sessao: Balanco_do_Barco MudaChave gancho impacto pro agudo,
-recurso:Faça PAUSA SUPER RAPIDA pra pegar fôlego paea o Términos, embocadura: , som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade. 
+recurso:Faça PAUSA SUPER RAPIDA pra pegar fôlego paea o Términos, embocadura: , som: Agudo,voz: falsa, sensacao: pulo leve, igual terça da tríade.
 
 Finais: padrao: glissando liso, embocadura: Gentil ,voz: verdadeira_falsa, som: Grave,sensacao: Tensa, igual quinta da triade, Liberando, bafo Quente, variando com pouco ou muito ar
 
 Ordem_Sequencia_Frase_Inteiea : 1 GraveInicio,  2 AgudoMeio, 3 GraveFinal
 
-Acessos : 
+Acessos :
 
   Grave : coloxar peso no  do meio pro fundo da língua.
 
   Agudo : norjinho hain, levanta labio esquerdo e deixa vir direto da Uvula do cano da garfanta livre
 
 
-Sequencia : 
+Sequencia :
   Padrão: Grave - Agudo
   Diferenciada : Agudo - Grave
 
-- Tipo Mascar, de inicio da uvula pea fora, voz continua sem pausar, suave, gentil 
+- Tipo Mascar, de inicio da uvula pea fora, voz continua sem pausar, suave, gentil
 
 - Manter_Conducao_Ritmo : Como se tivesse concordando com algo, com suaves ataques glotivos
 
@@ -117,14 +119,14 @@ Sequencia :
 - Tom Maior : Voz mais firme importada
 - Tom Menor voz falsa - fraca ex: https://www.instagram.com/reel/C9zgm8uOmix/?igsh=MWN6cGN0eDI5MTAwaQ==
 
-- Só Puxe ar no começo da frase 
+- Só Puxe ar no começo da frase
 
 ---
 
 
 ===
 
-MUSICAL 
+MUSICAL
 
 Musicalmente:
 Maior : tem mais salto entre as notas e harmonia , alusao: berimbau nota pra cae nota pra lá
