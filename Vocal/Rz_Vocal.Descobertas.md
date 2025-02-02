@@ -10,12 +10,14 @@ Principal:
 Projetadao: 
   objetivo: não deixar o ar voltar do cano da garganta.
 
+acesso: sensacao de MASCAR , antes da palavra fazer som de Ligação BÃN 
+
   ferramenta : não levantar a língua enquanto projeta.
  usar : [    ]
  1 - deixa a língua baixa atraz dos dentes,
  2 - mostrar os dentes superiores.
 
- acessos :Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
+ Exemplos :Boca de trovão, Inicia sensacao de falar grosso ÊHÊÊ ou vogal com ^ , exemplo: EU TENHO A FORÇA DO HEMAN
 tutoriais : ( https://www.instagram.com/reel/DCXiYHPxeq5/?igsh=cjhqOXAyY3cxZml5 )
 
 Ritmo_Vocal : Toda frase tem um padrão  de batidas, descritas na partitura
