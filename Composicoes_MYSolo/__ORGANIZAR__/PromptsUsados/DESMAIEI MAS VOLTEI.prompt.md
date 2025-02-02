@@ -51,14 +51,12 @@ poderóza não quér guerra com ninguém
 
 
 
-
-
 [ chorus, 2x] [expressive](REPEAT)
 
-Que pedrada foi essa na testa
+Que pedrada foi essa ?
 desmaiei mas voltei
 
 Fiquei perdido na festa
-que show  é esse neném hein
+que show é esse neném hein
 
 [outro]  
