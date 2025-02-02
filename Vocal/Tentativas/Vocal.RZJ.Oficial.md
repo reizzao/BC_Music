@@ -1,2 +1,0 @@
-# VOCAL RZJ OFICIAL
-
