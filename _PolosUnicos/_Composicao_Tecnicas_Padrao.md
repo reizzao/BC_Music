@@ -2,10 +2,9 @@
 
 Composicao_Dados :
   DirecoesTematicas :
-    Tema_Titulo
+    Tema_Titulo : [ Acao_1 || Adjetivo , ]
     Logica_Sentimental - Triste ? NaoTriste
-    Emocao_Central
-    Destino_da_Solicitacao
+    Emocao_Central : Sentimento
 
   Sinopse :
     O_Grande_Fato_Que_Esta_Acontecendo
@@ -50,17 +49,35 @@ Ritmos :
   Ritmo_RefraoOUT_Martelo_Balada : 1_2 - 1_2 - lento
   Ritmo_Fecha_Cromatico : 1234 Rapido
 
-Formar_Frase 
- Padrao_Conclusiva : : SemConcluusao + Conclusao
+  Formar_Frase :
+  Por_Sessao:
+   Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
+   Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
+
+
+  Sessoes_All : [ A, B, C, D, R_In, R_Out, OUTRO_OPCIONAL ]
+
+  Personagem : [ Eu, Outro, Todos_Nos ]
+
+  Definicoes_Frases
+  FechaInicioSessao : Apontamento_DeixaNoAR
+  FechaSessao : Apontamento_Resolve
 
 ---
 
-## ESTROFES
+  # DEFINICOES_SESSOES
 
----
+  Gatilhos_Condutas_Globais :
 
 ### Estrofe : Sessao_A
 
+    Sessao : A,
+    Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
+    Conduta_Opcoes : [
+      OQuefoiFeito, O Problema é que,
+O que a Personagem é, falar com alguém pelo fone ,
+O que fez ?, O que faz ?,Hum ...,Já que , Já ,É que ..., Porque ...,Contar fatos pra alguém, Sempre, Quando,Dar ordem que mude algo, O que estava fazendo,
+]
 Nome_Formal : Verso 1
 
 Conceito : "é a Abordagem,o que da sinais do Tema, o que leva ao tema, sem ficar falando do tema só sinais, mostre ao ouvinte o mesma sensação do Sentimento_Emocao_Central definido. Converso vc e o ouvinte sobre o Sentimento_Emocao_Central,faca-o se sentir como se esse sentimento é pra ele sobre ele,"
@@ -68,6 +85,8 @@ Conceito : "é a Abordagem,o que da sinais do Tema, o que leva ao tema, sem fica
 Objetivo_Descrever:  a $Emocao_Central
 
 Tempo_Verbal : Presente
+
+Personagem_da_Sessao:
 
 Objetivo_Descrever : [ $O_Grande_Fato_Que_Esta_Acontecendo em relacao a $Emocao_Central,]
 
@@ -77,39 +96,21 @@ Musical :
   Quantidade_Palavras : $Causar_Descompasso
   Ritmo : $Ritmo_Descompassado
 
-
-Gatilhos : [
-O Grande problema é que,
-O que a Personagem é .. cheia de manias...,
-falar com alguém pelo fone ,
-O que fez ?,
-O que faz ?,
-Hum ...
-Já que ..., Já ...,
-É que ...
-Porque ...
-Contar fatos pra alguém,
-Toda vez,
-Sempre,
-Quando,
-Dar ordem que mude algo,
-O que estava fazendo, (Te filmando estava..., )
-]
-
 FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: alterna inicio Estilo_Vogal_Aberta - termina em Estilo_Vogal_F1
 Frase: FF1, Detalhes_Frase: , VogalFinal: vF1 , Detalhes_Vogais:
-
 
 ---
 
 ### Estrofe : Sessao_B
-
-Nome_Formal : Verso F1 Hook
-
+    Sessao : B,
+    Conduta_Master: [ Reacao do PersonagemInverso, ]
+    Conduta_Opcoes : [
+      O que retribuiu fez o outro, Desejo do PersonagemAfetado, O que acho disso,
+      ]
+    Nome_Formal : Verso F1 Hook
 Conceito :
-
 Tempo_Verbal : Presente
-
+Personagem_da_Sessao:
 Objetivo_Descrever : $Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
 
 Musical :
@@ -119,11 +120,6 @@ Musical :
   Ritmo : Ritmo_Viajem
   obs: ,
 
-
-Gatilhos : [
-O que acho disso?,
-]
-
 FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curtas
 Frase: FF1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curtas
 
@@ -131,12 +127,16 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curt
 
 ### Estrofe : Sessao_C
 
+    Sessao : C,
+    Conduta_Master:  Dado aos fatos Passados ,
+    Conduta_Opcoes : [
+      Como ou Porque do EstadoAtual, Decisao, O que levou ai Estado Atual , Chamando Atencao,É claro que, Quantas vezes, Já que ,
+  ]
 Nome_Formal : Pre-Refrao
-
 Conceito : gera no ouvinte: [ suspense, expectativa que será resolvida com gancho na solução do refrao  ]
 
 Tempo_Verbal : Passado & Presente
-
+Personagem_da_Sessao:
 Objetivo_Descrever : $O_Que_Houve_Pra_Tudo_Estar_Assim
 
 Musical :
@@ -146,17 +146,6 @@ Musical :
   Ritmo : $Ritmo_Expectativa
   obs: [ Dramatico, Suspense, notas tensas (menor, com setima, diminuto) oposto das partes anteriores ]
 
-
-Gatilhos : [
-Como ou Porque do EstadoAtual,
-o que levou ai Estado Atual , Chamando Atencao,
-falando algo do passado,
-É claro que...,
-Quantas vezes ...
-Já que ,
-
-]
-
 FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vF1 || vC , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
 Frase: FF1, Detalhes_Frase: , VogalFinal: vF1  || vC , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
@@ -165,12 +154,16 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1  || vC , Detalhes_Vogais: Nessa fa
 
 ### Estrofe : Sessao_D
 
+    Sessao : D,
+    Conduta_Master: [ Decisao, passo a ser dado pra resultar na GrandeSolucao, ]
+    Conduta_Opcoes : [
+      Frase Marcante, O que fazer nesse Presente, pensando pról do Futuro,
+     ]
 Nome_Formal : Ponte, Ponte-Refrao
-
 Conceito : Frase de impacto que deixa no ar Uma DEIXA pra grande solucao,
 
 Tempo_Verbal : Pro_Futuro / Presente Pensando no Futuro
-
+Personagem_da_Sessao:
 Objetivo_Descrever : $O_Que_Precisa_Pra_Melhorar_O_Cenario
 
 Musical :
@@ -179,11 +172,6 @@ Musical :
   Quantidade_Palavras : $Causar_Ponte
   Ritmo : $Ritmo_Expectativa_Termino
 
-Gatilhos : [
-Frase Marcante,
-O que fazer nesse Presente pensando pról do Futuro
-
-]
 
 FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar vogais do mesmo Estilo_Vogal no inicio e termino
 
@@ -191,15 +179,18 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar
 
 ---
 
-
 ### Estrofe : Sessao_REFRAO_IN
 
+    Sessao : R_IN,
+    Conduta_Master: [ $A_Grande_Solucao_Pro_Futuro, ou $Tema, ]
+    Conduta_Opcoes : [
+      Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
+    ]
 Nome_Formal :
-
 Conceito : Ouvinte tem que querer contar com 1 dedo levantado pro alto, tem que funcionar sozinho independe outras partes, sem gerar dúvidas. Tem que funcionar como um Loop do Começo combinando com o Fim e voltar em Loop mesmao sentido de historia
 
 Tempo_Verbal :
-
+Personagem_da_Sessao:
 Objetivo_Descrever : $A_Grande_Solucao_Pro_Futuro
 
 Musical :
@@ -209,29 +200,22 @@ Musical :
   Ritmo : $Ritmo_RefraoIN_Martelo
   obs: [ martelo,  em loop pra viciar, k final tem que chamar o começode novo pra entrar em loop, ]
 
-Gatilhos : [
-  Solução do tema,
-  Atitude,
-  repetições de Silabas Poéticas,
-  Tem (mos) que ?...,
-  Precisa (mos) ?...,
-  É que ...,
-  Um Pedido...,
-]
 
 FrasesFrase: F1, Detalhes_Frase: [grito de solucao_atitude], VogalFinal:  vA1, Detalhes_Vogais:
 
 Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 
+---
 
 ### Estrofe : Sessao_REFRAO_OUT
+    Sessao : R_OUT,
+    Conduta_Master: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
+    Conduta_Opcoes : [ , ]
 
 Nome_Formal :
-
 Conceito :
-
 Tempo_Verbal :
-
+Personagem_da_Sessao:
 Objetivo_Descrever : + $PraQue_da_Grande_Solucao_Pro_Futuro
 
 Musical :
@@ -240,23 +224,22 @@ Musical :
   Quantidade_Palavras : $Martelar_Resolucao_OUT
   Ritmo : $Ritmo_RefraoOUT_Martelo_Balada + Ritmo_Fecha_Cromatico
 
-Gatilhos : [
-
-]
 
 FrasesFrase: F1, Detalhes_Frase: [ baladinha, abaixa a levada, cadência da espaço mais cadenciado pro cantor descansar ], VogalFinal: vF2 , Detalhes_Vogais:
 
 Frase: FF1, Detalhes_Frase: , VogalFinal:  vF2, Detalhes_Vogais:
 
+---
 
 ### Estrofe : Sessao_OUTRO_OPCIONAL
+Sessao : OUTRO_OPCIONAL,
+    Conduta_Master: ,
+    Conduta_Opcoes : [ , ]
 
 Nome_Formal :
-
 Conceito :
-
 Tempo_Verbal :
-
+Personagem_da_Sessao:
 Objetivo_Descrever :
 
 Musical :
@@ -264,10 +247,6 @@ Musical :
   Melodico :  Quantidade_Palavras :
   Ritmo :
   VogalFinal:
-
-Gatilhos : [
-
-]
 
 Frases
 Frase: F1
@@ -277,3 +256,4 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  , Detalhes_Vogais:
 
 ---
 
+# FIM
