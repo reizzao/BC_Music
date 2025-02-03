@@ -93,6 +93,7 @@ Toda vez,
 Sempre,
 Quando,
 Dar ordem que mude algo,
+O que estava fazendo, (Te filmando estava..., )
 ]
 
 FrasesFrase: F1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: alterna inicio Estilo_Vogal_Aberta - termina em Estilo_Vogal_F1
