@@ -10,7 +10,11 @@ Principal:
 Projetadao: 
   objetivo: não deixar o ar voltar do cano da garganta.
 
-Pre_projecao: AACENDER Faça um Rumming antes de emitir pra sentir o espaço de ar se formando.
+Pre_projecao: ASCENDER Faça um Rumming antes de emitir pra sentir o espaço de ar se formando.
+
+Marque a configuração da Sequencia de notas e tempo nos Dedos.
+
+Cante sobrando pra cima cortando seco as noras e pegando ar pra nova sequencia
 
 acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo 
 
