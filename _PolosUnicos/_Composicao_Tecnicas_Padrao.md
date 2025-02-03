@@ -31,6 +31,22 @@ Composicao_Dados :
     vF2 = "O",
     vC = "A"
 
+# FRASES 
+Frases :
+
+ Macete_Ouro : A 1° Provoca da Dica e a 2° Revela Resolve a dica dada.
+
+Definicoes_Frases
+  FechaInicioSessao : Apontamento_DeixaNoAR
+  FechaSessao : Apontamento_Resolve
+  
+
+Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
+
+Por_Sessao:
+  Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
+   Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
+
 Quantidade_Palavras :
   Causar_Descompasso: 4 Silabas Poeticas
   Causar_Viajem: 2 Silabas Poeticas
@@ -49,22 +65,13 @@ Ritmos :
   Ritmo_RefraoOUT_Martelo_Balada : 1_2 - 1_2 - lento
   Ritmo_Fecha_Cromatico : 1234 Rapido
 
-  Formar_Frase :
-  Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
-  Por_Sessao:
-   Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
-   Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
-
-
   Sessoes_All : [ A, B, C, D, R_In, R_Out, OUTRO_OPCIONAL ]
 
   Personagem : [ Eu, Outro, Todos_Nos ]
 
-  Definicoes_Frases
-  FechaInicioSessao : Apontamento_DeixaNoAR
-  FechaSessao : Apontamento_Resolve
 
 ---
+
 # MUSICAL
 
 Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece em uma não acontece na outra.
