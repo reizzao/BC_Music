@@ -64,6 +64,11 @@ Ritmos :
   FechaSessao : Apontamento_Resolve
 
 ---
+# MUSICAL
+
+Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece em uma não acontece na outra.
+
+---
 
   # DEFINICOES_SESSOES
 
