@@ -50,6 +50,7 @@ Ritmos :
   Ritmo_Fecha_Cromatico : 1234 Rapido
 
   Formar_Frase :
+  Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
   Por_Sessao:
    Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
    Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
