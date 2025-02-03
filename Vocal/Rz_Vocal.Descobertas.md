@@ -14,6 +14,8 @@ Pre_projecao: ASCENDER Faça um Rumming antes de emitir pra sentir o espaço de 
 
 Marque a configuração da Sequencia de notas e tempo nos Dedos.
 
+Concentrar_Saida : para boca ,tensionsnfo sensaçãode bravo, ao invés do nariz
+
 Cante jogando pra cima cortando seco SE_LIVRANDO de cada sequencia de notas e pegando ar pra nova sequencia
 
 acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo 
