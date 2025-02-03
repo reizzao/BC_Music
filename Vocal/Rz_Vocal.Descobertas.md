@@ -14,7 +14,10 @@ Pre_projecao: ASCENDER Faça um Rumming antes de emitir pra sentir o espaço de 
 
 Marque a configuração da Sequencia de notas e tempo nos Dedos.
 
-Direcionar_Concentrar_Saida : direcionar para a PAPADA consequentemente saindo só oela boca ,tensionsnfo sensaçãode bravo, ao invés do nariz #ouro.
+Direcionar_Concentrar_Saida : 
+  Estimulo: Levantar sobrancelha que a boca abre.
+  Acesso : direcionar para a PAPADA consequentemente saindo só oela boca ,tensionando sensaçãode bravo, 
+  NaoFazer : saida peka boca ao invés do nariz.
 
 Cante jogando pra cima cortando seco SE_LIVRANDO de cada sequencia de notas e pegando ar pra nova sequencia
 
