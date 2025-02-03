@@ -3,8 +3,8 @@
 # Sentimento: NOVO
 
 ## A
-*
-*
+* vou nada
+* se é louco não compensa
 
 ## E
 *
