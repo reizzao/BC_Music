@@ -1,27 +1,28 @@
+# DESCOBERTAS
 # DESCOBERTAS_RZJ
 
 ---
 
 FAZER SONS
 
-Principal: 
+Principal:
  conceito: Ter a BOLA que é a Vóz pra Fora Projetada, depois vem os ajustes.
 
-Projetadao: 
+Projetadao:
   objetivo: não deixar o ar voltar do cano da garganta.
 
 Pre_projecao: ASCENDER Faça um Rumming antes de emitir pra sentir o espaço de ar se formando.
 
 Marque a configuração da Sequencia de notas e tempo nos Dedos.
 
-Direcionar_Concentrar_Saida : 
+Direcionar_Concentrar_Saida :
   Estimulo: Levantar sobrancelha que a boca abre.
-  Acesso : direcionar para a PAPADA consequentemente saindo só oela boca ,tensionando sensaçãode bravo, 
+  Acesso : direcionar para a PAPADA consequentemente saindo só pela boca ,tensionando sensaçãode bravo,
   NaoFazer : saida peka boca ao invés do nariz.
 
 Cante jogando pra cima cortando seco SE_LIVRANDO de cada sequencia de notas e pegando ar pra nova sequencia
 
-acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo 
+acesso: concentrar fazer pressão de ar no Palato Mole quase do meio pra baixo
 
 importante : ao emitir esse caminho do palato Mole tem que estar sempre aberto pra sair o ar direto, então não feche a boca ao emitir.
 
@@ -170,3 +171,37 @@ Términos:
 -
 ]
 
+
+
+# EMISSAO
+
+* Umbigo pra Dentro
+
+* Peito SuperMan pra frente, como se unisse os 2 ossos da costela.
+
+* Pressurizar: puxar o ar > Não deixar escaoar > emitir com esse ar durante a frase.
+
+* Alternar Voz_PapaiNoel / Voz_BixaFanha
+
+* Escape Ar só no fim da frase pelos lados das costelas.
+
+* Nuances : é sempre uma gangorra de começa no grave acaba agudo e vice versa.
+
+, Na gangorra se o acorde for Maior inicia no Grace --  se for Menor inicia no Agudo.
+
+---
+
+Partes:
+
+Regiao_Calma :
+ Entrada_Inicial : Voz_Peito
+ Transicao: transicao_Iodel
+ Final_Inicial : enfeite_Vibrato
+
+Regiao_Tensa :
+Entrada_Alta : Falsete
+Transicao: transicao_Iodel
+Final_Alta : enfeite_Melisma
+
+
+---

@@ -1,10 +1,12 @@
 # VOCAL RZJ W
 
-Emissão:
-Fundamental : Projetando ,
- Sensacoes: [
-1 - internamente estar escorrendo ar do nariz pra baixo 
-2 - direcionar pro gogó no início da Papada.
-3 - abrir a boca até sentir as orelhas.
+
+Emissao: [
+  - 1 - Só começar a emitir depopis de auquecer a vóz.
+
+  - 2 -cada inicio como se tivesse Bocejando, direcionado pra Interna_entre_Papada_e_Gogo que é a Saida_Oral.
+
+]
+
 
 ---
