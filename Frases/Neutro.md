@@ -5,6 +5,7 @@
 ## A
 * vou nada
 * se é louco não compensa
+* Você não está preparada
 
 ## E
 *
