@@ -28,7 +28,7 @@ Dinamicas_Harmonicas :
 Conceitos
 
 Macetes : [
-- Emissao tem nuances é uma fanhorra começa sempre mais Feaco > depois forte > fraco > forte.,
+- Emissao tem nuances é uma gangorra começa SEMPRE  pelo Fraco > depois forte > fraco > forte.,
 
 
 ]
