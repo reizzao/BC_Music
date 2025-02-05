@@ -1,8 +1,11 @@
 # VOCAL RZJ W
 
 Objetivos_ao_Emitir : [
-- Ser ouvido, alcançar os ouvintes alvos
-- Cada emissão tenha como objetivo PASSAR UMA MENSAGEM.
+- Objetivo: Ser ouvido, alcançar os ouvintes alvos, Forma : Usar lados do peito + abrir espaço de bocejo no palato + direcionar voz entre gogo e papada
+
+- Objetivo : Cada emissão tenha como objetivo PASSAR UMA MENSAGEM.
+Forma : passe a frase inteira no mesmo ar.
+
 
 ]
 
