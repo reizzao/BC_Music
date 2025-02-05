@@ -1,0 +1,1 @@
+* Quando inventaram o celular eu já tinha três chamadas perdidas.
