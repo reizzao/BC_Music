@@ -1,5 +1,32 @@
 # CANTAR
 
+---
+
+Variaveis
+  - Projecao : Sensacao: de estar nervoso, estimulos: [ levantar susto sobrancelha e quase piscar olhos ajuda na Projecao., ]
+
+---
+
+Emissao: [
+
+1 - Só começar a emitir depois de aquecer a vóz.
+
+2 - Preparo_Som: cada inicio como se tivesse Bocejando,
+  Inicio_Ataque : atacar baixo e subir gradualmente para $Projecao.
+  Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
+  .
+Dinamicas_Harmonicas :
+  Relaxa : maior
+  Estica_tensiona : menor
+  Tensiona_suspense_deixa_no_ar_PedirPraAcabar : com setima
+
+]
+
+---
+
+
+Conceitos
+
 Objetivos_ao_Emitir : [
 
 - Objetivo: Ser ouvido, alcançar os ouvintes alvos,
@@ -12,22 +39,5 @@ Objetivos_ao_Emitir : [
 
 ]
 
-
-Emissao: [
-
-1 - Só começar a emitir depois de aquecer a vóz.
-
-2 - Preparo_Som: cada inicio como se tivesse Bocejando,
-  Inicio_Ataque : atacar baixo e subir gradualmente.
-  Meio_Direciona_Som : para o céu da boca,
-  Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
-  .
-Dinamicas_Harmonicas :
-  Relaxa : maior
-  Estica_tensiona : menor
-  Tensiona_suspense_deixa_no_ar_PedirPraAcabar : com setima
-
-]
-
-
 ---
+
