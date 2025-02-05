@@ -17,7 +17,10 @@ Emissao: [
 
 1 - Só começar a emitir depois de aquecer a vóz.
 
-2 -cada inicio como se tivesse Bocejando, liberando ao som como glssando rpa frente pequenos ataques vindos da Interna_entre_Papada_e_Gogo que é a Saida_Oral.
+2 - Iniciar: cada inicio como se tivesse Bocejando,
+    Direciona_Som : para o céu da boca,
+    Acoes_Conjuntas: [ Para_Saida: Oral : levar a saida para o meio da papada e o gogo, ]
+  .
 
 
 

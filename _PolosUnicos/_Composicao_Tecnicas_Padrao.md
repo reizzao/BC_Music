@@ -1,6 +1,6 @@
 # Composicao_Tecnicas_Padrao
 
-Composicao_Dados :
+Composicao_Dados_A_Serem_Coletados :
   DirecoesTematicas :
     Tema_Titulo : [ Acao_1 || Adjetivo , ]
     Logica_Sentimental - Triste ? NaoTriste
@@ -31,7 +31,7 @@ Composicao_Dados :
     vF2 = "O",
     vC = "A"
 
-# FRASES 
+# FRASES
 Frases :
 
  Macete_Ouro : A 1° Provoca da Dica e a 2° Revela Resolve a dica dada.
@@ -39,11 +39,11 @@ Frases :
 Definicoes_Frases
   FechaInicioSessao : Apontamento_DeixaNoAR
   FechaSessao : Apontamento_Resolve
-  
+
 
 Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
 
-Utilizar : [  Sacada, Frsses do dia a dia facil de decorar  ] 
+Utilizar : [  Sacada, Frsses do dia a dia facil de decorar  ]
 
 Por_Sessao:
   Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
