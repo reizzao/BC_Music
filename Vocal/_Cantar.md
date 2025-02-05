@@ -18,7 +18,7 @@ Finais: de ênfase deixe claras as vogais finais.
 
   Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
   .
-Dinamicas_Harmonicas :
+Dinamicas_Funcionais :
   Relaxa : maior
   Estica_tensiona : menor
   Tensiona_suspense_deixa_no_ar_PedirPraAcabar : com setima
