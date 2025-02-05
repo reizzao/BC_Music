@@ -43,6 +43,8 @@ Definicoes_Frases
 
 Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
 
+Utilizar : [  Sacada, Frsses do dia a dia facil de decorar  ] 
+
 Por_Sessao:
   Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
    Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
@@ -223,7 +225,7 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 ### Estrofe : Sessao_REFRAO_OUT
     Sessao : R_OUT,
     Conduta_Master: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
-    Conduta_Opcoes : [ , ]
+    Conduta_Opcoes : [    ] Sacada, Frsses do dia a dia facil de decorar, ]
 
 Nome_Formal :
 Conceito :
