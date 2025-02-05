@@ -22,7 +22,9 @@ Emissao: [
     Acoes_Conjuntas: [ Para_Saida: Oral : levar a saida para o meio da papada e o gogo, ]
   .
 
-
+relaxa : maior
+estica_tensiona : menor
+tensiona_suspense_deixa_no_ar : com setima
 
 ]
 
