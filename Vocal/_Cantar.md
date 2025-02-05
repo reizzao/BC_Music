@@ -17,14 +17,15 @@ Emissao: [
 
 1 - Só começar a emitir depois de aquecer a vóz.
 
-2 - Iniciar: cada inicio como se tivesse Bocejando,
-    Direciona_Som : para o céu da boca,
-    Acoes_Conjuntas: [ Para_Saida: Oral : levar a saida para o meio da papada e o gogo, ]
+2 - Preparo_Som: cada inicio como se tivesse Bocejando,
+  Inicio_Ataque : atacar baixo e subir gradualmente.
+  Meio_Direciona_Som : para o céu da boca,
+  Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
   .
-
-relaxa : maior
-estica_tensiona : menor
-tensiona_suspense_deixa_no_ar : com setima
+Dinamicas_Harmonicas :
+  Relaxa : maior
+  Estica_tensiona : menor
+  Tensiona_suspense_deixa_no_ar_PedirPraAcabar : com setima
 
 ]
 
