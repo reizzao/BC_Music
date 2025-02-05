@@ -22,3 +22,5 @@ Condicionamentos_Diarios
 8: Mastigação com som de M, sensacao de Bocejar deixando espaço interno, direcao: Saida_Oral, reacao: voz vibração na Mascara_MaçaDoRosto , Pro : Suavidade na Voz com a Mascara.,
 
 9 : Glissando ( Do grave pro agudo - Como Acelero de Carro De Uma Vez vogais O-Ú ) com pouco espaço no bico rpa saida de ar + bastante fortalecimento de buchecha deixa buchecha cheia, Pro: Timbre Voz Cheia.,
+
+10 : exercício projecao  diafragma : começa sem força e põem força no caminho : https://www.instagram.com/reel/DFsn1BZxr8c/?igsh=MWF3dWc2NGdpYmQybw==
