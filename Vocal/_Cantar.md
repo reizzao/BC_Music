@@ -27,6 +27,13 @@ Dinamicas_Harmonicas :
 
 Conceitos
 
+Macetes : [
+- Emissao tem nuances é uma fanhorra começa sempre mais Feaco > depois forte > fraco > forte.,
+
+
+]
+
+
 Objetivos_ao_Emitir : [
 
 - Objetivo: Ser ouvido, alcançar os ouvintes alvos,
