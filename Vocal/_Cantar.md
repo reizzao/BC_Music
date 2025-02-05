@@ -13,6 +13,9 @@ Emissao: [
 
 2 - Preparo_Som: cada inicio como se tivesse Bocejando,
   Inicio_Ataque : atacar baixo e subir gradualmente para $Projecao.
+
+Finais: de ênfase deixe claras as vogais finais.
+
   Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
   .
 Dinamicas_Harmonicas :
