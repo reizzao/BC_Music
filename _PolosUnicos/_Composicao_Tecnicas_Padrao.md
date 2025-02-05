@@ -225,7 +225,7 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 ### Estrofe : Sessao_REFRAO_OUT
     Sessao : R_OUT,
     Conduta_Master: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
-    Conduta_Opcoes : [   Declaracao, Sacada, Frsses do dia a dia facil de decorar, ]
+    Conduta_Opcoes : [   Um desejo relacionado a $Emocao_Central, Declaracao, Sacada, Frsses do dia a dia facil de decorar, ]
 
 Nome_Formal :
 Conceito :
