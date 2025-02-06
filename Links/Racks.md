@@ -7,6 +7,8 @@ Fl Studio >> Rack : (https://gratisexpert.com/)
 FL_Cracks :
  Draw crackeada e plug-ins: https://g-meh.com/
 
+Downloads grátis:  https://downloadcursos.top
+
 Capcut rack : 10.00 :: (https://hackdigital.site/ferramentas-pro/)
 acesso : reizao1977@gmail - Portal123 --> https://portal.hackdigital.site/cursos/curso-1/aulas/capcut-pro-celular/
 
