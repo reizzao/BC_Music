@@ -6,6 +6,7 @@ Variaveis
   - Projecao : Sensacao: de estar nervoso, estimulos: [ levantar susto sobrancelha e quase piscar olhos ajuda na Projecao., ]
   - Afinar: usar a <Corda do gogó> para achar o tom do grave ao agudo e se manter a emissão nesse tom encontrado, usar para esse tom desejado a sua escala nas regioes grave e aguda - igual um teclado.
 
+
 ---
 
 Emissao: [
@@ -14,7 +15,11 @@ Emissao: [
 
 2 - Preparo_Som: cada inicio como se tivesse Bocejando, Sempre que tocar língua no céu da boca é um início um ModoDeFonacao.
 
-macetes: se quiser continuar no mesmo modo não toque a língua no céu da .
+
+Lingua: se quiser continuar no mesmo modo não toque a língua no céu da .
+
+Blocos_Melodicos : As melodias são blocos de notas e cada bloco Melodico é cansado no mesmo fôlego.
+
 
   Inicio_Ataque : atacar baixo e subir gradualmente para $Projecao.
 
