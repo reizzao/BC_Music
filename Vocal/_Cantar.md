@@ -4,6 +4,7 @@
 
 Variaveis
   - Projecao : Sensacao: de estar nervoso, estimulos: [ levantar susto sobrancelha e quase piscar olhos ajuda na Projecao., ]
+  - Afinar: usar a <Corda do gogó> para achar o tom do grave ao agudo e se manter a emissão nesse tom encontrado, usar para esse tom desejado a sua escala nas regioes grave e aguda - igual um teclado.
 
 ---
 
@@ -18,10 +19,19 @@ Finais: de ênfase deixe claras as vogais finais.
 
   Saida_do_Som : Oral : levar a saida para o meio da papada e o gogo.
   .
-Dinamicas_Funcionais :
-  Relaxa : maior
-  Estica_tensiona : menor
-  Tensiona_suspense_deixa_no_ar_PedirPraAcabar : com setima
+Dinamicas_Funcionais_Vocal_e_Musical :
+
+  Relaxa :
+    Acorde: Maior ,
+    SentimentoPassado: [ Normal, ],
+    ClimaTransmitir: [ Tranquilo, ],
+    notas_Melodicas : [ Dentro da Triade e do Campo Harmonico, ]
+
+  Tensiona :
+    Acorde: [ Menor, ComSetima, Diminuta ],
+    SentimentoPassado: [ Fora do Normal, ],
+    ClimaTransmitir: [ Falar com um Bebê, ],
+    notas_Melodicas : [ Fora da Triade e do Campo Harmonico, Notas que chocam ]
 
 ]
 
