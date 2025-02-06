@@ -12,7 +12,10 @@ Emissao: [
 
 1 - Só começar a emitir depois de aquecer a vóz.
 
-2 - Preparo_Som: cada inicio como se tivesse Bocejando,
+2 - Preparo_Som: cada inicio como se tivesse Bocejando, Sempre que tocar língua no céu da boca é um início um ModoDeFonacao.
+
+macetes: se quiser continuar no mesmo modo não toque a língua no céu da .
+
   Inicio_Ataque : atacar baixo e subir gradualmente para $Projecao.
 
 Finais: de ênfase deixe claras as vogais finais.
