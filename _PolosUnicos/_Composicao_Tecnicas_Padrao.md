@@ -12,7 +12,7 @@ Composicao_Dados_A_Serem_Coletados :
     O_Que_Houve_Pra_Tudo_Estar_Assim
     O_Que_Precisa_Pra_Melhorar_O_Cenario
     A_Grande_Solucao_Pro_Futuro
-    PraQue_da_Grande_Solucao_Pro_Futuro
+    Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro
 
   Vogais :
     Estilo_Vogal_Disponiveis :
@@ -197,7 +197,7 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar
 ### Estrofe : Sessao_REFRAO_IN
 
     Sessao : R_IN,
-    Conduta_Master: [ $A_Grande_Solucao_Pro_Futuro, ou $Tema, ]
+    Conduta_Master: [ $Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro, ou $Tema, ]
     Conduta_Opcoes : [
       Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
     ]
