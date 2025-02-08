@@ -27,7 +27,7 @@ Objetivos_ao_Emitir : [
 
 - afinado: mantenha o som direcionado na região do tom escolhido no gogó.
 
-- Entregue a mensagem inteira no mesmo ar.
+- Meio : a maioria tem pequenas pausas no meio da frase , então chegue nela impulsionando pra depois inserir o fim.
 
 - Finais : libere o ar do início, estética: padrao glissando, Cabe_Enfeites_Finais: [ melisma, vibrato   ] 
 
