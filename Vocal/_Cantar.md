@@ -12,7 +12,7 @@ Emissao: [    ]
 
 ---
 
-2 - Aspira - como bocejo - sentir no umbigo e recolha o umbigo pra dentro.
+2 - Aspira - como chupar canudinho, sentir ar no céu da boca - sentir no umbigo e recolha o umbigo pra dentro.
 
 
 Objetivos_ao_Emitir : [
