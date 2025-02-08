@@ -3,13 +3,15 @@ Definicoes :
 
 Samba :
 SambaA_Piano  , exemplos : [ EstranhaLoucura  ]
-  , exemplos : [ CoracaoOartido, TempoDeAprender, ]
- , exemplos : [ QuemDera,  ]
-  , exemplos : [ APagodeira,  ]
- , exemplos : [ VaiLaVaiLa,  ]
-  , exemplos : [ EstrelaDaPaz, ]
- , exemplos : [ ZeDoCaroco, ]
-  , exemplos : [  ]
+SambaB_Lento  , exemplos : [ CoracaoOartido, TempoDeAprender, ]
+SambaC_PraFrente , exemplos : [ QuemDera,  ]
+SambaD_Sensual , exemplos : [ BoleBole, Miudinho, ]
+SambaE_Salsa , exemplos: [ VemCaMenina, ]
+SambaF_Partidinho  , exemplos : [ APagodeira,  ]
+SambaG_Partido , exemplos : [ VaiLaVaiLa,  ]
+SambaH_Partidao  , exemplos : [ EstrelaDaPaz, ]
+SambaI_PartidoPraFrente , exemplos : [ ZeDoCaroco,VouPedirPraVoceVoltar,  ]
+
 
 
 Agito:
