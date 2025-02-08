@@ -14,14 +14,22 @@ Emissao: [    ]
 
 2 - Aspira - como bocejo - sentir no umbigo e recolha o umbigo pra dentro.
 
- 
+
+Objetivos_ao_Emitir : [
+
+3 - Objetivo: Ser ouvido, alcançar os ouvintes alvos.
+
 
 3 - inicios_e_trechos_iniciais : 
-- tocar língua no céu da boca arraz dos dentes.
+- tocar língua no céu da boca arraz dos dentes. (LÂ LÂ)
 
-- sem respirar em trechos de inicio, xante e segure o ar, só solte em finais enfatizando a vogal final.
+- sem respirar em trechos de inicio, segure o ar, Cabe_Enfeites_Iniciais: [ glissando, vibrato, melisma   ] 
 
 - afinado: mantenha o som direcionado na região do tom escolhido no gogó.
+
+- Entregue a mensagem inteira no mesmo ar.
+
+- Finais : libere o ar do início, estética: padrao glissando, Cabe_Enfeites_Finais: [ melisma, vibrato   ] 
 
 Detalhes :
 Lingua: só toque no céu se for mudar o ModoDeFonacao .
@@ -47,20 +55,6 @@ Dinamicas_Funcionais_Vocal_e_Musical :
 
 ---
 
-
-Conceitos
-
-Objetivos_ao_Emitir : [
-
-- Objetivo: Ser ouvido, alcançar os ouvintes alvos,
- Forma : Equilibrar e sentir lados do peito + 2 ossos da costela se unindo + abrir espaço de bocejo no palato + direcionar voz entre gogo e papada + sentir liberacao de som pra frente em ataques glissando.
-
-
-- Objetivo : Cada emissão tenha como objetivo PASSAR UMA MENSAGEM.
-  Forma : passe a frase inteira no mesmo ar.
-
-
-]
 
 ---
 
