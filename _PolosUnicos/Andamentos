@@ -2,27 +2,29 @@
 Definicoes :
 
 Samba :
-SambaA_Piano  , exemplos : [ EstranhaLoucura, Tua Boca - Belo,   ]
+Samba_Piano  , exemplos : [ EstranhaLoucura, Tua Boca - Belo,   ]
 
-SambaB_Lento  , exemplos : [ CoracaoPartido, TempoDeAprender, ]
+Samba_Lento  , exemplos : [ CoracaoPartido, TempoDeAprender, ]
 
-SambaC_PraFrente , exemplos : [ QuemDera,  ]
+Samba_PraFrente , exemplos : [ QuemDera,  ]
 
-SambaD_Sensual , exemplos : [ BoleBole, Miudinho, ]
+Samba_Sensual , exemplos : [ BoleBole, Miudinho, ]
 
-SambaE_Salsa , exemplos: [ To que To - Soweto, ]
+Samba_Salsa , exemplos: [ To que To - Soweto, ]
 
-SambaF_Afoxe  , exemplos : [ Oya, CriancasDoBrasil, ]
+Samba_Afoxe  , exemplos : [ Oya, CriancasDoBrasil, ]
 
-SambaG_PagodeBaiano_11  , exemplos : [ Nenem, ]
+Samba_PagodeBaiano  , exemplos : [ Nenem, ]
 
-SambaH_Partidinho  , exemplos : [ APagodeira,  ]
+Samba_PagoFunk  , exemplos : [ É no Pagode, ]
 
-SambaI_Partido , exemplos : [ VaiLaVaiLa,  ]
+Samba_Partidinho  , exemplos : [ APagodeira,  ]
 
-SambaJ_Partidao  , exemplos : [ EstrelaDaPaz, ]
+Samba_Partido , exemplos : [ VaiLaVaiLa,  ]
 
-SambaL_PartidoPraFrente , exemplos : [ ZeDoCaroco,VouPedirPraVoceVoltar,  ]
+Samba_Partidao  , exemplos : [ EstrelaDaPaz, ]
+
+Samba_PartidoPraFrente , exemplos : [ ZeDoCaroco,VouPedirPraVoceVoltar,  ]
 
 
 
