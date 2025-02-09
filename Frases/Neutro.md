@@ -1,4 +1,4 @@
-# TRISTE
+# NEUTRO
 
 # Sentimento: NOVO
 
