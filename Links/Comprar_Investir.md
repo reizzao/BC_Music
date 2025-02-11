@@ -1,5 +1,7 @@
 # INVESTIR
 
+* Curso de Canto com Kadu Vieira : 12.00 ( https://louvart.online/destrave-vocal-curso-12/ )
+
 Composição Infinita Nelodias : 5 pix parcelado de 100.00 (500) total : https://pay.hotmart.com/K90815969M?off=lb4b6dha&checkoutMode=10
 
 Ritmos
