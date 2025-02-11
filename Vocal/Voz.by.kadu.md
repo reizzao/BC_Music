@@ -1,0 +1,1 @@
+rzj em 2024: Sou equilibrado + Sitaque Paulista normal, mas pra cantar canto mole e pra dentro rs
