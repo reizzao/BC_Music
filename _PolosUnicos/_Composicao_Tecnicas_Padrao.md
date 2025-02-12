@@ -88,7 +88,8 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
 
     Sessao : A,
     Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
-    Conduta_Opcoes : [
+    Gatilhos_Relacionados_A_Emocao_Central : [    ]
+Faça Isso,
       OQuefoiFeito, O Problema é que,
 O que a Personagem é, falar com alguém pelo fone ,
 O que fez ?, O que faz ?,Hum ...,Já que , Já ,É que ..., Porque ...,Contar fatos pra alguém, Sempre, Quando,Dar ordem que mude algo, O que estava fazendo,
