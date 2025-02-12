@@ -1,10 +1,19 @@
 # CANTAR
 
 ---
+# Conceitos
+
+- Só começar a emitir depois de aquecer a vóz.
+- todo bloco de Estrofe tem duas fraees Grave e Agudas.
+- no início is blocos por padrão começam grave e terminam agudo , e o inverso na oarte do meio e refrão. obs: podem começar no agudo ( quando comecam em subida, ou tom menores, )
+
+
+---
+
 
 Emissao: [    ]
 
-- Só começar a emitir depois de aquecer a vóz.
+
 
 
 - Afinar: usar a <Corda do gogó> para achar o tom do grave ao agudo e se manter a emissão nesse tom encontrado, usar para esse tom desejado a sua escala nas regioes grave e aguda - igual um teclado.
