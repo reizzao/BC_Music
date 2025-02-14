@@ -1,7 +1,7 @@
 Exercicio_Emissao_HA_10_srg :
 - abre 2 dedos a inferior Mandíbula pra baixo,
 - abre a parte superior dos lábios no mesmo desenho de O da mandíbula
-- emite Â de Angela por 10 segundos
+- emite Â de Angela por 10 segundos, sem muito volume, som vindo do fim da língua,
 - Língua atraz da gengiva inferior 
 
 tutorial : https://www.instagram.com/reel/DF_ElTvpKkH/?igsh=MXZvdDF6anQ5N2Jodg==
