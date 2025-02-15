@@ -3,6 +3,8 @@
 ---
 # Conceitos
 
+- Tenho que treinar a base, sentir o movimento das notas e com isso primeiro me sentir firme no grave , e no fim alcançar os agudos
+
 - Só começar a emitir depois de aquecer a vóz.
 - todo bloco de Estrofe tem duas fraees Grave e Agudas.
 - no início is blocos por padrão começam grave e terminam agudo , e o inverso na oarte do meio e refrão. obs: podem começar no agudo ( quando comecam em subida, ou tom menores, )
