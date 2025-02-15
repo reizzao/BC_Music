@@ -1,3 +1,6 @@
+A lição de hj que me ficou .. é que tenho que treinar a base, sentir o movimento das notas e com isso primeiro me sentir firme no grave , e no fim alcançar os agudos
+
+
 CONFIGURACOES
 
 Respiracao : 
