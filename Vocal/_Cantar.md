@@ -6,47 +6,29 @@
 - Tenho que treinar a base, sentir o movimento das notas e com isso primeiro me sentir firme no grave , e no fim alcançar os agudos
 
 - Só começar a emitir depois de aquecer a vóz.
-- todo bloco de Estrofe tem duas fraees Grave e Agudas.
-- no início is blocos por padrão começam grave e terminam agudo , e o inverso na oarte do meio e refrão. obs: podem começar no agudo ( quando comecam em subida, ou tom menores, )
+
+- Aspirar : Puxe o ar como contrariado pelo lado da boca, sentido que vai ser enchido a parte de baixo lateral da barriga.
 
 
 ---
 
+# EMISSAO
 
-Emissao: [    ]
+Estilo_Frase
 
+Início: Retas : movimentos : mesmo local., estetica: $esteticaFinalInicio,
 
+Meio: Var_Meio: movimentos: desce ou sobe. estética: $esteticaFinalMeio
 
-
-- Afinar: usar a <Corda do gogó> para achar o tom do grave ao agudo e se manter a emissão nesse tom encontrado, usar para esse tom desejado a sua escala nas regioes grave e aguda - igual um teclado.
-
+Fecha: Var_Fecha: movimentos: copia o ultimo dessa categoria. estética: $esteticaFinalFecha
 
 ---
+Variáveis
+esteticaFinalInicio : [ lisa, ]
+esteticaFinalMeio : [ vibrato, liso,]
+esteticaFinalFecha : [ lisa, melisma ]
 
-2 - Aspira - como chupar canudinho, sentir ar no céu da boca - sentir no umbigo e recolha o umbigo pra dentro.
-
-
-Objetivos_ao_Emitir : [
-
-3 - Objetivo: Ser ouvido, alcançar os ouvintes alvos.
-
-
-3 - inicios_e_trechos_iniciais : 
-- tocar língua no céu da boca arraz dos dentes. (LÂ LÂ)
-
-- sem respirar em trechos de inicio, segure o ar, Cabe_Enfeites_Iniciais: [ glissando, vibrato, melisma   ] 
-
-- afinado: mantenha o som direcionado na região do tom escolhido no gogó.
-
-- Meio : a maioria tem pequenas pausas no meio da frase , então chegue nela impulsionando pra depois inserir o fim.
-
-- Finais : libere o ar do início, estética: padrao glissando, Cabe_Enfeites_Finais: [ melisma, vibrato   ] 
-
-Detalhes :
-Lingua: só toque no céu se for mudar o ModoDeFonacao .
-
-Blocos_Melodicos : As melodias são blocos de notas e cada bloco Melodico é cansado no mesmo fôlego.
-
+---
 
 Dinamicas_Funcionais_Vocal_e_Musical :
 
