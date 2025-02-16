@@ -22,6 +22,15 @@ Meio: Var_Meio: movimentos: desce ou sobe. estética: $esteticaFinalMeio
 
 Fecha: Var_Fecha: movimentos: copia o ultimo dessa categoria. estética: $esteticaFinalFecha
 
+
+Sentimento_Voz :
+ Por_Estrofe :
+   Inicio : Misteriosa
+   Meio : Agressiva
+   Final : Marcante
+
+
+
 ---
 Variáveis
 esteticaFinalInicio : [ lisa, ]
