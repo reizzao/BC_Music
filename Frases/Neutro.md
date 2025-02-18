@@ -6,10 +6,16 @@
 * vou nada
 * se é louco não compensa
 * Você não está preparada
+* Sé loco não compensa
+
 
 ## E
 *
 *
+
+## I
+* Já que a gente ficou no quase, será que é hoje 
+que o coro come
 
 ## O
 *
