@@ -2,6 +2,9 @@
 
 # Sentimento: NOVO
 
+# MOTIVADOR
+* Seja você e deixe que o mundo se adapte.
+
 ## A
 * vou nada
 * se é louco não compensa
