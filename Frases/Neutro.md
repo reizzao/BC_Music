@@ -10,7 +10,7 @@
 * se é louco não compensa
 * Você não está preparada
 * Sé loco não compensa
-
+* Primeiro começa depois melhora
 
 ## E
 *
