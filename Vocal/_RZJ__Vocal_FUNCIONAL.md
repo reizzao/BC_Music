@@ -14,3 +14,10 @@ tutoriais : ( by Barbara https://www.instagram.com/reel/DGUhqf_tOwv/?igsh=MWs5M2
 Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
 
 
+---
+# EMISSAO :
+- todas frases do meio acabam sem força na voz
+- só o final da última frase da estrofe pode dar enfase / força na última vogal.
+- 
+
+
