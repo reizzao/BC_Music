@@ -10,3 +10,7 @@ Laringe : é o músculo do Gogó
 
 tutoriais : ( by Barbara https://www.instagram.com/reel/DGUhqf_tOwv/?igsh=MWs5M2ZzZ3NrbGpkdQ== )
 
+
+Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
+
+
