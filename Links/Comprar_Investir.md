@@ -17,6 +17,10 @@ Fone particular : Fone Realfit f2 , preco: 40.00 shope
 
 Loops My VS completao variis ritmos. zap: +55 18 99137-3977 , preco 100.00 completo ou 30.00 individual. Playlist: (https://youtube.com/playlist?list=PL582eajVkXnmoP1rV2Uvo2-jAygdbehCg&si=9N-9_zpF4PMyFj3R)
 
+---
+
+Hardware: 
+ - microfone USB,por 70.00,  indicado Menina Bandlab Julia 2025 - (https://pt.aliexpress.com/item/1005005954279936.html)
 
 
 talvez comprar packs de bateria : 37.00 (https://www.facebook.com/61554496677790/videos/909583510671279/?app=fbl)
