@@ -21,7 +21,10 @@ Loops My VS completao variis ritmos. zap: +55 18 99137-3977 , preco 100.00 compl
 
 Hardware: 
  - microfone USB,por 70.00,  indicado Menina Bandlab Julia 2025 - (https://pt.aliexpress.com/item/1005005954279936.html)
+review : https://youtu.be/gYNa18yPHjg?si=8gjeFsJFwAkdNklr
 
+
+---
 
 talvez comprar packs de bateria : 37.00 (https://www.facebook.com/61554496677790/videos/909583510671279/?app=fbl)
 
