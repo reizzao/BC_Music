@@ -26,4 +26,23 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
 - 
 
 ---
+# INTERPRETACAO 
+Sentimentos_ba_voz : 
+
+### RELAXANTE :
+Sussurrando , 
+Guti Guti Neném ,
+
+
+---
+### TENSA
+
+Antipático,
+Insistente,
+Desesperado,
+Criança Chorando
+
+---
+
+
 
