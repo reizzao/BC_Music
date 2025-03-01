@@ -2,13 +2,13 @@
 
 Laringe : é o músculo do Gogó
 
-  treinar: ele tem que estar malhado pea mover baixo_Grave e alto_Agudo
+  treinar: abaixar laringe, engolir cuspi.
+  objetivo : laringe sempre baixa.
 
- movimentação:
-  Regioes_Baixas : laringe abaixa.
-  Regioes_Altas : laringe sobe
+Afinacao : cada região de escala ( 1,2,3,4) tem a seu padrão de abertura de boca da fechada do geave a mais aberta di agudo.
 
-tutoriais : ( by Barbara https://www.instagram.com/reel/DGUhqf_tOwv/?igsh=MWs5M2ZzZ3NrbGpkdQ== )
+exemplo: escala Regiao_2 (C2, D2 etc.) tem uma abertura fechada, e as Regiies_Agudas a boca maus aberta principalmente no fundo.
+
 
 
 Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
