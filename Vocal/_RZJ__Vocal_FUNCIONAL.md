@@ -17,6 +17,9 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
 ---
 # EMISSAO :
 
+- ataque: concentrar ataque nos dentes.
+- boca: não fechar boca,aspire já com boca aberta.
+
 - todas frases do meio acabam sem força na voz
 
 - variação de finais : 1° pra cima, 2° dissolve fraco, 3° ênfase / efeitoFechaEstrofe última vogal.
