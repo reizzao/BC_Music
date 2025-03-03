@@ -87,6 +87,7 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
 ### Estrofe : Sessao_A
 
     Sessao : A,
+    Emocao: apaixonado,
     Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
     Gatilhos_Relacionados_A_Emocao_Central : [    ]
 Faça Isso,
