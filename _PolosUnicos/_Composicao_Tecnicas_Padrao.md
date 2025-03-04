@@ -87,9 +87,10 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
 ### Estrofe : Sessao_A
 
     Sessao : A,
-    Emocao: apaixonado,desavafo
+    Emocao: desabafando
     Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
-    Gatilhos_Relacionados_A_Emocao_Central : [    ]
+    Gatilhos_Relacionados_A_Emocao_Central : [ 
+Desabafo,
 Faça Isso,
 Narração de quem está no lugar/situação,
       OQuefoiFeito, O Problema é que,
