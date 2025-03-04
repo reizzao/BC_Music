@@ -1,54 +1,36 @@
-[Comment:  1 Olfato, 2 Visao, 3 Audicao, 4 Toque, 5 Paladar, 6 Movimento, 7 Corpo ]
-[Comment: Frase nas Sessoes _1_ > ACAO_CONCLUSIVA]
-[Comment: Frase nas Sessoes _2_ > EAI_CONCLUSIVO]
-[Comment: # -----------------------------]
-
 <DETAILS>
 [Comment: # Estilo: MEDIO_PAGODE ]
-[SET_STYLE: samba-inspired with funk groove, batida envolvente, sensual, Bateria, samba-reggae, pagode, funk melody , one male voice , pt-br portuguese ]
-[SET_BPM: 95 ]
-[SET_INSTRUMENTS: "acoustic guitar, cavaquinho, tamborim, 808 drum"]
-[SET_MOOD: "upbeat, festive"]
-[ The voice always softer ]
-[ compasso: "4/4" ]
-[ instrumental: "Voice, Guitar" ]
-[ voice : one male voice, excited ]
+
+[ SET_STYLE: brazilian voice, one male voice, pagofunk , pagode   Universitário , samba-inspired with funk groove, batida envolvente, sensual, Bateria, samba-reggae, pagode, funk melody, The voice always softer ]
+[ Emotional: sad , # happy ou sad ]
+
 <\DETAILS>
 
-[INTRO]
+[ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
+
+
+[ INTRO, prelude,  Acoustic guitar piano ]
 " "
 
-[verse] [ Whispered, Harmonized]
-
-# _1_
-# _2_
-
-[verse 2] [ Whispered, Harmonized, The voice always softer, Continue to complement the harmony and melody from the previous session with small, subtle changes. ]
-
-# _1_
-# _2_
+[VERSE] [  Whispered Harmonized , Emotional: passionate,  #apaixonado ]
 
 
-[ pre-chorus] [ musical ballad, The voice and melody gradually growing]
 
-# _1_
-# _2_
+[CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining , # explicando ]
 
-[ bridge]
 
-# _1_
-# _2_
 
-[ chorus, 2x] [expressive]
+[VERSE] [  Whispered Harmonized , Emotional: passionate,  #apaixonado ]
 
-# _1_ ATAQUE
-# _2_
 
-# _1_ ACALMA
-# _2_
 
-[outro]
-# _1_ FECHA
-# _2_
+[CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining , # explicando ]
 
-[ Fade in, Fade out, end]
+
+
+[ BULDUP, Emotional: distressed, # angustiado, Whispered Harmonized,  ]
+
+
+
+[CHORUS , hook, expressive, emotional: beggar, # pedinte ][2x]
+

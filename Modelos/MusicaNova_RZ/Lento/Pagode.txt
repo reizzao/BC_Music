@@ -1,54 +1,44 @@
-[Comment:  1 Olfato, 2 Visao, 3 Audicao, 4 Toque, 5 Paladar, 6 Movimento, 7 Corpo ]
-[Comment: Frase nas Sessoes _1_ > ACAO_CONCLUSIVA]
-[Comment: Frase nas Sessoes _2_ > EAI_CONCLUSIVO]
-[Comment: # -----------------------------]
-
 <DETAILS>
 [Comment: # Estilo: LENTO_PAGODE ]
-[ SET_STYLE: pagofunk , pagode , melancholic, one male voice , pt-br portuguese, delicate rhythmic pattern inspired by samba pop latino]
-
-[SET_BPM: 90 ]
-[SET_INSTRUMENTS: "acoustic guitar, piano, 808 drum"]
-[SET_MOOD: "melancholic"]
-[ compasso: "4/4" ]
-[ instrumental: "Voice, Guitar" ]
-[ voice : one male voice,The voice always softer, passionate ]
+[ SET_STYLE : pagofunk, pagode, bolero ]
+[Voice: one male voice, brazilian,The voice always softer  ]
+[ Emotional: sad , # happy ou sad ]
 <\DETAILS>
 
-[INTRO]
+[ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
+
+[ Comment: # Sinopse: Tema_O_Grande_Fato: ???  ]
+
+
+[ INTRO, prelude,  Acoustic guitar piano ]
 " "
 
-[verse] [ Whispered, Harmonized, The voice always softer]
-
-# _1_
-# _2_
-
-[verse 2] [ Whispered, Harmonized, The voice always softer, Continue to complement the harmony and melody from the previous session with small, subtle changes. ]
-
-# _1_
-# _2_
+[VERSE] [  Whispered Harmonized , Emotional: passionate ]
+[ Comment: #apaixonado #desabafo_do_Fato ]
 
 
-[ pre-chorus] [ musical ballad, The voice and melody gradually growing]
 
-# _1_
-# _2_
+[CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining ]
+[Comment: # explicando, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato ]
 
-[ bridge]
 
-# _1_
-# _2_
 
-[ chorus, 2x] [expressive]
+[ PRE-CHORUS, Emotional: distressed ] [ musical ballad]
+[ Comment: # angustiado, O_Que_Houve_Pra_Tudo_Estar_Assim ]
 
-# _1_ ATAQUE
-# _2_
 
-# _1_ ACALMA
-# _2_
+[ BULDUP, Emotional: passionate, Whispered Harmonized,  ]
+[Comment: # apaixonado, Acao_Pra_Melhorar_O_Cenario ]
 
-[outro]
-# _1_ FECHA
-# _2_
 
-[ Fade in, Fade out, end]
+
+[ CHORUS , expressive, emotional: beggar,  ][2x]
+[Comment: # linha 1 - pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 ]
+
+[Comment: # linha 2 - Pra que , fez o pedido para, Rima1 ]
+
+
+[Comment: # linha 3 - O que vai acontecer se o pedido for realizado, Rima2 ]
+
+
+[Comment: # linha 4 - Grande Desejo do tema, Ou o Tema, Rima2 ]

@@ -7,10 +7,13 @@ Composicao_Dados_A_Serem_Coletados :
     Emocao_Central : Sentimento
 
   Sinopse :
-    O_Grande_Fato_Que_Esta_Acontecendo
-    Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
+
+
+  Tema_O_Grande_Fato
+    Desabafo_do_Fato
+    O_Que_Eu_Quero_Sobre_Desabafo_do_Fato
     O_Que_Houve_Pra_Tudo_Estar_Assim
-    O_Que_Precisa_Pra_Melhorar_O_Cenario
+    Acao_Pra_Melhorar_O_Cenario
     A_Grande_Solucao_Pro_Futuro
     Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro
 
@@ -89,7 +92,7 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
     Sessao : A,
     Emocao: desabafando
     Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
-    Gatilhos_Relacionados_A_Emocao_Central : [ 
+    Gatilhos_Relacionados_A_Emocao_Central : [
 Desabafo,
 Faça Isso,
 Narração de quem está no lugar/situação,
@@ -183,7 +186,7 @@ Conceito : Frase de impacto que deixa no ar Uma DEIXA pra grande solucao,
 
 Tempo_Verbal : Pro_Futuro / Presente Pensando no Futuro
 Personagem_da_Sessao:
-Objetivo_Descrever : $O_Que_Precisa_Pra_Melhorar_O_Cenario
+Objetivo_Descrever : $Acao_Pra_Melhorar_O_Cenario
 
 Musical :
   Andamento :
