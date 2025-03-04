@@ -11,6 +11,8 @@
 * Você não está preparada
 * Sé loco não compensa
 * Primeiro começa depois melhora
+* Dorme com essa
+
 
 ## E
 *
