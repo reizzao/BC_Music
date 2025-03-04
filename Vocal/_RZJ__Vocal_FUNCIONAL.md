@@ -32,6 +32,8 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
 # INTERPRETACAO 
 Sentimentos_ba_voz : 
 
+Emocional_Central: é lógico só pode ser Alegre ou Triste a musica.
+
 ### RELAXANTE :
 Sussurrando , 
 Guti Guti Neném ,
