@@ -17,6 +17,11 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
 ---
 # EMISSAO :
 
+Padrões: 
+ Padrão Voz: 
+   Inicios : Relaxado, acorde_grau: 1, 4, 6,
+   Finais : Tenso , acorde_grau : 5, 4, 3, 
+
 - ataque: concentrar ataque nos dentes.
 - boca: não fechar boca,aspire já com boca aberta.
 
