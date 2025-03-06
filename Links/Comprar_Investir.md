@@ -1,5 +1,7 @@
 # INVESTIR
 
+* Bolador de tabaco - vape - (https://culturapuff.com.br/collections/boladores?fbclid=PAY2xjawI27wJleHRuA2FlbQIxMQABppajNBMQa4RSNRcMYm_hCEFtV4fW_t4wo4TMSYkijq7-0cqoEbZe5V_jYg_aem_EuHs1s40wrXtsZaI5tXFiw)
+
 * Curso de Canto com Kadu Vieira : 12.00 ( https://louvart.online/destrave-vocal-curso-12/ )
 
 Composição Infinita Nelodias : 5 pix parcelado de 100.00 (500) total : https://pay.hotmart.com/K90815969M?off=lb4b6dha&checkoutMode=10
