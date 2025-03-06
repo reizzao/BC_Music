@@ -7,15 +7,25 @@ Laringe : é o músculo do Gogó
 
 Afinacao : cada região de escala ( 1,2,3,4) tem a seu padrão de abertura de boca da fechada do geave a mais aberta di agudo.
 
+- cada frase cantada é uma escala [ escala melódica, escala tensão pra finais ]
+
 exemplo: escala Regiao_2 (C2, D2 etc.) tem uma abertura fechada, e as Regiies_Agudas a boca maus aberta principalmente no fundo.
 
 
 
 Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
 
+# RESPIRACAO :
+  Aspirar : Aspire com a boca já aberta,
+  Apoio : apoie para resistência no pulmão, como se   fosse puxar as pernas pra frente
+
 
 ---
 # EMISSAO :
+
+essenciais : [
+  clima: comece emitir com ânimo, clima,
+]
 
 Padrões: 
  Padrão Voz: 
@@ -27,10 +37,11 @@ Padrões:
    Finais : Tenso , acorde_grau : 5, 4, 3, macetes : [  
 - dê mais espaço no fundo do tratoVocal,  
 - verticalize e de enfase as vogais,
+- concentrar inicios e finais com a lingua atraz da gengiva,
 ]
 
 
-- ataque: concentrar ataque nos dentes.
+- ataque: concentrar ataque na língua atraz da gengiva atraz dos dentes.
 - boca: não fechar boca,aspire já com boca aberta.
 
 - todas frases do meio acabam sem força na voz
