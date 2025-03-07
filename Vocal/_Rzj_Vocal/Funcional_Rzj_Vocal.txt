@@ -24,7 +24,9 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
 # EMISSAO :
 
 essenciais : [
-  clima: comece emitir com ânimo, clima,
+  clima: comece emitir com ânimo, clima
+
+ afinacao: começos e finais tem que estar nas notas do acorde, variacoes/enfeites/sair das notas da triade somente no meio, porque tem que começar e terminar a frase dentro das notas da triade.
 ]
 
 Padrões: 
