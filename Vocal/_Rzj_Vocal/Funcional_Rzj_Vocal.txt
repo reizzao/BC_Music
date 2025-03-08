@@ -11,6 +11,9 @@ Afinacao : cada região de escala ( 1,2,3,4) tem a seu padrão de abertura de bo
 
 exemplo: escala Regiao_2 (C2, D2 etc.) tem uma abertura fechada, e as Regiies_Agudas a boca maus aberta principalmente no fundo.
 
+## BOCA
+- abertura_boca: o maxilar tem 2 fases de abertura: no agudo impulsione e use a segunda fase de abertura com espaço no fundo forçando a parese de fundo da garganta.
+
 
 
 Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
