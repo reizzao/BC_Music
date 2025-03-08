@@ -27,7 +27,7 @@ que o coro come
 *
 
 ## U
-*
+* Se tiver de renda eu rendo
 *
 
 ---
