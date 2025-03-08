@@ -19,6 +19,8 @@ Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas de
   Aspirar : Aspire com a boca já aberta,
   Apoio : apoie para resistência no pulmão, como se   fosse puxar as pernas pra frente
 
+pausa_respira: nao precisa de 1 ar para uma frase inteira, divida uma em 2 subfrases e aspireRapido nessa pausa.
+
 
 ---
 # EMISSAO :
