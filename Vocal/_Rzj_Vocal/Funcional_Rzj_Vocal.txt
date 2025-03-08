@@ -1,5 +1,9 @@
 # RZJ VOCAL FUNCIONAL
 
+---
+
+## COMPORTAMENTOS 
+
 Laringe : é o músculo do Gogó
 
   treinar: abaixar laringe, engolir cuspi.
@@ -14,6 +18,7 @@ exemplo: escala Regiao_2 (C2, D2 etc.) tem uma abertura fechada, e as Regiies_Ag
 ## BOCA
 - abertura_boca: o maxilar tem 2 fases de abertura: no agudo impulsione e use a segunda fase de abertura com espaço no fundo forçando a parese de fundo da garganta.
 
+Intensionar_Sentimento : antes de mandar a frase sempre impulsione a intensão pra ser Relaxado (grave) ou Tenso Antipático (Agudo)
 
 
 Vocalizes : são ações para usar na hora de cantar , (sobe e desce de notas dentro de uma região aguda ou grave).
