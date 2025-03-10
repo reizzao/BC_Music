@@ -35,6 +35,8 @@ pausa_respira: nao precisa de 1 ar para uma frase inteira, divida uma em 2 subfr
 
 Start: soprar o ar ao bico frontal em forma de AU.
 
+Manipulacao_Labios : nas regioes graves lábios de toda boca abrem pouco, já nas regioes agudas lábios abrem Mais.
+
 essenciais : [
   clima: comece emitir com ânimo, clima
 
