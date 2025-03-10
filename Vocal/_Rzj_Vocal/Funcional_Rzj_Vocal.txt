@@ -42,6 +42,8 @@ essenciais : [
 Padrões: 
  Padrão Voz: 
 
+  Resumo : cante reto os inicios no tom, e no final ou sua ou Desça.
+
    Inicios : Relaxado, acorde_grau: 1, 4, 6, macetes : [ 
 - Som na frente da boca,
 ]
