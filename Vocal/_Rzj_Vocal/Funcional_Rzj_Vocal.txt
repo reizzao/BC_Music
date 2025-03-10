@@ -33,6 +33,8 @@ pausa_respira: nao precisa de 1 ar para uma frase inteira, divida uma em 2 subfr
 ---
 # EMISSAO :
 
+Start: soprar o ar ao bico frontal em forma de AU.
+
 essenciais : [
   clima: comece emitir com ânimo, clima
 
