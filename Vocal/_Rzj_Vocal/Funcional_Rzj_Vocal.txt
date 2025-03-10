@@ -38,8 +38,11 @@ link : https://www.instagram.com/reel/DGi5nilpPOI/?igsh=Mzh4bmhrcXRjcnlt
 
 Start: soprar o ar ao bico frontal em forma de AU.
 
-macetes : [
+macetes : [    ]
+- peito do Superman
 - boca de NORJO,
+- língua atraz da gengiva, 
+- canto reto, finais sobe ou desce melodia
 ]
 
 Manipulacao_Labios : nas regioes graves lábios de toda boca abrem pouco, já nas regioes agudas lábios abrem Mais.
