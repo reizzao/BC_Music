@@ -1,18 +1,31 @@
+# EMISSAO
+
 Resumo_Emissao : [ 
 
-- peito do Superman, barriga reta, como puxar pernas pra traz.
+- 1 - peito do Superman, barriga reta, como puxar pernas pra traz.
 
-- boca de NORJO,
+- 2 - Aspira com boca de NORJO já aberta
 
-- língua atraz da gengiva, 
+- 3 - Movimento_Emisssao : 
+   1 - Start voz no bico frontal. voz de FALA
+   2 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
+   3 - final : 
+   acessos: miau de gato, choro de bebê, 
+   
+movimento:
+    *termina agudo sem força no fim da garganta empurrando parede de traz da garganta com espaço de ar dentro da buchecha , 
+    * abrindo mais a boca. 
+    * com a língua atraz da gengiva.
 
-- canto reto, finais sobe ou desce melodia
+obervacoes_demissão: [
+  - executar no mesmo ar sempre que possível os 3 movimento acima. 
 
-- elástico vocal, sentir começo Grave no bico frontal e finais agudos na parede das costas da garganta, igual um elástico começa tensionando na frente termina tensionando atraz do cano da garganta.
-
-- agudos: começa gravece estica, estimulo : choro de bebê, leve, sem colocar volume
-
+  - canto reto, finais sobe ou desce melodia
+  
 ]
+  
+
+---
 
 Musicalmente: [
 
