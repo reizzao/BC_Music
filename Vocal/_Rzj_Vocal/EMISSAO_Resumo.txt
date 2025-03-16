@@ -7,13 +7,15 @@ Constantes : [
 
 ]
 
-Resumo_Emissao : [ 
+Ordem_Emissao : [ 
 
 - 1 - peito do Superman, barriga reta, como puxar pernas pra traz.
 
-- 2 - Aspira com boca de NORJO já aberta
+- 2 - baixa a Laringe Gogó.. pensa em falar letra B
 
-- 3 - Movimento_Emisssao : 
+- 3 - Aspira já com boca de NORJO já aberta
+
+- 4 - Movimento_Emisssao : 
    1 - Start voz no bico frontal. voz de FALA
    2 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
    3 - final : 
