@@ -1,5 +1,12 @@
 # EMISSAO
 
+Constantes : [
+  Clima: Animado  ,
+  Flow: primeira nota forte,
+
+
+]
+
 Resumo_Emissao : [ 
 
 - 1 - peito do Superman, barriga reta, como puxar pernas pra traz.
