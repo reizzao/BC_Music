@@ -14,7 +14,7 @@ Composicao_Dados_A_Serem_Coletados :
     O_Que_Eu_Quero_Sobre_Desabafo_do_Fato
     O_Que_Houve_Pra_Tudo_Estar_Assim
     Acao_Pra_Melhorar_O_Cenario
-    A_Grande_Solucao_Pro_Futuro
+    A_Grande_Solucao_Pro_Futuro_PraMudarAVida_GrandeRecado
     Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro
 
   Vogais :
