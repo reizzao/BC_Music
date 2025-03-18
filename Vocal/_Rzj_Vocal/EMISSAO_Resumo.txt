@@ -1,4 +1,4 @@
-# EMISSAO
+6# EMISSAO
 
 Constantes : [
   Clima: Animado  ,
@@ -15,7 +15,7 @@ Ordem_Emissao : [
 
 - 3 - Aspira já com boca de NORJO já aberta, manterá a laringe baixa o ar.
 
-- 4 - Movimento_Emisssao : 
+- 4 - Timbre_Movimento_Emisssao : 
    1 - Start voz no bico frontal. voz de FALA
    2 - da ênfase na primeira do Flow / NotaForte
    3 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
@@ -33,7 +33,30 @@ obervacoes_demissão: [
   - canto reto, finais sobe ou desce melodia
   
 ]
-  
+
+Enfeite_Divisao_em_Frases :
+
+conceitos : [
+Uma frase pode ser dividida em 2 enfeites no Inicio e pra Finalizar,
+
+Ao usar um Modo ou enfeite no Início ou fim mó próximo use um Contrate oara evitar repetir o mesmo modo e enfeite entre o começo e fim, sempre faça um contrate.,
+
+
+Modos_e_Embelezamentos : 
+
+Começos: 
+Modo: [ Pleno_FortePeito, Falsete_Fraco, ]
+Enfeite: [ Whisper_Sussurro, Liso, Glissando, Falsete, 
+]
+
+Finais : 
+Modo : [ Falsete_Fraco,  ]
+Enfeite : [  
+Liso, Vibrato, Melisma, Mordentes  
+] 
+
+
+
 
 ---
 
