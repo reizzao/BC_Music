@@ -7,15 +7,17 @@ Constantes : [
 
 ]
 
-Ordem_Emissao : [ 
+Ordem_Emissao : 
 
-- 1 - peito do Superman, barriga reta, como puxar pernas pra traz.
+- Posturas :
+  1 - peito do Superman, barriga reta, como puxar pernas pra traz.
 
-- 2 - baixa a Laringe Gogó.. pensa em falar letra B
+  2 - baixa a Laringe Gogó.. pensa em falar letra B
 
-- 3 - Aspira já com boca de NORJO já aberta, manterá a laringe baixa o ar.
+  3 - Aspira já com boca de NORJO já aberta, manterá a laringe baixa o ar.
 
-- 4 - Timbre_Movimento_Emisssao : 
+
+- Timbre : 
    1 - Sensacao : fala MÂ,MÎ, MÔ ,espaço fundoTrato
    2 - Start voz no bico frontal. voz de FALA
    3 - da ênfase na primeira do Flow / NotaForte
