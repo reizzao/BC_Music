@@ -1,5 +1,10 @@
 # Composicao_Tecnicas_Padrao
 
+Técnicas:
+ Pergunta_e_Resposta : 
+  Conceito: repita a pergunta para dar a resposta ,
+  Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
+
 Composicao_Dados_A_Serem_Coletados :
   DirecoesTematicas :
     Tema_Titulo : [ Acao_1 || Adjetivo , ]
