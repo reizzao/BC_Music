@@ -16,9 +16,10 @@ Ordem_Emissao : [
 - 3 - Aspira já com boca de NORJO já aberta, manterá a laringe baixa o ar.
 
 - 4 - Timbre_Movimento_Emisssao : 
-   1 - Start voz no bico frontal. voz de FALA
-   2 - da ênfase na primeira do Flow / NotaForte
-   3 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
+   1 - Sensacao : fala MÂ,MÎ, MÔ ,espaço fundoTrato
+   2 - Start voz no bico frontal. voz de FALA
+   3 - da ênfase na primeira do Flow / NotaForte
+   4 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
    4 - final : 
    acessos: miau de gato, choro de bebê, 
    
