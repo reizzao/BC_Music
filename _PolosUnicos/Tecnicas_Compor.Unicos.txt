@@ -1,36 +1,39 @@
 # Composicao_Tecnicas_Padrao
 
-Técnicas:
- Pergunta_e_Resposta : 
-  Conceito: repita a pergunta para dar a resposta ,
-  Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
-
-Composicao_Dados_A_Serem_Coletados :
-  DirecoesTematicas :
-    Tema_Titulo : [ Acao_1 || Adjetivo , ]
-    Logica_Sentimental - Triste ? NaoTriste
-    Emocao_Central : Sentimento
-
 ---
 
 Sinopse_Estrofes :
 
+Constantes: [
+  Usar no maximo 2 frases em cada sessao:,
 
-  Tema_O_Grande_Fato ( O problema )
-
- - Parte A : Desabafo_do_Fato ( Minha reacao ao problema )
-
- - Parre B : O_Que_Eu_Quero_Sobre_Desabafo_do_Fato : ( )
-
- - Parte C : O_Que_Houve_Pra_Tudo_Estar_Assim : ( )
-
- - Parte D : Acao_Pra_Melhorar_O_Cenario : ( )
-
-- Parte_Refrao : Resumo_Refrao :
-( Reacao de tofos Envolvidos, A_Grande_Solucao, Pro_Futuro, Pra Mudar A Vida, GrandeRecado )
+  Pergunta_e_Resposta : repita a pergunta para dar a resposta ,
+  Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
 
 
-- Parte_Outro_Extra :  Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro : ( )
+]
+
+Dados_A_Serem_Coletados
+  Logica_Sentimental - Triste ? NaoTriste
+  Emocao_Central : Sentimento
+  Tema_O_Grande_Fato ( O problema, Acao_1 || Adjetivo )
+
+  Sessoes :
+
+ - Sessao: A, Gatilhos : [ Desabafo , Minha reacao ao problema, ]
+
+ - Sessao: B, Gatilhos : [ O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, ]
+
+ - Sessao: C, Gatilhos : [ O_Que_Houve_Pra_Tudo_Estar_Assim, Reacoes, ]
+
+ - Sessao: D, Gatilhos : [ Acao_Pra_Melhorar_O_Cenario, ]
+
+- Sessao:_Refrao, Gatilhos : [ Reacao de todos Envolvidos, A_Grande_Solucao, Pro_Futuro, Pra Mudar A Vida, GrandeRecado, ]
+
+
+- Sessao: Outro_Extra, Gatilhos : [ Coro, para um Grande finale, Resumo Da Historia, Tudo Isso Pra Dizer,
+]
+
 
 ---
 
@@ -57,17 +60,17 @@ Frases :
  Macete_Ouro : A 1° Provoca da Dica e a 2° Revela Resolve a dica dada.
 
 Definicoes_Frases
-  FechaInicioSessao : Apontamento_DeixaNoAR
-  FechaSessao : Apontamento_Resolve
+  FechaInicioSessao: : Apontamento_DeixaNoAR
+  FechaSessao: : Apontamento_Resolve
 
 
 Evitar : Evite gerundios [ que acabam com indo, amos, cava , exemplos ( ficava, estava, )]
 
 Utilizar : [  Sacada, Frsses do dia a dia facil de decorar  ]
 
-Por_Sessao:
-  Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao + (EAI) $FechaInicioSessao
-   Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao
+Por_Sessao::
+  Padrao_Frase_1: Clima: Clima_Calmo,Conduta: Acao, QualConduta: OQuefoiFeito , Enderecada_A: $PersonagemSessao: + (EAI) $FechaInicioSessao:
+   Padrao_Frase_2: Clima: InversoDoAnterior,Conduta: ReAcao, QualConduta: OQuefoiRecebido , Enderecada_A: $PersonagemInverso + (OQUE) $FechaSessao:
 
 Quantidade_Palavras :
   Causar_Descompasso: 4 Silabas Poeticas
@@ -104,11 +107,11 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
 
   Gatilhos_Condutas_Globais :
 
-### Estrofe : Sessao_A
+### Estrofe : Sessao:_A
 
-    Sessao : A,
+    Sessao: : A,
     Emocao: desabafando
-    Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao ]
+    Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao: ]
     Gatilhos_Relacionados_A_Emocao_Central : [
 Desabafo,
 Faça Isso,
@@ -125,7 +128,7 @@ Objetivo_Descrever:  a $Emocao_Central
 
 Tempo_Verbal : Presente
 
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 
 Objetivo_Descrever : [ $O_Grande_Fato_Que_Esta_Acontecendo em relacao a $Emocao_Central,]
 
@@ -140,8 +143,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1 , Detalhes_Vogais:
 
 ---
 
-### Estrofe : Sessao_B
-    Sessao : B,
+### Estrofe : Sessao:_B
+    Sessao: : B,
     Conduta_Master: [ Reacao do PersonagemInverso, ]
     Conduta_Opcoes : [
       O que retribuiu fez o outro, Desejo do PersonagemAfetado, O que acho disso,
@@ -149,12 +152,12 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1 , Detalhes_Vogais:
     Nome_Formal : Verso F1 Hook
 Conceito :
 Tempo_Verbal : Presente
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever : $Relatar_O_Que_Eu_Quero_Sobre_O_Grande_Fato_que_Esta_Acontecendo
 
 Musical :
   Andamento : Baladinha suave de complemneto da parte A,
-  Melodico : pode mudar a ultima nota para passagem pra outra sessao.
+  Melodico : pode mudar a ultima nota para passagem pra outra sessao:.
   Quantidade_Palavras : $Causar_Viajem
   Ritmo : Ritmo_Viajem
   obs: ,
@@ -164,9 +167,9 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curt
 
 ---
 
-### Estrofe : Sessao_C
+### Estrofe : Sessao:_C
 
-    Sessao : C,
+    Sessao: : C,
     Conduta_Master:  Dado aos fatos Passados ,
     Conduta_Opcoes : [
       Como ou Porque do EstadoAtual, Decisao, O que levou ai Estado Atual , Chamando Atencao,É claro que, Quantas vezes, Já que ,
@@ -175,7 +178,7 @@ Nome_Formal : Pre-Refrao
 Conceito : gera no ouvinte: [ suspense, expectativa que será resolvida com gancho na solução do refrao  ]
 
 Tempo_Verbal : Passado & Presente
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever : $O_Que_Houve_Pra_Tudo_Estar_Assim
 
 Musical :
@@ -191,9 +194,9 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1  || vC , Detalhes_Vogais: Nessa fa
 
 ---
 
-### Estrofe : Sessao_D
+### Estrofe : Sessao:_D
 
-    Sessao : D,
+    Sessao: : D,
     Conduta_Master: [ Decisao, passo a ser dado pra resultar na GrandeSolucao, ]
     Conduta_Opcoes : [
       Frase Marcante, O que fazer nesse Presente, pensando pról do Futuro,
@@ -202,7 +205,7 @@ Nome_Formal : Ponte, Ponte-Refrao
 Conceito : Frase de impacto que deixa no ar Uma DEIXA pra grande solucao,
 
 Tempo_Verbal : Pro_Futuro / Presente Pensando no Futuro
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever : $Acao_Pra_Melhorar_O_Cenario
 
 Musical :
@@ -218,9 +221,9 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar
 
 ---
 
-### Estrofe : Sessao_REFRAO_IN
+### Estrofe : Sessao:_REFRAO_IN
 
-    Sessao : R_IN,
+    Sessao: : R_IN,
     Conduta_Master: [ $Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro, ou $Tema, ]
     Conduta_Opcoes : [
       Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
@@ -229,7 +232,7 @@ Nome_Formal :
 Conceito : Ouvinte tem que querer contar com 1 dedo levantado pro alto, tem que funcionar sozinho independe outras partes, sem gerar dúvidas. Tem que funcionar como um Loop do Começo combinando com o Fim e voltar em Loop mesmao sentido de historia
 
 Tempo_Verbal :
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever : $A_Grande_Solucao_Pro_Futuro
 
 Musical :
@@ -246,15 +249,15 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 
 ---
 
-### Estrofe : Sessao_REFRAO_OUT
-    Sessao : R_OUT,
+### Estrofe : Sessao:_REFRAO_OUT
+    Sessao: : R_OUT,
     Conduta_Master: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
     Conduta_Opcoes : [   Uma Verdade relacionado a $Emocao_Central, Um desejo relacionado a $Emocao_Central, Declaracao, Sacada, Frsses do dia a dia facil de decorar, ]
 
 Nome_Formal :
 Conceito :
 Tempo_Verbal :
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever : + $PraQue_da_Grande_Solucao_Pro_Futuro
 
 Musical :
@@ -270,15 +273,15 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vF2, Detalhes_Vogais:
 
 ---
 
-### Estrofe : Sessao_OUTRO_OPCIONAL
-Sessao : OUTRO_OPCIONAL,
+### Estrofe : Sessao:_OUTRO_OPCIONAL
+Sessao: : OUTRO_OPCIONAL,
     Conduta_Master: ,
     Conduta_Opcoes : [ , ]
 
 Nome_Formal :
 Conceito :
 Tempo_Verbal :
-Personagem_da_Sessao:
+Personagem_da_Sessao::
 Objetivo_Descrever :
 
 Musical :
