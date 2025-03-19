@@ -1,13 +1,8 @@
 6# EMISSAO
 
-Constantes : [
-  Clima: Animado  ,
-  Flow: primeira nota forte,
 
 
-]
-
-Ordem_Emissao : 
+Ordem_Emissao :
 
 - Posturas :
   1 - peito do Superman, barriga reta, como puxar pernas pra traz.
@@ -16,25 +11,32 @@ Ordem_Emissao :
 
   3 - Aspira já com boca de NORJO já aberta, manterá a laringe baixa o ar.
 
+- Sentir :
+  Clima: Animado  ,
 
-- Timbre : 
-   1 - Sensacao : fala MÂ,MÎ, MÔ ,espaço fundoTrato
-   2 - Start voz no bico frontal. voz de FALA
-   3 - da ênfase na primeira do Flow / NotaForte
-   4 - dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
-   4 - final : 
-   acessos: miau de gato, choro de bebê, 
-   
+  Sensacao_para_Emitir : fala MÂ,MÎ, MÔ ,espaço fundoTrato
+
+  Flow: primeira nota forte,
+
+
+
+- Timbre :
+   1 - Start voz no bico frontal. voz de FALA
+   2 - da ênfase na primeira do Flow / NotaForte
+   3- dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
+   4 - final :
+   acessos: miau de gato, choro de bebê,
+
 movimento:
-    *termina agudo sem força no fim da garganta empurrando parede de traz da garganta com espaço de ar dentro da buchecha , 
-    * abrindo mais a boca. 
+    *termina agudo sem força no fim da garganta empurrando parede de traz da garganta com espaço de ar dentro da buchecha ,
+    * abrindo mais a boca.
     * com a língua atraz da gengiva.
 
 obervacoes_demissão: [
-  - executar no mesmo ar sempre que possível os 3 movimento acima. 
+  - executar no mesmo ar sempre que possível os 3 movimento acima.
 
   - canto reto, finais sobe ou desce melodia
-  
+
 ]
 
 Enfeite_Divisao_em_Frases :
@@ -45,18 +47,18 @@ Uma frase pode ser dividida em 2 enfeites no Inicio e pra Finalizar,
 Ao usar um Modo ou enfeite no Início ou fim mó próximo use um Contrate oara evitar repetir o mesmo modo e enfeite entre o começo e fim, sempre faça um contrate.,
 
 
-Modos_e_Embelezamentos : 
+Modos_e_Embelezamentos :
 
-Começos: 
+Começos:
 Modo: [ Pleno_FortePeito, Falsete_Fraco, ]
-Enfeite: [ Whisper_Sussurro, Liso, Glissando, Falsete, 
+Enfeite: [ Whisper_Sussurro, Liso, Glissando, Falsete,
 ]
 
-Finais : 
+Finais :
 Modo : [ Falsete_Fraco,  ]
-Enfeite : [  
-Liso, Vibrato, Melisma, Mordentes  
-] 
+Enfeite : [
+Liso, Vibrato, Melisma, Mordentes
+]
 
 
 
