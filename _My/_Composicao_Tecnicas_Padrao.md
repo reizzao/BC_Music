@@ -6,16 +6,28 @@ Composicao_Dados_A_Serem_Coletados :
     Logica_Sentimental - Triste ? NaoTriste
     Emocao_Central : Sentimento
 
-  Sinopse :
+---
+
+Sinopse_Estrofes :
 
 
-  Tema_O_Grande_Fato
-    Desabafo_do_Fato
-    O_Que_Eu_Quero_Sobre_Desabafo_do_Fato
-    O_Que_Houve_Pra_Tudo_Estar_Assim
-    Acao_Pra_Melhorar_O_Cenario
-    A_Grande_Solucao_Pro_Futuro_PraMudarAVida_GrandeRecado
-    Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro
+  Tema_O_Grande_Fato ( O problema )
+
+ - Parre A : Desabafo_do_Fato ( Minha reacao ao problema )
+
+ - Parre B : O_Que_Eu_Quero_Sobre_Desabafo_do_Fato : ( )
+
+ - Parte C : O_Que_Houve_Pra_Tudo_Estar_Assim : ( )
+
+ - Parte D : Acao_Pra_Melhorar_O_Cenario : ( )
+
+- Parte_Refrao : Resumo_Refrao :
+( Reacao de tofos Envolvidos, A_Grande_Solucao, Pro_Futuro, Pra Mudar A Vida, GrandeRecado )
+
+
+- Parte_Outro_Extra :  Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro : ( )
+
+---
 
   Vogais :
     Estilo_Vogal_Disponiveis :
