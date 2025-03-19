@@ -13,7 +13,7 @@ Sinopse_Estrofes :
 
   Tema_O_Grande_Fato ( O problema )
 
- - Parre A : Desabafo_do_Fato ( Minha reacao ao problema )
+ - Parte A : Desabafo_do_Fato ( Minha reacao ao problema )
 
  - Parre B : O_Que_Eu_Quero_Sobre_Desabafo_do_Fato : ( )
 
