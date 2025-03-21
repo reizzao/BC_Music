@@ -21,6 +21,9 @@ Ordem_Emissao :
 
 
 - Timbre :
+
+Macete : bocaDeNorjo, como se fosse comer as palavras sem morde-las.
+
    1 - Start voz no bico frontal. voz de FALA
    2 - da ênfase na primeira do Flow / NotaForte
    3- dureciona continuação pro Céu da Boca é Papada abrindo pra baixo o maxilar
