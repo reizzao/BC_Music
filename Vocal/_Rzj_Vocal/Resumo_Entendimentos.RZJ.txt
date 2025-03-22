@@ -21,6 +21,10 @@ Ordem_Emissao :
   
 
 Musicalmente :
+- Acordes : 
+  -- Maior: Som Relaxado, Grave
+  -- Menor: contraste do Maior, esticar, maus sentimento sofrido.
+
  - Boca de U pra baixo Triste : Notas 1 Sombrias Fechadas (C, E, G, )
 
 - Boca I pra Cima Alegre :Notas 2 Abertas ( D, F, A )
