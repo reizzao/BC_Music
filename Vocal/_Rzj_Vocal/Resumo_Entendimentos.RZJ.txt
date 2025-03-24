@@ -35,7 +35,9 @@ Musicalmente_Vocal :
 - Timbre :
 
 Macetes : [    
-- Usar voz grossa estilo [ Emilio, Marilia, Belo, ]
+- Inicio: Usar voz grossa estilo [ Emilio, Marilia, Belo, ]
+
+- Final : con Voz Calma : Carinhoso,
 
 - bocaDeNorjo, como se fosse comer as palavras sem morde-las. 
 
