@@ -1,0 +1,79 @@
+# Telegrama - Analise
+
+## SentimentoGlobal: Saudade
+Assunto: Fatos
+
+Harmonia_Funcional :
+RelaxaFirme : [ 1, ]
+RelaxaFraco : [ 6, ]
+Tensiona_o_RelaxaFirme : [ 5, ]
+Tensiona_o_RelaxaFraco : [ 3, ]
+ViajaFirme : [ 4 ]
+ViajaFraco : [ 2 ]
+
+---
+# Estrofe: A, GatilhosDaSessao: [ Como estou, ]
+
+Sessao: A, linha: , Harmonia: Relaxa + Tensiona , Graus: [ 1, 5], Duracao: Longo, Tipo: Como Estou, SentimentoLocal: Saudade,Tempo: Presente, Gatilhos: [ Desabafo, O que estou Sentindo em relacao ao SentimentoGlobal, ]
+
+Sessao: A, linha: 2, Harmonia: Tensiona + Relaxa , Graus: [ 3, 6], Duracao: Curto, Tipo: Acao, SentimentoLocal: Esperança, Tempo: Presente, Gatilhos: [ Fato Curto, ]
+
+Sessao: A, linha: 3, Harmonia: Viaja + Tensiona , Graus: [ 4, 5], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+---
+
+# Estrofe: B , GatilhosDaSessao: [ O que levou ao SentientoGlobal]
+
+Sessao: B, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: [ ]
+
+Sessao: B, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: B, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: B, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+---
+
+Estrofe: Refrao, GatilhosDaSessao: [ O que mais preciso/precisamos , ]
+
+Sessao: R1, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: [ ]
+
+Sessao: R2, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: R3, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: R4, linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
+
+Sessao: , linha: , Harmonia: Relaxa + Tensiona , Graus: [ , ], Duracao: , Tipo: Acao, SentimentoLocal: ,Tempo: , Gatilhos: []
