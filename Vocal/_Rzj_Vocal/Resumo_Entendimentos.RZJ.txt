@@ -1,5 +1,4 @@
-6# EMISSAO
-
+# EMISSAO
 
 
 Ordem_Emissao :
@@ -18,10 +17,10 @@ Ordem_Emissao :
   Sensacao_para_Emitir : fala MÂ,MÎ, MÔ ,espaço fundoTrato
 
   Flow: primeira nota forte,
-  
+
 
 Musicalmente_Vocal :
-- Acordes : 
+- Acordes :
   -- Maior: Grave,Relaxado, Normal,NaoTenso.,
 
   -- Menor: Agudo, Sofrido,ForaDoNormal,Tenso contraste do Maior,.
@@ -34,16 +33,16 @@ Musicalmente_Vocal :
 
 - Timbre :
 
-Macetes : [    
+Macetes : [
 - Inicio: Usar voz grossa estilo [ Emilio, Marilia, Belo, ]
 
 - Final : con Voz Calma : Carinhoso,
 
-- bocaDeNorjo, como se fosse comer as palavras sem morde-las. 
+- bocaDeNorjo, como se fosse comer as palavras sem morde-las.
 
 - as vogais são as notas melódicas, enfatize e conecte-as como um imã.,
 
-- não coloque força exagerada na vóz,  cante na mascara no ton do Miau do gato, Olá tudo bem, gentil, 
+- não coloque força exagerada na vóz,  cante na mascara no ton do Miau do gato, Olá tudo bem, gentil,
 
    1 - Start voz no bico frontal. voz de FALA
    2 - da ênfase na primeira do Flow / NotaForte
@@ -84,8 +83,29 @@ Enfeite : [
 Liso, Vibrato, Melisma, Mordentes
 ]
 
+---
+Tecnicas
+---
+By: Seba_2025 :
+Modo : Na Mascara ao inves de Voz Plena
 
+Colocacoes_Voz_Ordens :
+  DaFrase : Entrega,
+    Inicio : CeudaBocaFrontal_Fala_M ,
+    Meio : QueixoSurpreso ,
+    Fim : BicoSuspenso ,
 
+  DaFrase : Insiste,
+    Inicio : Lateral_Norjo_Fala_I ,
+    Meio : QueixoSurpreso
+    Fim : BicoSuspenso
+
+  DaFrase : Agudo,
+    Inicio : CeudaBocaFrontal_Fala_M ,
+    Meio : Sobe_EspacoFundo_Fino_Agudo_JogaAlto_praTraz
+    Fim : Lateral_Brinca_Finalizando_Sobe_ou_Desce_Vocalize
+
+---
 
 ---
 
