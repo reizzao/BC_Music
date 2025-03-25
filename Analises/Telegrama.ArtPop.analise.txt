@@ -3,13 +3,7 @@
 ## SentimentoGlobal: Saudade
 Assunto: Fatos
 
-Harmonia_Funcional :
-RelaxaFirme : [ 1, ]
-RelaxaFraco : [ 6, ]
-Tensiona_o_RelaxaFirme : [ 5, ]
-Tensiona_o_RelaxaFraco : [ 3, ]
-ViajaFirme : [ 4 ]
-ViajaFraco : [ 2 ]
+
 
 ---
 # Estrofe: A, GatilhosDaSessao: [ Como estou, ], obs: [ ]
