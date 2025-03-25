@@ -90,6 +90,8 @@ By: Seba_2025 :
 Modo : Na Mascara ao inves de Voz Plena
 Observacoes: [ Trazer pra mascara, segurando as notas, ]
 
+Treinar_Emissao : inicia: M, O, U >> reinicia: I, O, U
+
 Colocacoes_Voz_Ordens :
   DaFrase : Entrega,
     Inicio : CeudaBocaFrontal_Fala_M ,

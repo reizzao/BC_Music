@@ -6,7 +6,7 @@ Assunto: Fatos
 
 
 ---
-# Estrofe: A, GatilhosDaSessao: [ Como estou, ], obs: [ ]
+# Estrofe: A, GatilhosDaSessao: [ Apresenta sintomas do SentimentoGlobal, Como estou, ], obs: [ ]
 
 Sessao: A, linha: , Harmonia: Relaxa + Tensiona , Graus: [ 1, 5], Duracao: Longo, Tipo: Como Estou, Motivacao: Saudade,Tempo: Presente, Gatilhos: [ Desabafo, O que estou Sentindo em relacao ao SentimentoGlobal, ]
 
