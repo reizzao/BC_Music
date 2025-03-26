@@ -1,0 +1,16 @@
+# AMBIENTE
+
+- Instalacoes
+
+# JAVA - Tradutor de linguagens para maquina
+sudo dpkg --configure -a
+sudo apt install default-jdk -y
+java -version
+
+# SDK MAN - Gerenciador de kits da linguagem
+curl -s "https://get.sdkman.io" | bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+# KOTLIN -  A linguagem
+sdk install kotlin
+kotlin -version
