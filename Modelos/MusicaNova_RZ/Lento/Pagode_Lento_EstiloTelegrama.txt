@@ -21,7 +21,7 @@ Sessao: B, linha: 1, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo
 
 Sessao: B, linha: 2, Harmonia: Fecha_Viajem , Graus: [ 3, 6 ], Duracao: Longa, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: Passado, Gatilhos: [ Aonde, EAI, ]
 
-Sessao: B, linha: 1_2, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ dica deixa no ar, Pra resolver o SentimentoGlobal, ]
+Sessao: B, linha: 1_2, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ A ou pra Grande Virada, dica deixa no ar, Pra resolver o SentimentoGlobal, ]
 
 Sessao: B, linha: 2_2, Harmonia: Fecha_Viajem, Duracao: Longa, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ dica deixa no ar, Pra resolver o SentimentoGlobal, ]
 
