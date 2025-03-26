@@ -15,7 +15,7 @@ Sessao: A, linha: 3, Harmonia: Fecha_Viajem, Duracao: , Tipo: Acao, Objetivo: Co
 
 ---
 
-# Estrofe: B , GatilhosDaSessao: [ Viajem, Causas, O que levou ao SentientoGlobal], obs: [ as 2 linhas ultimas repetem as 2 primeiras mudando só o motivo., ]
+# Estrofe: B , GatilhosDaSessao: [ Viajem, Causas, O que levou ao SentientoGlobal], obs: [ as 2 linhas ultimas repetem as 2 primeiras mudando só o motivo., O que aconteceu depois do desabafo sa Parte Anterior, ]
 
 Sessao: B, linha: 1, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo: NaoConclui, Forca: ,Motivacao: ,Tempo: Passado, Gatilhos: [ Causa o SentimentoGlobal, ]
 
