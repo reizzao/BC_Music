@@ -1,0 +1,17 @@
+# Estetica_Embelezamentos_Ornamentos
+
+
+Começos:
+
+Modo: [ Pleno_FortePeito, Falsete_Fraco, ]
+Enfeite: [ Whisper_Sussurro, Liso, Glissando, Falsete,
+]
+
+---
+
+Finais :
+
+Modo : [ Falsete_Fraco,  ]
+Enfeite : [
+Liso, Vibrato, Melisma, Mordentes
+]
