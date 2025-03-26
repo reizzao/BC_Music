@@ -9,7 +9,7 @@ Assunto: Fatos
 
 Sessao: A, linha: , Harmonia: AbreFecha_Dominio_Firme , Duracao: Longo, Tipo: Como Estou, Objetivo: Conclui, Forca: ,Motivacao: Saudade,Tempo: Presente, Gatilhos: [ Desabafo, O que estou Sentindo em relacao ao SentimentoGlobal, ]
 
-Sessao: A, linha: 2, Harmonia: AbreFecha_Dominio_Fraco, Duracao: Curto, Tipo: Acao, Objetivo: NaoConclui, Forca: ,Motivacao: Esperança, Tempo: Presente, Gatilhos: [ Fato Curto, ]
+Sessao: A, linha: 2, Harmonia: AbreFecha_Dominio_Fraco, Duracao: Curto, Tipo: Acao, Objetivo: NaoConclui, Forca: ,Motivacao: Esperança, Tempo: Presente, Gatilhos: [ Fato Curto, Eu lírico questionando a própria és Olga,  ]
 
 Sessao: A, linha: 3, Harmonia: Fecha_Viajem, Duracao: , Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ O que esta fazendo no momento o SentimentoGlobal, ]
 
