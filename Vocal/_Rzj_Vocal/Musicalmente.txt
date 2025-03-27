@@ -1,4 +1,8 @@
 Musicalmente_Vocal :
+
+Nota_Forte : dentro do compasso existe pelo menos 1  nota forte, sempre enfatize essa nota ela pode ser a primeira, do meio ou última,  cada música pode escolher uma.
+
+
 - Acordes :
   -- Maior: Grave,Relaxado, Normal,NaoTenso.,
 
