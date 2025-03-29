@@ -1,4 +1,7 @@
-# Telegrama - Analise
+# Base Compo Lenta
+
+tutoriais : (https://www.instagram.com/p/C2F1p0gAxZ5/?igsh=cWhpcmo1M3dwNXBp)
+
 
 ## SentimentoGlobal: Saudade
 Assunto: Fatos
