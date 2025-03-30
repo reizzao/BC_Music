@@ -8,6 +8,8 @@
 
 Composição Infinita Nelodias : 5 pix parcelado de 100.00 (500) total : https://pay.hotmart.com/K90815969M?off=lb4b6dha&checkoutMode=10
 
+teclado de PC,  player da superframe (customizavel troca teclas) 100.00 ( https://www.terabyteshop.com.br/produto/32415/teclado-mecanico-gamer-superframe-player-rgb-60-switch-red-usb-abnt2-preto-sf-kb-plrd60bruab?srsltid=AfmBOornhieSY3cPTMXvN0z2rdukkXTX9dNqFlEbM2QQcC2zU3pQ0MNy )
+
 Ritmos
 
 - 500 loops Backingtrack [Batera e Baixo] em mp3 do ChickenStudio por 28.00 (https://www.instagram.com/chickenstudio.music?igsh=MWw5YnZndmFlcGp6Zw==) tutos : (https://youtu.be/-FDabn_wu2Q?si=vflod0-gkNY7y-h-)
