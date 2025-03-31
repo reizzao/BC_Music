@@ -10,14 +10,14 @@ Criar_Acorde :
 
 Harmonia _Funcional
 
-Dominio :
-  AbreFecha_Dominio_Firme: RelaxaFirme : graus: [ 1-5, ]
-  AbreFecha_Dominio_Fraco : RelaxaFraco : graus: [ 3-6, ]
+Resolucoes_Acordes :
+  Contrastes :
+    Relaxado : graus: [ 1, 4, 6 ], viajeando: [ 4, ]
+    Tenso : graus: [ 5, 3 ], , viajeando: [ 3 ]
 
-Viajem :
-  Abre_Viajem: [ 4-5, ]
-  Fecha_Viajem: [ 3-6, ]
-  Viajem_no_AR: [ 6-4, ]
+  Observacoes: Entre relaxa e tensiona, vse escohe como quer começar a frase, um sempre vai se resolver no seu contraste. (se começou relaxado resolve no tensom, se começou no tenso resolve no relaxado)
+
+
 
 
 
