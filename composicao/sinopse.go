@@ -8,7 +8,7 @@ type Sinopse struct {
 type OpSentimento string
 
 const (
-	Bom  = "alegre, "
+	Bom  = "alegre, esperança,  "
 	Ruim = "saudade, "
 )
 
