@@ -1,0 +1,12 @@
+# TREINAR RZJ
+
+- n: 1, Soltar_Ar_Sem_Som : controle Ar, vogais A, Â, E, Ê, I, O, U
+
+- n: 2, Soltar_Ar_Com_Som : vogais Â, Ê, O
+
+- n: 3, Vocalize: Regiao: Media e Aguda, vogais: O
+
+- n: 4, Vocalize: Regiao: Media e Aguda, vogais: I
+
+- n: 5, Treinar_Emissao : inicia: M, O, U >> reinicia: I, O, U
+

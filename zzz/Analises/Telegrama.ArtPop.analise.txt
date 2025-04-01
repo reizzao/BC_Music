@@ -1,0 +1,44 @@
+# Telegrama - Analise
+
+## SentimentoGlobal: Saudade
+Assunto: Fatos
+
+
+---
+# Estrofe: A, GatilhosDaSessao: [ Apresenta sintomas do SentimentoGlobal, Como estou, ], obs: [ ]
+
+Sessao: A, linha: , Harmonia: AbreFecha_Dominio_Firme , Duracao: Longo, Tipo: Como Estou, Objetivo: Conclui, Forca: ,Motivacao: Saudade,Tempo: Presente, Gatilhos: [ Desabafo, O que estou Sentindo em relacao ao SentimentoGlobal, ]
+
+Sessao: A, linha: 2, Harmonia: AbreFecha_Dominio_Fraco, Duracao: Curto, Tipo: Acao, Objetivo: NaoConclui, Forca: ,Motivacao: Esperança, Tempo: Presente, Gatilhos: [ Fato Curto, ]
+
+Sessao: A, linha: 3, Harmonia: Fecha_Viajem, Duracao: , Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ O que esta fazendo no momento o SentimentoGlobal, ]
+
+---
+
+# Estrofe: B , GatilhosDaSessao: [ Viajem, Causas, O que levou ao SentientoGlobal], obs: [ as 2 linhas ultimas repetem as 2 primeiras mudando só o motivo., ]
+
+Sessao: B, linha: 1, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo: NaoConclui, Forca: ,Motivacao: ,Tempo: Passado, Gatilhos: [ Causa o SentimentoGlobal, ]
+
+Sessao: B, linha: 2, Harmonia: Fecha_Viajem , Graus: [ 3, 6 ], Duracao: Longa, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: Passado, Gatilhos: [ Aonde, EAI, ]
+
+Sessao: B, linha: 1_2, Harmonia: Abre_Viajem, Duracao: Curta, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ dica deixa no ar, Pra resolver o SentimentoGlobal, ]
+
+Sessao: B, linha: 2_2, Harmonia: Fecha_Viajem, Duracao: Longa, Tipo: Acao, Objetivo: Conclui, Forca: ,Motivacao: ,Tempo: , Gatilhos: [ dica deixa no ar, Pra resolver o SentimentoGlobal, ]
+
+---
+
+Estrofe: Refrao, GatilhosDaSessao: [ O que mais preciso/precisamos , ], obs: [ ]
+
+Sessao: R1, linha: 1, Harmonia: AbreFecha_Dominio_Firme, Duracao: Curta, Tipo: Acao, Objetivo: Conclui, Forca: Agride,Motivacao: Grande Solucao,Tempo: Futuro, Gatilhos: [ tudo isso rpa voce, Faça Isso,  ]
+
+Sessao: R2, linha: 2, Harmonia: Viajem_Resposta, Duracao: Media, Tipo: Acao, Objetivo: , Forca: Agride_Fraco,Motivacao: solucao pra...,Tempo: Futuro, Gatilhos: [ Pra que do anterior, ]
+
+Sessao: R3, linha: 3, Harmonia: Dominio , Graus: [ , ], Duracao: Media, Tipo: Acao, Objetivo: Pergunta_Resposta, Forca: Acalma,Motivacao: Reacao,Tempo: , Gatilhos: [ Minha Relacao a Grande Solucao, ]
+
+Sessao: R4, linha: 4, Harmonia: Viajem_no_AR, Duracao: Curta, Tipo: Acao, Objetivo: Confirma, Forca: Acalma_Forte,Motivacao: ,Tempo: , Gatilhos: [ Confirmando a Anterior,]
+
+---
+Estrofe: Outro-Coro , GatilhosDaSessao: [ Enfatizando a anteior , ], obs: [ ]
+
+Sessao: C, linha: 1-2, Harmonia: Fecha_Viajem, Duracao: Media, Tipo: Acao, Objetivo: Confirma, Forca: Acalma_Forte,Motivacao: Pergunta_Resposta,Tempo: , Gatilhos: [ Confirmando a Anterior,]
+

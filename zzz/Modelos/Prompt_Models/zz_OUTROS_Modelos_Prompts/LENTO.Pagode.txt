@@ -1,0 +1,62 @@
+[STYLES : Pagode, Acoustic, Male Vocal, Romantic, Smooth Percussion, Samba Groove, Chord Progressions, Light Melody, time_signature: 4/4]
+[SINGER_EMOTION: Whispered, Harmonized]
+[CENTRAL_EMOTION: passionate]
+
+[Comment: EM CADA SESSAO, 2 frases , METRICA, pergunta 4 silabas, resposta 3 silabas,]
+
+[INTRO] [SOFT PIANO AND ACOUSTIC GUITAR] [Create a soft and melancholic introduction to set the emotional tone of the song.]
+
+#[STYLES : pagofunk, pagode, rnb, funk]
+
+[VERSE 1]
+[INTROSPECTIVE LYRICS WITH LIGHT PERCUSSION] [Focus on storytelling and emotional delivery with minimal instrumentation.]
+
+[Comment: # Rimas entre Perguntas ]
+
+"1 ", " "
+"2 ", " "
+
+
+[VERSE 2]
+[CALM AND REFLECTIVE, WITH MINIMAL PERCUSSION] [Add narrative depth with a slight instrumental change.]
+
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+
+[PRE-CHORUS] [MUSICAL BALLAD]
+[BUILDING INTENSITY WITH STRINGS AND CAVACO]
+
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+[BRIDGE]
+[KEY CHANGE WITH A MORE AGGRESSIVE RHYTHM] [Introduce a tonal shift to heighten the drama and variety.]
+
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+
+[CHORUS]
+[CATCHY AND EMOTIONAL, WITH FULL BAND] (REPEAT)
+
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+
+
+[OUTRO]
+[FADE OUT WITH CAVACO AND VOCAL HUMMING] [Add emotional weight to the final chorus, with slight lyrical variations if needed.]
+
+[Comment: # Rimas entre Respostas ]
+
+"1 ", " "
+"2 ", " "
+

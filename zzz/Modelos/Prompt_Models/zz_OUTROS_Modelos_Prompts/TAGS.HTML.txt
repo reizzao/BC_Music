@@ -1,0 +1,92 @@
+<DETALHES>
+[Set Time To 60 Bpm]
+[ Pagofunk, Pagode,  One Male Voice ,   Pt-Br Portuguese ]
+[delicate rhythmic pattern inspired by samba pop latino,  *RITMO ]
+[ The baritone voice always softer, one male Emotional Melismatic voice, pt-br português, *VOZ_SUAVE_BARITONO]
+[ pagofunk , pagode romântico ,  ]
+<\DETALHES>
+
+<voz>
+timbre: suave, melancólico
+</voz>
+
+<compasso>
+4/4
+</compasso>
+
+<introdução>
+[Am] [Dm]
+Instrumental melancólico para preparar a entrada da voz.
+</introdução>
+
+<emoção>
+melancolia
+</emoção>
+
+<verso>
+# Estrofe A, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</verso>
+
+
+<verso>
+# Estrofe B, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</verso>
+
+<emoção>
+suspense crescente
+</emoção>
+<compasso>
+3/4
+</compasso>
+
+<ponte>
+# Estrofe B, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</ponte>
+
+<buldup>
+# Estrofe B, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</pre-refrao>
+
+<emoção>
+esperança crescente
+</emoção>
+
+<refrão>
+# Estrofe B, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</refrão>
+
+<fim>
+# Estrofe B, em Am e Dm
+[Am] ____ ,
+[Dm] ____ .
+</refrão>
+
+
+[PRE-CHORUS](4/4, Am - E)
+[Build intensity with additional instruments like piano and subtle strings, 1 frases ]
+
+
+[BULDUP] [ 1 frases]
+
+
+[CHORUS - REPRISE](4/4, Am - E)
+[Bring back the full instrumental arrangement with increased intensity]
+
+
+
+[OUTRO](4/4, Am - E)
+[Slow fade with acoustic guitar and soft vocals repeating the final line]
+
+
+
+[End] [Fade Out] [Fade to End]

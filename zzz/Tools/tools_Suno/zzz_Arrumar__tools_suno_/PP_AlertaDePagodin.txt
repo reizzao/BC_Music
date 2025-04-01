@@ -1,0 +1,89 @@
+# [Global configuration]
+genre:
+  - samba:
+      rhythm: upbeat but smooth with a funk groove
+      bpm: 110
+      voice: male
+      type: exciting
+      time_signature: 4/4
+
+# [COMMENT: VARIAVEIS GLOBAIS para SESSOES  ]
+SINGER_EMOTION: joyful
+CENTRAL_EMOTION: passionate
+
+# [COMMENT: VARIAVEIS SESSOES  ]
+# [Global variable for the chorus text.]
+REFRAIN_TEXT: |
+Digui, digui, digui, digui digui dim
+Digui, digui, digui, digui digui dim
+
+[INTRO]
+
+[VERSE 1]
+# [COMMENT OF THE SESSION: Comentario_aqui]
+${SINGER_EMOTION}
+lyrics: |
+Sêxtou e já chegou pra mim
+alerta de pagodin
+
+repeat: 1
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+
+[VERSE 2]
+# [COMMENT OF THE SESSION: Comentario_aqui]
+${SINGER_EMOTION}
+lyrics: |
+Será que já pode
+dar aquele góle
+Será que já pode
+dançar o bole bole
+
+repeat: 0
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+repeat: 1
+
+[VERSE 3]
+# [COMMENT OF THE SESSION: Comentario_aqui]
+lyrics: |
+Já vou chegar como
+na festa que falei que não ia ir
+Eu já to é como
+naquele modelin, naquele modelin
+
+repeat: 0
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+repeat: 1
+
+[HOOK][1x]
+# [COMMENT OF THE SESSION: Comentario_aqui]
+lyrics: |
+É Só vim Suavin
+
+repeat: 1
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+repeat: 1
+
+[OUTRO]
+# [COMMENT OF THE SESSION: Comentario_aqui]
+lyrics: |
+Aí aí aí aí aí
+Ui ui ui ui ui
+repeat: 1
+
+
+[CHORUS]
+lyrics: |
+${REFRAIN_TEXT}
+repeat: 2

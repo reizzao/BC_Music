@@ -1,0 +1,12 @@
+# PLUGINS
+
+Local_plugins: /home/rzj/.wine/drive_c/Program Files/I
+
+Definicoes_na_Daw :
+  Onde_Sera_Instalado_Plugins: Options/ File Settings / File > definir pasta onde ficará os plugins costuma ser :: /home/rzj/.wine/drive_c/Program Files/Image-Line/FL Studio 2024/Plugins/
+
+Criar_Pastas_Para_Novos_Plugins: em Image-line criar Downloads/Optional Features/   (e dentro desta Optional Features colar os novos plugins)
+
+Plugins_Uteis : [
+  Separador_de_stems: Extract stems from sample  >> na pasta vem como>> Stem extractor Windows
+]

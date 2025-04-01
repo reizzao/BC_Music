@@ -1,0 +1,58 @@
+
+separador_de_chaves: |
+delimitador_de_tags: [], <>,
+atribuidor_de_valor_para_chave: : 2 pontos
+sub_chaves_de_estrofes: [ verso, ponte, pré-refrão, refrão, fim, ]
+
+---
+DIVERSAS
+chave: instrumental| , opcoes : piano, violão, saxofone
+chave: emocional, opcoes: melancolia, apaixonada,
+
+---
+
+Chave: voz
+Opcoes: [ potente, suave,  ]
+Modelos: [
+  `[voz:masculina|tipo:grave|estilo:suave]`,
+  `[voz:feminina|tipo:aguda|estilo:potente]`,
+
+]
+
+---
+Chave: verso
+Opcoes: [ rápido, ]
+
+---
+Chave: emocional
+Opcoes:
+  Triste: [ triste, melancolia, raiva, ]
+  NaoTriste: [ alegria, apaixonada, esperançoso, desespero, esperança, calma ]
+---
+
+Chave: refrão
+Opcoes: [ intenso, ]
+
+
+==== ARRUMAR ==
+# Opcoes para Tags Suno
+
+Voz :
+Textura vocal: limpa, rouca, suave, potente.
+Gênero vocal: masculino, feminino, infantil, neutro.
+Estilo de performance: melódica, falada, agressiva, suave.
+Emoção
+
+Escalas emocionais: alegria, tristeza, raiva, calma, nostalgia.
+Intensidade: sutil, moderada, intensa.
+Intenção: apaixonada, reflexiva, confrontativa, esperançosa.
+Estrutura - Verso
+
+Ritmo: acelerado, médio, lento.
+Complexidade lírica: simples, elaborada, narrativa, metafórica.
+Dinâmica: crescente, constante, decrescente.
+Estrutura - Refrão
+
+Gancho: repetitivo, inovador, melódico.
+Impacto emocional: explosivo, contagiante, suave.
+Conexão com o verso: direta, contrastante, complementar.

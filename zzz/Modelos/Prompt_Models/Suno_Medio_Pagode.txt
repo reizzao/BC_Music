@@ -1,0 +1,36 @@
+<DETAILS>
+[Comment: # Estilo: MEDIO_PAGODE ]
+
+[ SET_STYLE: brazilian voice, one male voice, pagofunk , pagode   Universitário , samba-inspired with funk groove, batida envolvente, sensual, Bateria, samba-reggae, pagode, funk melody, The voice always softer ]
+[ Emotional: sad , # happy ou sad ]
+
+<\DETAILS>
+
+[ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
+
+
+[ INTRO, prelude,  Acoustic guitar piano ]
+" "
+
+[VERSE] [  Whispered Harmonized , Emotional: passionate,  #apaixonado ]
+
+
+
+[CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining , # explicando ]
+
+
+
+[VERSE] [  Whispered Harmonized , Emotional: passionate,  #apaixonado ]
+
+
+
+[CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining , # explicando ]
+
+
+
+[ BULDUP, Emotional: distressed, # angustiado, Whispered Harmonized,  ]
+
+
+
+[CHORUS , hook, expressive, emotional: beggar, # pedinte ][2x]
+

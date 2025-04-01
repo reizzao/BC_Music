@@ -1,0 +1,19 @@
+[VERSE]
+# [COMMENT: Develop the narrative with lyrics reflecting the singer's emotion.]
+progression: (I, IV, V, VI)
+Phrases: 4
+VerbTense: Present
+SubMusicalStyle: rhythmic lively
+Goal: Reflect the singer's emotion
+Triggers: [uplifting story, rhythmic phrasing]
+VARIABLE_QUESTION:
+  content: How does the singer's emotion influence the delivery of this verse?
+
+# [COMMENT: Variaveis Globais para inserir nas Sessoes.]
+VARIABLE_ANSWER:
+# [COMMENT: Ao expressar ${SINGER_EMOTION}, o cantor transmite positividade e energia.]
+  content: By expressing ${SINGER_EMOTION}, the singer conveys positivity and energy.
+
+lyrics: |
+  O sol nasceu, é dia de sorrir
+  A galera toda pronta pra curtir

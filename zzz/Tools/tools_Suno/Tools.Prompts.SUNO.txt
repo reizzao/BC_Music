@@ -1,0 +1,32 @@
+> Emocao_Cantor : para uso na var CENTRAL_EMOTION
+
+---
+
+TRISTE
+  Sussurrado : Whispered, Harmonized
+  Sincero : Sincere Harmonized
+
+---
+
+NAOTRISTE
+  Leve : Light Harmonized
+  Apaixonado : Passionate Harmonized
+  Animado : excited
+
+---
+
+> Ritmos
+  BaladinhaMusical : MUSICAL BALLAD
+
+---
+
+> Estilos :
+Conceito: será usado no campo de styles e na variavel $ SINGER_EMOTION
+  suave : smooth
+  alegre: happy
+  contagiante : contagious
+  esperançoso : hopeful
+
+
+---
+

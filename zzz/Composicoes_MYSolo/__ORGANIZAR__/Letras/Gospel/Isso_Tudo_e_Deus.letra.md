@@ -1,0 +1,30 @@
+---
+Musica : Isso Tudo é Deus
+Compositor: @Reizao_Jr
+Liberacoes : https://sites.google.com/view/reizaomusic
+---
+
+Há coisas que os olhos não podem vêr
+mas se sente no coração
+E por onde quér que eu vá
+essa presença está
+tratando como filho sem julgar
+
+Faz sempre do fim o começo
+mesmo em lágrimas
+traz a tona o seu final perfeito
+Porque a nossa historia por ti
+já foi escrita antes mesmo da data do nosso nascimento
+por isso eu creio, eu creio
+
+Se foi feito o milagre da vida
+Isso Tudo é  Deus
+Isso Tudo é  Deus
+
+Quem mais em tudo que sopra se multiplica
+Isso Tudo é  Deus
+Isso Tudo é  Deus
+
+Deus Deus Deus
+Isso Tudo é  Deus
+
