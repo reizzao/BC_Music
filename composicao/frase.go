@@ -8,6 +8,8 @@ type Frase struct {
 
 type TypeFrase struct{
 	Texto string
+	ParesNotas OpParesNotas
+	Quantidade_Metrica uint
 	MovimentoMelodico OpMovimentoMelodico
 }
 
@@ -16,6 +18,13 @@ const (
 	Linear = "Linear"
 	Sobe = "Sobe"
 	Desce = "Desce"
+)
+
+type OpParesNotas string
+const (
+	UmUmUm = "UmUmUm"
+	UmDois = "UmDois"
+
 )
 
 

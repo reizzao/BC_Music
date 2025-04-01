@@ -10,12 +10,16 @@ var requestSinopse = Sinopse{
 
 var fraseUm = Frase{
 	Pergunta: TypeFrase{
-		Texto:             "pergunta 1",
-		MovimentoMelodico: Sobe,
+		Texto:              "pergunta 1",
+		ParesNotas:         UmDois,
+		Quantidade_Metrica: 2,
+		MovimentoMelodico:  Sobe,
 	},
 	Resposta: TypeFrase{
-		Texto:             "resposta 1",
-		MovimentoMelodico: Desce,
+		Texto:              "resposta 1",
+		ParesNotas:         UmDois,
+		Quantidade_Metrica: 2,
+		MovimentoMelodico:  Desce,
 	},
 }
 
