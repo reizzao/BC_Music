@@ -9,7 +9,7 @@ type OpSentimento string
 
 const (
 	Bom  = "alegre, esperança,  "
-	Ruim = "saudade, "
+	Ruim = "tristeza, saudade, "
 )
 
 func createSinopse (s Sinopse) Sinopse {
