@@ -1,1 +1,0 @@
-Pix recorrente, a partir de outubro 2024 :: https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2024/10/28/pix-tem-novidades-a-partir-de-hoje-saiba-o-que-muda.ghtml

@@ -1,1 +1,0 @@
-Lento_Pagode: [ Djavan, Péricles, Alexandre Pires, Belo, ]
