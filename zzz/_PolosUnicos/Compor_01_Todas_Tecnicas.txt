@@ -226,7 +226,7 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar
     Sessao: : R_IN,
     Conduta_Master: [ $Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro, ou $Tema, ]
     Conduta_Opcoes : [
-      Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
+      Maior Energia daMusica, Entrega o jogo logo de Cara, Em Coro pra tofo Mundo vir junto, Uma mão pro alto, Sentido, Faz todo Sentido, Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
     ]
 Nome_Formal :
 Conceito : Ouvinte tem que querer contar com 1 dedo levantado pro alto, tem que funcionar sozinho independe outras partes, sem gerar dúvidas. Tem que funcionar como um Loop do Começo combinando com o Fim e voltar em Loop mesmao sentido de historia
