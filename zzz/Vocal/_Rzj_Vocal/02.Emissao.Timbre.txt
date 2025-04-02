@@ -8,7 +8,10 @@ Macetes : [
 
 - ao aspirar estrale a língua. pra acordar músculos.
 
-- melofico: comece linear, depois decida se sobe ou desce, obs: as vezes já começa de cima.
+- melodico: comece linear, depois decida se sobe ou desce, obs: as vezes já começa de cima.
+
+- Opcoes_Timbres : 
+  -- máscara: na maçã do rosto como se tivesse sorrindo, Resulta_Voz: Suave
 
 - começa seco , estica somente na última vogal da frase.
 
