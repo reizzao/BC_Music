@@ -1,9 +1,5 @@
 package composicao
 
-import (
-	"fmt"
-)
-
 var requestSinopse = Sinopse{
 	SentimentoCentral: Ruim,
 }
@@ -21,13 +17,13 @@ var fraseUm = Frase{
 		Quantidade_Metrica: 2,
 		MovimentoMelodico:  Desce,
 	},
-}
+	}
 
-func Tester_CreateComposicao() {
-	newComposicao := Composicao{
+func Tester_CreateComposicao() Composicao{
+		newComposicao := Composicao{
 		Sinopse: createSinopse(requestSinopse),
 		Frase:   createFrase(fraseUm),
 	}
 
-	fmt.Println(newComposicao)
+	return newComposicao
 }

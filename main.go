@@ -1,12 +1,7 @@
 package main
 
-import (
-	"fmt"
-
-	"github.com/musicalrzj/composicao"
-)
+import "github.com/musicalrzj/analise"
 
 func main() {
-	fmt.Println("Hello, World! - Main Inicial")
-	composicao.Tester_CreateComposicao()
+	analise.ConsoleComposicao()
 }

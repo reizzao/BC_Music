@@ -111,7 +111,7 @@ Melodico : a nota demorada ou é no começo ou no fim da frase, quando acontece 
 
     Sessao: : A,
     Emocao: desabafando
-    Conduta_Master: [ Acao_feita pelo_PersonagemdaSessao: ]
+    Motivacao: [ Acao_feita pelo_PersonagemdaSessao: ]
     Gatilhos_Relacionados_A_Emocao_Central : [
 Desabafo,
 Faça Isso,
@@ -145,8 +145,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1 , Detalhes_Vogais:
 
 ### Estrofe : Sessao:_B
     Sessao: : B,
-    Conduta_Master: [ Reacao do PersonagemInverso, ]
-    Conduta_Opcoes : [
+    Motivacao: [ Reacao do PersonagemInverso, ]
+    Gatilhos : [
       O que retribuiu fez o outro, Desejo do PersonagemAfetado, O que acho disso,
       ]
     Nome_Formal : Verso F1 Hook
@@ -170,8 +170,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vA1 , Detalhes_Vogais: Auto Rimas curt
 ### Estrofe : Sessao:_C
 
     Sessao: : C,
-    Conduta_Master:  Dado aos fatos Passados ,
-    Conduta_Opcoes : [
+    Motivacao:  Dado aos fatos Passados ,
+    Gatilhos : [
       Como ou Porque do EstadoAtual, Decisao, O que levou ai Estado Atual , Chamando Atencao,É claro que, Quantas vezes, Já que ,
   ]
 Nome_Formal : Pre-Refrao
@@ -197,8 +197,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF1  || vC , Detalhes_Vogais: Nessa fa
 ### Estrofe : Sessao:_D
 
     Sessao: : D,
-    Conduta_Master: [ Decisao, passo a ser dado pra resultar na GrandeSolucao, ]
-    Conduta_Opcoes : [
+    Motivacao: [ Decisao, passo a ser dado pra resultar na GrandeSolucao, ]
+    Gatilhos : [
       Frase Marcante, O que fazer nesse Presente, pensando pról do Futuro,
      ]
 Nome_Formal : Ponte, Ponte-Refrao
@@ -224,8 +224,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal: vF2 , Detalhes_Vogais: Nessa fase usar
 ### Estrofe : Sessao:_REFRAO_IN
 
     Sessao: : R_IN,
-    Conduta_Master: [ $Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro, ou $Tema, ]
-    Conduta_Opcoes : [
+    Motivacao: [ $Coro_ResumoDaHistoria_TudoIssoPraDizer_GrandeSolucao_Pro_Futuro, ou $Tema, ]
+    Gatilhos : [
       Maior Energia daMusica, Entrega o jogo logo de Cara, Em Coro pra tofo Mundo vir junto, Uma mão pro alto, Sentido, Faz todo Sentido, Solução do tema,  Atitude, Repetições de Silabas Poéticas, Tem (mos) que ?, Precisa (mos) ?...,  É que ...,  Um Pedido...,
     ]
 Nome_Formal :
@@ -251,8 +251,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vA1, Detalhes_Vogais:
 
 ### Estrofe : Sessao:_REFRAO_OUT
     Sessao: : R_OUT,
-    Conduta_Master: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
-    Conduta_Opcoes : [   Atitude, Uma Verdade relacionado a $Emocao_Central, Um desejo relacionado a $Emocao_Central, Declaracao, Sacada, Frsses do dia a dia facil de decorar, ]
+    Motivacao: $PraQue_da_Grande_Solucao_Pro_Futuro ou $Tema,
+    Gatilhos : [   Atitude, Uma Verdade relacionado a $Emocao_Central, Um desejo relacionado a $Emocao_Central, Declaracao, Sacada, Frsses do dia a dia facil de decorar, ]
 
 Nome_Formal :
 Conceito :
@@ -275,8 +275,8 @@ Frase: FF1, Detalhes_Frase: , VogalFinal:  vF2, Detalhes_Vogais:
 
 ### Estrofe : Sessao:_OUTRO_OPCIONAL
 Sessao: : OUTRO_OPCIONAL,
-    Conduta_Master: ,
-    Conduta_Opcoes : [ , ]
+    Motivacao: ,
+    Gatilhos : [ , ]
 
 Nome_Formal :
 Conceito :
