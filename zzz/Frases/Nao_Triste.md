@@ -9,7 +9,7 @@
 
 ## E
 * Se eu tivesse três pedidos pra fazer o primeiro seria ficar voce
-* Quando é leve, te leva e você não vê...
+* Quando é leve, te leva e você nem vê...
 *
 
 ## O
