@@ -1,8 +1,13 @@
 # EMISSAO - Timbre :
 
+Motivo : é um booleano NaoTriste ou Triste
+
 Musical_com_Vocal : [
 
-- Se a frase é triste sempre começa tenso fechada triste a melodia, se for alegre é ao conteario
+- Se a frase é triste sempre começa tenso fechada triste a melodia, se for alegre é ao conteario, a escala do motivo será pra onde quer chegar ex: se o motivo for não triste vai chegar pro alto Ascende (de baixo pra Cima), se for Triste será Descedente ( de cima pra chegar embaixo)
+
+
+
 ]
 
 Macetes : [  
