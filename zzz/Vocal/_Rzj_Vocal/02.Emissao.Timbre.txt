@@ -1,6 +1,11 @@
 # EMISSAO - Timbre :
 
-Macetes : [    ]
+Musical_com_Vocal : [
+
+- Se a frase é triste sempre começa tenso fechada triste a melodia, se for alegre é ao conteario
+]
+
+Macetes : [  
 
 - referencia_vocal : objetivo : deixar a voz na frente,  direcionar para meio de fora dos labios inferiores de baixo, imagina seu dedo wntre seu labio e Queixo mire ali.
 tutorial: https://www.instagram.com/p/DIHFbfsRwOi/?img_index=5&igsh=MXg3bWhhOGRmemNxeg==
