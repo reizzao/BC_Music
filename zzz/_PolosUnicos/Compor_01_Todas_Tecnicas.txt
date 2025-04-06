@@ -12,7 +12,7 @@ Constantes: [
 
 Cenas : cada sessao, estrofe é a cena de um filme o ouvinte tem que saber onde está.
 
-Contraste : é o início da melodia dividida entre pergunta e seu contraste que é a resposta para imã pergunta aguda podemos ter uma resposta grave e vice versa.
+Contraste : é o início da melodia dividida entre pergunta e seu contraste que é a resposta para imã pergunta aguda podemos ter uma resposta grave e vice versa. Nas Cenas A  podemos por padrao perguntar em grave
 
 Motivo: é a melodia principal contrastada que é repetida em quase toda musica.
 
