@@ -1,6 +1,6 @@
 # EMISSAO - Timbre :
 
-Motivo : é um booleano NaoTriste ou Triste
+Motivo_Sentimental : é um booleano NaoTriste ou Triste, e toda hora vc fica puxando a melodia para o sentimento escolhido.
 
 Musical_com_Vocal : [
 
