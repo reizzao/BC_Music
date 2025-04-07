@@ -113,7 +113,7 @@ INICIO COPIADO GIT
 Faculdade Cursando :
 
 Estacio de Sá
-Disciplina: Analise de Sistemas
+Disciplina: modulo de Sistemas
 primeira mensalidade 49.00 -- pago em 22/04/2024
 Prometido mensalidades 3x3dxe 50.00 no inicio e o resrante 150.00
 
@@ -129,10 +129,10 @@ EAD - Estacio de Sa - Polo proximo Na Pe do Morro Cid.Tiradentes
 Portal : https://candidatos.portal.estacio.br/matriculas
 Log: Rzj30....@
 Primeiro mes gratis, restantes : 129.00 -> durante 2 anos
-Analise de sistemas - Ensino a Distancia - Graducacao Digital :
-https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas
+modulo de sistemas - Ensino a Distancia - Graducacao Digital :
+https://estacio.br/cursos/graduacao/modulo-e-desenvolvimento-de-sistemas
 
-grade e info : https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas
+grade e info : https://estacio.br/cursos/graduacao/modulo-e-desenvolvimento-de-sistemas
 
 ---
 Trampo Car  reinaldo

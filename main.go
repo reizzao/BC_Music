@@ -1,7 +1,7 @@
 package main
 
-import "github.com/musicalrzj/analise"
+import "github.com/musicalrzj/modulo"
 
 func main() {
-	analise.ConsoleComposicao()
+	modulo.ConsoleComposicao()
 }
