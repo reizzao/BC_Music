@@ -2,6 +2,8 @@
 
 - Controlador Midi : M-Vave  https://shopee.com.br/M-VAVE-Port%C3%A1til-Mini-25-Key-USB-MIDI-Teclado-Controlador-Com-8-Backlit-Drum-Pads-8-Bot%C3%B5es-8-RGB-Keyboard-Instruments-i.1292423267.22393192074
 
+Emulador Game : 170.00 ( ps1,2,3,4,5 ) : https://www.instagram.com/reel/DFBtkzwvSF5/?igsh=MWUxaDZ1NTl3ZjQ2aA==
+
 * Bolador de tabaco - vape - (https://culturapuff.com.br/collections/boladores?fbclid=PAY2xjawI27wJleHRuA2FlbQIxMQABppajNBMQa4RSNRcMYm_hCEFtV4fW_t4wo4TMSYkijq7-0cqoEbZe5V_jYg_aem_EuHs1s40wrXtsZaI5tXFiw)
 
 * Curso de Canto com Kadu Vieira : 12.00 ( https://louvart.online/destrave-vocal-curso-12/ )
