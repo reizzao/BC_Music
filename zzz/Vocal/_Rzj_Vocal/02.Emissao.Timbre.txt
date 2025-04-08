@@ -6,7 +6,7 @@ Musical_com_Vocal : [
 
 - Se a frase é triste sempre começa tenso fechada triste a melodia, se for alegre é ao conteario, a escala do motivo será pra onde quer chegar ex: se o motivo for não triste vai chegar pro alto Ascende (de baixo pra Cima), se for Triste será Descedente ( de cima pra chegar embaixo)
 
-
+- Silabas Poeticas é o mesmo que notas Por Compasso,  por padrão são 5,  Macete é conta-las nos dedos na emissão.
 
 ]
 
