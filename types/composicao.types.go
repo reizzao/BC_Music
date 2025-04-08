@@ -22,7 +22,7 @@ const (
 
 type Global_Composicao struct {
 	Frase_Por_Cena          Def_Frase_Por_Cena
-	Silabas_Poeticas_Master Def_Silabas_Poeticas_Master
+	Silabas_Poeticas_NotasPorCompasso Def_Silabas_Silabas_Poeticas_NotasPorCompasso
 }
 
 type Frase struct {
