@@ -1,19 +1,23 @@
 # Composicao_Tecnicas_Padrao
 
 ---
+Variaveis
+  Metrica :
+    SilabasPoeticas: 5
+ Frases_por_Cena : 2
 
 Sinopse_Estrofes :
 
-Constantes: [
-  Usar no maximo 2 frases em cada sessao:,
 
-  Pergunta_e_Resposta : repita a pergunta para dar a resposta ,
+ Pergunta : 
+  Conceito: frase incompleta conclusão, SilabasPoeticas: $SilabasPoeticas ultimaVogal: aberta ou fechada,Gatilhos: [ Fato, Pergunta, Afirmacao, ]
 
-Uma_FraseTem :
+ Resposta : 
+  Conceito: conclusão da incompleta ,SilabasPoeticas: $SilabasPoeticas, ultimaVogal : contraste ao contrario da anterior. Gatilhos: [O que, EAI]
 
- Pergunta : frase incompleta conclusão,  ultimaVogal: aberta ou fechada,
-
- Resposta : conclusão da incompleta ,ultimaVogal : contraste ao contrario da anterior.
+Dicas : [
+   repita a pergunta para dar a resposta.
+]
 
 
   Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
