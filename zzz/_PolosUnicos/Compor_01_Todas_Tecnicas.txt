@@ -8,6 +8,14 @@ Constantes: [
   Usar no maximo 2 frases em cada sessao:,
 
   Pergunta_e_Resposta : repita a pergunta para dar a resposta ,
+
+Uma_FraseTem :
+
+ Pergunta : frase incompleta conclusão,  ultimaVogal: aberta ou fechada,
+
+ Resposta : conclusão da incompleta ,ultimaVogal : contraste ao contrario da anterior.
+
+
   Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
 
 Cenas : cada sessao, estrofe é a cena de um filme o ouvinte tem que saber onde está.
