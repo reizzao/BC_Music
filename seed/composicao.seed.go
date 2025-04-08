@@ -5,7 +5,7 @@ import (
 )
 
 var RequestSinopse = types.Sinopse{
-	SentimentoCentral: types.Ruim,
+	SentimentoCentral: types.NaoBom,
 }
 
 var FraseUm = types.Frase{
@@ -13,12 +13,12 @@ var FraseUm = types.Frase{
 		Texto:              "pergunta 1",
 		ParesNotas:         types.UmDois,
 		Quantidade_Metrica: 2,
-		MovimentoMelodico:  types.Sobe,
+		Movimento_Melodico: types.Sobe,
 	},
 	Resposta: types.TypeFrase{
 		Texto:              "resposta 1",
 		ParesNotas:         types.UmDois,
 		Quantidade_Metrica: 2,
-		MovimentoMelodico:  types.Desce,
+		Movimento_Melodico: types.Desce,
 	},
-	}
+}

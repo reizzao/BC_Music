@@ -9,15 +9,12 @@ Variaveis
 Sinopse_Estrofes :
 
 
- Pergunta : 
+ Pergunta :
   Conceito: frase incompleta conclusão, SilabasPoeticas: $SilabasPoeticas ultimaVogal: aberta ou fechada,Gatilhos: [ Fato, Pergunta, Afirmacao, ]
 
- Resposta : 
-  Conceito: conclusão da incompleta ,SilabasPoeticas: $SilabasPoeticas, ultimaVogal : contraste ao contrario da anterior. Gatilhos: [O que, EAI]
+ Resposta :
+  Conceito: conclusão da pergunta incompleta , SilabasPoeticas: $SilabasPoeticas, ultimaVogal : contraste ao contrario da anterior. Gatilhos: [O que, repita a pergunta para dar a resposta, ]
 
-Dicas : [
-   repita a pergunta para dar a resposta.
-]
 
 
   Tutoriais : by VeronicaFerriani https://www.instagram.com/reel/DG-luhPuMV7/?igsh=M2MweWZ3bmk0NXhj ,
