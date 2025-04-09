@@ -28,7 +28,7 @@ que o coro come
 
 ## U
 * Se tiver de renda eu rendo
-*
+* Se eu acredito que mereço o universo passa a ter meu endereço.
 
 ---
 
