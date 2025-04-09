@@ -1,20 +1,14 @@
 package use
 
 import (
-	"github.com/musicalrzj/types"
-	"github.com/musicalrzj/useprepare"
+	"github.com/musicalrzj/types/composicao"
 )
 
 
+func CreateComposicao(c composicao.Composicao) composicao.Composicao {
 
 
-func CreateComposicao(c types.Composicao) types.Composicao {
-	newComposicao := types.Composicao{
-		Sinopse: useprepare.CreateSinopse(c.Sinopse),
-		Frase:   useprepare.CreateFrase(c.Frase),
-	}
-
-	return newComposicao
+	return c
 }
 
 
