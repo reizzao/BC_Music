@@ -22,6 +22,8 @@
 * Já que a gente ficou no quase, será que é hoje 
 que o coro come
 
+- Eu ia comentar mas lembrei que esse ano eu quero paz
+
 ## O
 *
 *
