@@ -8,6 +8,10 @@ Musical_com_Vocal : [
 
 - Silabas Poeticas é o mesmo que notas Por Compasso,  por padrão são 5,  Macete é conta-las nos dedos na emissão.
 
+- Tom : tom é como uma Master que controla o volume  total apartir do tom que vc escolheu, sempre tocará neste volume master do tom, regule os tons com a laringe/gogó.
+
+- Regular_Tom : estabilize a laringe/gogó na mesma posição do tom escokhido
+
 ]
 
 Macetes : [  
