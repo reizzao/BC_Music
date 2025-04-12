@@ -1,5 +1,8 @@
 # EMISSAO - Timbre :
 
+Aberturas_VogaisBoca: 
+ Por_Compasso: I, É, O - ( I medio, É agudo, O grave )
+
 Motivo_Sentimental : é um booleano NaoTriste ou Triste, e toda hora vc fica puxando a melodia para o sentimento escolhido.
 
 Musical_com_Vocal : [
