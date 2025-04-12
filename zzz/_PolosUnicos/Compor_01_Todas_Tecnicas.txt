@@ -31,6 +31,13 @@ Transicao: é a escala que vai ligar uma Cena na outra.
 
 ]
 
+===== TODO
+
+- Em cada sessao add , RecadoDaSessao,
+
+
+======
+
 Dados_A_Serem_Coletados
   Logica_Sentimental - Triste ? NaoTriste
   Emocao_Central : Sentimento
