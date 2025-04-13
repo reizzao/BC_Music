@@ -1,5 +1,14 @@
 # EMISSAO - Timbre :
 
+Ordem_Emissao: [
+1_Start = vogal_do_I, lábios de cima suave de cabeça,  som geave
+
+2_Meio : Joga_pra_Variavel_ vogal_de_E : joga pra cima ou pra baixo faz semi paisa, som Agudo.
+
+3_Final : no final cabe os enfentes/ornamentos , por padrão de final glissando ou outros [].
+
+]
+
 Aberturas_VogaisBoca: 
  Por_Compasso: I, É, O - ( I medio, É agudo, O grave )
 
