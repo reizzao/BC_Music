@@ -32,9 +32,9 @@ const (
 type Op_Nome_Cena string
 
 const (
-	Cena_A            = "Cena_A"
-	Cena_B            = "Cena_B"
-	Cena_Ponte_Refrao = "Cena_Ponte_Refrao"
+	Cena_A            = "Cena_A - Introdução"
+	Cena_B            = "Cena_B - Envolvimento"
+	Cena_Ponte_Refrao = "Cena_Ponte_Refrao - Final da Historia"
 	Cena_Refrao       = "Cena_Refrao"
 )
 
@@ -49,7 +49,7 @@ const (
 type Op_Missao_Cena string
 
 const (
-	A_Cena = "A_Apresenta_Fato e Responder a essa Apresentação"
+	A_Cena = "Ibtrofucao ao Tema, A_Apresenta_Fato e Responder a essa Apresentação"
 )
 
 type Op_Gatilho_ParteFrase string
