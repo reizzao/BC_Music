@@ -2,6 +2,8 @@
 
 Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tivesse narrando um livro una história pra criancas, exemplo : https://www.instagram.com/reel/DIemgwWT3fE/?igsh=b255bXIxcGNtZWFv
 
+Escalando : a cada 1x1 de frase Emitida siga a escala subindo quando Maior, ou descendo quando é Menor.
+
 Ordem_Emissao: [
 1_Start = vogal_do_I, lábios de cima suave de cabeça,  som geave
 
