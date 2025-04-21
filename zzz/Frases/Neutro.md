@@ -55,7 +55,7 @@ que o coro come
 
 ## U
 * Ele fantasiou e ela voou 
-*
+* É impossível ter controle sobre o que is outros pensam, então siga só a razão do teu coração 
 
 ---
 
