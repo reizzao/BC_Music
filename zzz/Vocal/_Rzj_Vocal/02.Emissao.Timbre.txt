@@ -2,6 +2,10 @@
 
 Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tivesse narrando um livro una história pra criancas, exemplo : https://www.instagram.com/reel/DIemgwWT3fE/?igsh=b255bXIxcGNtZWFv
 
+Use_LadoA_depois_LadoB : 
+  LadoA: nasal, agudo, momentos: inicios
+  LadoB : bocal, grave, momentos: terminos
+
 Escalando : a cada 1x1 de frase Emitida siga a escala subindo quando Maior, ou descendo quando é Menor.
 
 Ordem_Emissao: [
