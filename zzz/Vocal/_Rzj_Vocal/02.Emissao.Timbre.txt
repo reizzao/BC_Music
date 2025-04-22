@@ -3,10 +3,16 @@
 Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tivesse narrando um livro una história pra criancas, exemplo : https://www.instagram.com/reel/DIemgwWT3fE/?igsh=b255bXIxcGNtZWFv
 
 Ataques_Direcoes : 
- Comeco: Lado: A, bocal, grave, momentos: terminos
-  Meio: Lado: B, nasal, agudo, momentos: inicios
-  Final: Lado: A, bocal, grave, momentos: terminos
+ Comeco: Na Frente , bocal, grave,
+  Meio: Atraz , nasal, agudo,
+  Final: Na Frente, bocal, grave, 
 
+
+Conceito: começa sempre na frente e como elástico, Lado A e Lado B fica indo e voltando Grave pra Agudo,e sempre termina na frente.
+
+Resumo: Comeca e Termina na frente sempre.
+
+---
 Escalando : a cada 1x1 de frase Emitida siga a escala subindo quando Maior, ou descendo quando é Menor.
 
 Ordem_Emissao: [
