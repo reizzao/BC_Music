@@ -3,9 +3,12 @@
 Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tivesse narrando um livro una história pra criancas, exemplo : https://www.instagram.com/reel/DIemgwWT3fE/?igsh=b255bXIxcGNtZWFv
 
 Ataques_Direcoes : 
- Comeco: Na Frente , bocal, grave,
-  Meio: Atraz , nasal, agudo,
-  Final: Na Frente, bocal, grave, 
+
+ Ataque_Comeco: Treinado: AHU, Na Frente , bocal, grave,
+ 
+  Impulso : Treinado: Nha Mascando, Meio: Atraz , nasal, agudo,
+
+  Final: Treinado: Lingua baixa gengiva inferior, Na Frente, bocal, grave, 
 
 
 Conceito: começa sempre na frente e como elástico, Lado A e Lado B fica indo e voltando Grave pra Agudo,e sempre termina na frente.
