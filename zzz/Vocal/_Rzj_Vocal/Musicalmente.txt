@@ -1,5 +1,11 @@
 Musicalmente_Vocal :
 
+Centro_Tonal: [
+- Venha Sempre di Centro tonal 
+- O Centro Tonal depende do momento da música pode ser o 1, 6, 4
+- Apsrtir do Centro tonal faça saltos crescente ou decrescente,  ideal crescente se Feliz, ou decrescente se Triste, ex: [1-5, 1-6, 6-4
+]
+
 Nota_Forte : dentro do compasso existe pelo menos 1  nota forte, sempre enfatize essa nota ela pode ser a primeira, do meio ou última,  cada música pode escolher uma.
 
 
