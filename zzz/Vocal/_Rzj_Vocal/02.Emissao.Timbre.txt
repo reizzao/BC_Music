@@ -1,12 +1,15 @@
+
+TestSom: Alô FULANO e Alo Siclano, U-I
+
 # EMISSAO - Timbre :
 
 Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tivesse narrando um livro una história pra criancas, exemplo : https://www.instagram.com/reel/DIemgwWT3fE/?igsh=b255bXIxcGNtZWFv
 
 Ataques_Direcoes : 
 
- Ataque_Comeco: Treinado: AHU, Na Frente , bocal, grave,
+ Ataque_Comeco: Treinado: U-I ou AHU, Na Frente , bocal, grave,
  
-  Impulso : Treinado: Nha Mascando, Meio: Atraz , nasal, agudo,
+  Impulso : Treinado: U-I ou Nhãn Mascando, Meio: Atraz , nasal, agudo,
 
   Final: Treinado: Lingua baixa gengiva inferior, Na Frente, bocal, grave, 
 
