@@ -7,6 +7,8 @@ Sentimento_Cada_Nota : Cada nota tem um Tom_Teatral que há envolve, como se tiv
 
 Ataques_Direcoes : 
 
+Apoio : Puxe o inicio da barriga, Faça da barriga rígida o alicerce,  https://www.instagram.com/reel/DI2IydnSmoz/?igsh=NDhucHBxM2JmNnBl
+
  Ataque_Comeco: Treinado: U-I ou AHU, Na Frente , bocal, grave,
  
   Impulso : Treinado: U-I ou Nhãn Mascando, Meio: Atraz , nasal, agudo,
