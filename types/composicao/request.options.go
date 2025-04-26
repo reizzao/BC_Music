@@ -62,8 +62,8 @@ const (
 type Op_Conceito string
 
 const (
-	Conceito_Pergunta = "frase incompleta conclusão"
-	Conceito_Resposta = "conclusão da pergunta incompleta, repita a pergunta para dar a resposta, "
+	Conceito_Pergunta = "frase incompleta conclusão,  comeca com Tonica, "
+	Conceito_Resposta = "conclusão da pergunta incompleta, repita a pergunta para dar a resposta, termina em tonica, "
 )
 
 type Op_Abertura_UltimaVogal string
