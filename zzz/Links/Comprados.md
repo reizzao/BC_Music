@@ -22,9 +22,10 @@ Pads bandlab fo curso
 ABAIXO VOCÊ TEM O LINK DE ACESSO AOS PADS DE BATERIA!
 PARA UTILIZÁ-LOS, PRIMEIRO VOCÊ IRÁ FAZER O DOWNLOAD DO APLICATIVO "DRIVE" NO SEU CELULAR E DEPOIS VOCÊ IRÁ COPIAR O LINK E DOLAR NO NAVEGADOR DO SEU CELULAR E DAR 'ENTER".
 
+Pads_Bateria
 https://drive.google.com/drive/folders/1-us_Nwj82w_ef7jCa1eaMEwaNo276nLo?usp=drive_link
 
-
+Pads_Tom
 https://drive.google.com/drive/folders/1zu_9_lACrNdjEt_VDYpKS1AJ8YNa_2QE?usp=drive_link
 
 
