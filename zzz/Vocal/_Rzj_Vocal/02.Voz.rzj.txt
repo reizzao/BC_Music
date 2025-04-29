@@ -5,6 +5,13 @@ Conciencia: 28-04-2025
 
 ---
 
+Variáveis:
+- Agudo_Impulsionado : use com menos volume, usando o nasal com harmônicos agudos junto com abertura do palato mole inferior.
+
+
+
+---
+
 ## Exercicios
   - Exercicios_Vogais_com_Som : start no bico pra fora da boca, sentindo o ar bater nas paredes da boca sair de dentro pra fora,
     -Oitava: 4,
@@ -17,8 +24,12 @@ Controle_Ar : Emita o Som sem emitir muito Ar, Tutorial: https://www.instagram.c
 
 Emitir : da forma que faz os Exercicios_Vogais_com_Som .
 
-Pergunta_Resposta :
-  Pergunta : Insterpretar: Perguntar, Tonal: Tonico-Com Destaque, Som: Grave, Abertura: Fechado,
+Sensacao_Ambiente : de NANANA
 
-  Resposta : Insterpretar: Explicar, Tonal: Atona-Fraca de Menor Intensidade, Som: Agudo, Abertura: Aberta
+Trandicao_Meio_Frase : use o $Agudo_Impulsionado.
+
+Pergunta_Resposta :
+  Pergunta : Insterpretar: Perguntar, Tonal: Tonico-Com Destaque, Som: Grave, Abertura: Fechado, Final: deixa dica no ar pedindo desfecho.
+
+  Resposta : Insterpretar: Explicar, Tonal: Atona-Fraca de Menor Intensidade, Som: Agudo, Abertura: Aberta, Final: deixa sair no ar livre.
 
