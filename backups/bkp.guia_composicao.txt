@@ -1,0 +1,25 @@
+// type Info_Cena struct {
+// 	Nome_Cena   composicao.Op_Nome_Cena
+// 	Missao_Cena composicao.Op_Missao_Cena
+// }
+
+// type TypeFrase struct {
+// 	Texto                 string
+// 	Conceito              composicao.Op_Conceito
+// 	Gatilho_ParteFrase    composicao.Op_Gatilho_ParteFrase
+// 	Silabas_Poeticas      uint
+// 	Abertura_Ultima_Vogal composicao.Op_Abertura_UltimaVogal
+// 	ParesNotas            composicao.Op_ParesNotas
+// 	Quantidade_Metrica    uint
+// 	Movimento_Melodico    composicao.Op_Movimento_Melodico
+// }
+// type IFrase interface {
+// 	NewFrase() Frase
+// }
+
+// type Op_Tamanho_Frase string
+
+// const (
+// 	Frase_Curta_Definida = "Frase_Curta_Definida"
+// 	Frase_Longa          = "Frase_Longa"
+// )

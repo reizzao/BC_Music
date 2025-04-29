@@ -22,13 +22,6 @@ const (
 	NaoBom = "tristeza, saudade, "
 )
 
-type Op_Tamanho_Frase string
-
-const (
-	Frase_Curta_Definida = "Frase_Curta_Definida"
-	Frase_Longa          = "Frase_Longa"
-)
-
 type Op_Nome_Cena string
 
 const (

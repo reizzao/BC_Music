@@ -1,4 +1,4 @@
-package tester
+package mocks_composicao
 
 // import (
 // 	"github.com/musicalrzj/seed"

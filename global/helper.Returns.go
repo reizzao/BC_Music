@@ -1,4 +1,4 @@
-package helper
+package global
 
 import (
 	"encoding/json"

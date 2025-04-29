@@ -1,7 +1,9 @@
 package main
 
-import "github.com/musicalrzj/modulo"
+import (
+	"github.com/musicalrzj/modulos/composicao/mocks_composicao"
+)
 
 func main() {
-	modulo.ConsoleComposicao()
+	mocks_composicao.Main_TesterComposicao()
 }
