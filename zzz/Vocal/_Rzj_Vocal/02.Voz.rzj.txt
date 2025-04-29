@@ -16,7 +16,7 @@ Emissao :
 Emitir : da forma que faz os Exercicios_Vogais_com_Som .
 
 Pergunta_Resposta :
-  Pergunta : Insterpretar: Perguntar, Som: Tonico, Espessura: Grave, Abertura: Fechado,
+  Pergunta : Insterpretar: Perguntar, Tonal: Tonico-Com Destaque, Som: Grave, Abertura: Fechado,
 
-  Resposta : Insterpretar: Explicar, Som: Agudo, Espessura: Agudo, Abertura: Aberta
+  Resposta : Insterpretar: Explicar, Tonal: Atona-Fraca de Menor Intensidade, Som: Agudo, Abertura: Aberta
 
