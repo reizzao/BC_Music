@@ -5,6 +5,6 @@ package modulo
 // 	"github.com/musicalrzj/tester"
 // )
 
-func ConsoleComposicao() {
+func ConsoleComposicao() {  
 	// helper.Console(tester.Tester_CreateComposicao())
 }
