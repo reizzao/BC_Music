@@ -6,7 +6,9 @@ Conciencia: 28-04-2025
 ---
 
 Variáveis:
-- Agudo_Impulsionado : use com menos volume, usando o nasal com harmônicos agudos junto com abertura do palato mole inferior.
+
+- Agudo_Impulsionado : Como se fosse RIR, use com menos volume, usando o nasal com harmônicos agudos junto com abertura do palato mole inferior.
+Tutoriais: Leonardo https://www.instagram.com/reel/DJDhKGPMHha/?igsh=MWl5ZmN4MWtzOGptNQ== , 
 
 
 
@@ -28,7 +30,7 @@ Emitir : da forma que faz os Exercicios_Vogais_com_Som .
 
 Sensacao_Ambiente : de NANANA
 
-Trandicao_Meio_Frase : use o $Agudo_Impulsionado.
+Transicao_Meio_Frase : use o $Agudo_Impulsionado.
 
 Pergunta_Resposta :
   Pergunta : Insterpretar: Perguntar, Tonal: Tonico-Com Destaque, Som: Grave, Abertura: Fechado, Final: deixa dica no ar pedindo desfecho.
