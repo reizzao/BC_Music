@@ -25,7 +25,7 @@ type Importantes_Voz struct {
 }
 
 var Obv_VozComeco = VozProps{
-	Estimulo:           "Contrair Meio Superior da Boca",
+	Estimulo: "1- Deixa queixo descer, 2- Aspira, 3- Contrai Meio Superior do Labio Superior, 4- Solta SoproVoz sem apagar a Vela",
 	Abertura_Boca:      "Pequena",
 	Tonal:              "Tonica",
 	Vogal_Boca:         "Â , Todas com acento Circunflexo",
