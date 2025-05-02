@@ -18,7 +18,6 @@
 
 
 
-
 [Verse 2 ]
 [Comment: # explicar_Anterior, DO_QUE, PORQUE, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato ]
 
@@ -30,11 +29,11 @@
 
 
 [ PRE-CHORUS, Emotional: distressed ] [ musical ballad]
-[ Comment: # angustiado, O_Que_Houve_Pra_Tudo_Estar_Assim ]
+[ Comment: # angustiado, Apontando_Lembrancas_O_Que_Houve_Pra_Tudo_Estar_Assim ]
 
 
 [ BULDUP, Emotional: passionate, Whispered Harmonized,  ]
-[Comment: # apaixonado, Acao_Pra_Melhorar_O_Cenario ]
+[Comment: # apaixonado, Que_Acao_Pode_Melhorar_O_Cenario ]
 
 
 
