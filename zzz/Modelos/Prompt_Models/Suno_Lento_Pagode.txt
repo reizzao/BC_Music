@@ -13,13 +13,19 @@
 [ INTRO, prelude,  Acoustic guitar piano ]
 " "
 
-[VERSE] [  Whispered Harmonized , Emotional: passionate ]
+[VERSE 1] [  Whispered Harmonized , Emotional: passionate ]
 [ Comment: #apaixonado #desabafo_do_Fato ]
 
 
 
+
+[Verse 2 ]
+[Comment: # explicar_Anterior, DO_QUE, PORQUE, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato ]
+
+
+
 [CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining ]
-[Comment: # explicando, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato ]
+[Comment: # explicar_Anterior, Resposta_Explica_Concluindo_Sessao_Cena ]
 
 
 
