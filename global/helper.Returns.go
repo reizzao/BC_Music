@@ -11,8 +11,6 @@ func ReturnJson(d any) string {
 }
 
 func Console(d any) {
-	res, _ := json.Marshal(d)
+	res, _ := json.MarshalIndent(d, "", "  ")
 	fmt.Println(string(res))
 }
-
-
