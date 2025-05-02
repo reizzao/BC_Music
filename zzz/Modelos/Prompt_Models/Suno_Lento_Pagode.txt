@@ -29,18 +29,21 @@
 
 
 [ PRE-CHORUS, Emotional: distressed ] [ musical ballad]
+
 [ Comment: # angustiado, Apontando_Lembrancas_O_Que_Houve_Pra_Tudo_Estar_Assim ]
 
 
 [ BULDUP, Emotional: passionate, Whispered Harmonized,  ]
+
 [Comment: # apaixonado, Que_Acao_Pode_Melhorar_O_Cenario ]
 
 
 
 [ CHORUS , expressive, emotional: beggar,  ][2x]
+
 [Comment: # linha 1 - pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 ]
 
-[Comment: # linha 2 - Pra que , fez o pedido para, Rima1 ]
+[Comment: # linha 2 - Pra que , fez o pedido para?, Rima1 ]
 
 
 [Comment: # linha 3 - O que vai acontecer se o pedido for realizado, Rima2 ]
