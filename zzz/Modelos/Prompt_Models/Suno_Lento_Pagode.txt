@@ -24,8 +24,11 @@
 
 
 [CHOIR, Whispered Harmonized, musical ballad, Emotional: explaining ]
-[Comment: # explicar_Anterior, Resposta_Explica_Concluindo_Sessao_Cena ]
 
+[Comment: # explicar_Anterior, Local ]
+
+
+[Comment: # Resposta_Explica_Concluindo_Sessao_Cena ]
 
 
 [ PRE-CHORUS, Emotional: distressed ] [ musical ballad]
