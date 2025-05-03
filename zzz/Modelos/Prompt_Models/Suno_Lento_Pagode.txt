@@ -7,6 +7,9 @@
 
 # A pergunta padrão é terminar tonica e resposta o contraste Atona. nas parte B Tensa o padrão somente Atona
 
+# 1 nota Tonica pra pergunta, 1 nota NaoTonica pra resposta
+
+
 [ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
 
 [ Comment: # Sinopse: Tema_O_Grande_Fato: ???  ]
