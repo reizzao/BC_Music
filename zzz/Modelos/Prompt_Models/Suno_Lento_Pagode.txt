@@ -11,6 +11,14 @@
 
 # vocal: a distância de notas interfere no canto , Maior tem um salto maior, NaoMaior tem um salto menor na melodia. 
 
+# concentrar no Palato_Duro_Superior acordes Maiores
+- concentrar nk Pakato_Mole_Inferior acordes NaoMaiores
+
+
+
+
+
+
 [ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
 
 [ Comment: # Sinopse: Tema_O_Grande_Fato: ???  ]
