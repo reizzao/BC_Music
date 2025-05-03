@@ -19,7 +19,7 @@
 
 
 [Verse 2 ]
-[Comment: # explicar_Anterior, DO_QUE, PORQUE, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato ]
+[Comment: # explicar_Anterior, DO_QUE, PORQUE, O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, ]
 
 
 
@@ -28,7 +28,7 @@
 [Comment: # explicar_Anterior, Local ]
 
 
-[Comment: # Resposta_Explica_Concluindo_Sessao_Cena ]
+[Comment: # Resposta_Explica_Concluindo_Sessao_Cena, , MensagemPassadaSessao? ]
 
 
 [ PRE-CHORUS, Emotional: distressed ] [ musical ballad]
@@ -38,7 +38,7 @@
 
 [ BULDUP, Emotional: passionate, Whispered Harmonized,  ]
 
-[Comment: # apaixonado, Que_Acao_Pode_Melhorar_O_Cenario ]
+[Comment: # apaixonado, Que_Acao_Pode_Melhorar_O_Cenario , MensagemPassadaSessao? ]
 
 
 
@@ -52,4 +52,4 @@
 [Comment: # linha 3 - O que vai acontecer se o pedido for realizado, Rima2 ]
 
 
-[Comment: # linha 4 - Grande Desejo do tema, Ou o Tema, Rima2 ]
+[Comment: # linha 4 - Grande Desejo do tema, Ou o Tema, Rima2 , MensagemPassadaSessao? ]
