@@ -9,6 +9,7 @@
 
 # 1 nota Tonica pra pergunta, 1 nota NaoTonica pra resposta
 
+# vocal: a distância de notas interfere no canto , Maior tem um salto maior, NaoMaior tem um salto menor na melodia. 
 
 [ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
 
