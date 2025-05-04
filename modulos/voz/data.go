@@ -25,6 +25,10 @@ type Importantes_Voz struct {
  Afinacao      string
 }
 
+# Inicio: Syrpreso. Há Entendi!
+Fim: falsete agudo
+Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
+
 var Obv_VozComeco = VozProps{
 	Estimulo: "
 1- Deixa queixo descer , 
