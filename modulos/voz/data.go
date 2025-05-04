@@ -22,6 +22,7 @@ type Importantes_Voz struct {
 	Postura_Peito string
 	Gogo          string
 	Aspirar       string
+ Afinacao      string
 }
 
 var Obv_VozComeco = VozProps{
@@ -64,4 +65,6 @@ var Obv_Importantes_Voz = Importantes_Voz{
 	Gogo: "baixa a Laringe Gogó.. pensa em falar letra B",
 
 	Aspirar: "aspire já com a boca aberta, direto pro pulmão, 1- Aspire, 2- Segure, 3 solte aos poucos.",
+
+Afinacao: "Respeite intervalos Maiores_Espacosos e NaoMsiores_Curtos ."
 }
