@@ -66,5 +66,5 @@ var Obv_Importantes_Voz = Importantes_Voz{
 
 	Aspirar: "aspire já com a boca aberta, direto pro pulmão, 1- Aspire, 2- Segure, 3 solte aos poucos.",
 
-Afinacao: "Respeite intervalos Maiores_Espacosos e NaoMsiores_Curtos ."
+Afinacao: "Respeite intervalos Maiores_Espacosos e NaoMaiores_Curtos ."
 }
