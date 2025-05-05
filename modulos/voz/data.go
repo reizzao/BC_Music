@@ -25,16 +25,20 @@ type Importantes_Voz struct {
  Afinacao      string
 }
 
-# Inicio: Syrpreso. Há Entendi!
-Fim: falsete agudo
-Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
 
 var Obv_VozComeco = VozProps{
 	Estimulo: "
-1- Deixa queixo descer , 
-2- Contrai Meio Superior do Labio Superior, 
-3- Aspira pro Pulmão e Costelas
-4- Solta SoproVoz sem apagar a Vela",
+
+1- Suspira antes de cantar, Deixa queixo descer
+2- canta Inicio leve suspirando, surpreso, gatilho:: Há Entendi!, Contrai Meio Superior do Labio Superior.
+Projeta, Solta SoproVoz sem apagar a Vela
+
+
+3- Fim: falsete agudo, ou bravo bicudo grave
+Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
+
+
+4- Aspira pro Pulmão e Costelas
 
 	Abertura_Boca:      "Pequena",
 	Tonal:              "Tonica",
