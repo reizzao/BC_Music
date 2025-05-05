@@ -34,7 +34,7 @@ var Obv_VozComeco = VozProps{
 Projeta, Solta SoproVoz sem apagar a Vela
 
 
-3- Fim: falsete agudo, ou bravo bicudo grave
+3- Fim: falsete bravo bicudo grave ou agudo, enfatizando harmonicos no fim da vogal final.
 Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
 
 
