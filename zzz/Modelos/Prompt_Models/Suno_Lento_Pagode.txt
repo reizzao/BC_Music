@@ -14,6 +14,13 @@
 # concentrar no Palato_Duro_Superior acordes Maiores
 - concentrar nk Pakato_Mole_Inferior acordes NaoMaiores
 
+# Estrofes_Cenas
+  Parte_A : Apresenta o Caso
+  Parte_B : O Porque do Caso
+  Refrao: Grande Solucao Como resolver o Caso Apresentado na Parte_A
+
+Tutoriais: https://www.instagram.com/reel/DJPy5cTp9SR/?igsh=eGoydndyb24yajYx
+
 
 
 
