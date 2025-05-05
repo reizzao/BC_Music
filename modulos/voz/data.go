@@ -48,7 +48,7 @@ Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA=
 }
 
 var Obv_VozMeio = VozProps{
-	Estimulo:           "Contrair Palato Mole - Fundo Boca",
+	Estimulo:           "Acesso: Impulso > Rá te peguei! , Contrair Palato Mole - Fundo Boca",
 	Abertura_Boca:      "Grande",
 	Tonal:              "Atona",
 	Vogal_Boca:         "I, Todas com acento Circunflexo",
