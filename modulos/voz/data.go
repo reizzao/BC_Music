@@ -33,8 +33,11 @@ var Obv_VozComeco = VozProps{
 2- canta Inicio leve suspirando, surpreso, gatilho:: Há Entendi!, Contrai Meio Superior do Labio Superior.
 Projeta, Solta SoproVoz sem apagar a Vela
 
+Comece: pela escala subindo ou descendo
+
 Enfatize : as tônicas nelas se trocam os acordes, abra mais o Queixo nessas trocas, por padrão vem em 2° depois do suave,
 
+Tutoriais: by: PedroHenriqueSiqueira, https://youtu.be/kh5ncfGRouw?si=Kqwz0HnF576pzhnt
 
 3- Fim: falsete bravo bicudo grave ou agudo, enfatizando harmonicos no fim da vogal final.
 Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
