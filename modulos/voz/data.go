@@ -31,11 +31,15 @@ var Obv_VozComeco = VozProps{
 
 1- Suspira antes de cantar, Deixa queixo descer
 2- canta Inicio leve suspirando, surpreso, gatilho:: Há Entendi!, Contrai Meio Superior do Labio Superior.
-Projeta, Solta SoproVoz sem apagar a Vela
+Projeta, Solta SoproVoz sem apagar a Vela,
+
+OQueReproduzimos: somente a melodia notas, não dá pra contar acorde, mais que uma nota por vês.
 
 Comece: pela escala subindo ou descendo
 
 Enfatize : as tônicas nelas se trocam os acordes, abra mais o Queixo nessas trocas, por padrão vem em 2° depois do suave,
+
+Temos: 3 ambientes, a Tonica_Forte Maior e Tonica_Fraca NaoMaior, e Suave Maior ou Menor
 
 Tutoriais: by: PedroHenriqueSiqueira, https://youtu.be/kh5ncfGRouw?si=Kqwz0HnF576pzhnt
 
