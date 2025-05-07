@@ -29,13 +29,15 @@ type Importantes_Voz struct {
 var Obv_VozComeco = VozProps{
 	Estimulo: "
 
-1- Suspira antes de cantar, Deixa queixo descer
-2- canta Inicio leve suspirando, surpreso, gatilho:: Há Entendi!, Contrai Meio Superior do Labio Superior.
-Projeta, Solta SoproVoz sem apagar a Vela,
+1- Cara de Surpreso, Suspira antes de cantar, 
+2- Deixa queixo descer
+3- Franzir Superior da Boca
+4- canta em Staccato_Arrastado gatilho:: Há Entendi!,
+5- Apoio : Barriga contraída aos poucos como se levantasse as pernas jogando corpo pra traz.,
 
 OQueReproduzimos: somente a melodia notas, não dá pra contar acorde, mais que uma nota por vês.
 
-Comece: pela escala subindo ou descendo
+Movimentos : mova a melodia em escala subindo ou descendo
 
 Enfatize : as tônicas nelas se trocam os acordes, abra mais o Queixo nessas trocas, por padrão vem em 2° depois do suave,
 
