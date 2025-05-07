@@ -29,7 +29,7 @@ type Importantes_Voz struct {
 var Obv_VozComeco = VozProps{
 	Estimulo: "
 
-1- Cara de Surpreso, Suspira antes de cantar, 
+1- Abaixa Laringe, Quase fale B, Cara de Surpreso, Suspira antes de cantar, 
 2- Deixa queixo descer
 3- Franzir Superior da Boca
 4- canta em Staccato_Arrastado gatilho:: Há Entendi!,
