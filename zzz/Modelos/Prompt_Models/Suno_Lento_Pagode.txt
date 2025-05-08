@@ -5,40 +5,6 @@
 [ Emotional: sad , # happy ou sad ]
 <\DETAILS>
 
-Variaveis: 
-- Frase_de_Comando : Sacada, Explicativa Curta e direta, Gera comando em frase que faz o ouvinte entender o porque do que você está sentindo no Sentimento_Master. Vc sabe do Tema mas o ouvinte Não então faça-o entender, Obs: Não entregue o Outo final da historia (Isso só no refrao)
-
-1° Tema. (adjetivos de sentimento, exemplo: Saudade  - idiota.   Tuto: https://www.instagram.com/reel/CmxLKa0uBc2/?igsh=MTM0dnpsb2U5ZnFpYw==
-
-2° Sentimento_Central_do_Tema : Se o Tema é TAL exclarece o que quer dizer com esse tema. o que nele acontece
-
-3° Sentimento_Master: Amor. Saudade, Sofrimento,  Superação,
-
-4° Parte A, Melodia: Lenta e pausada, VocalSom: FalandoManso, Missao: leve o ouvinte ao Sentimento_Master com Frase_de_Comando ,
-tuto: https://www.instagram.com/p/Cf95Dkzpm6q/?img_index=1&igsh=c3owdGZmMTdpZzdl
-
-
-# A pergunta padrão é terminar tonica e resposta o contraste Atona. nas parte B Tensa o padrão somente Atona
-
-# 1 nota Tonica pra pergunta, 1 nota NaoTonica pra resposta
-
-# vocal: a distância de notas interfere no canto , Maior tem um salto maior, NaoMaior tem um salto menor na melodia. 
-
-# concentrar no Palato_Duro_Superior acordes Maiores
-- concentrar nk Pakato_Mole_Inferior acordes NaoMaiores
-
-# Estrofes_Cenas
-  Parte_A : Apresenta o Caso
-  Parte_B : O Porque do Caso
-  Refrao: Grande Solucao Como resolver o Caso Apresentado na Parte_A
-
-Tutoriais: https://www.instagram.com/reel/DJPy5cTp9SR/?igsh=eGoydndyb24yajYx
-
-
-
-
-
-
 [ Comment: # Em cada Sessao -  linha_1 situacao , linha 2 explica, obs podem se repetir as linhas. ]
 
 [ Comment: # Sinopse: Tema_O_Grande_Fato: ???  ]
