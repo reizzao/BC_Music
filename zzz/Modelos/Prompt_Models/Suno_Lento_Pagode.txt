@@ -5,13 +5,16 @@
 [ Emotional: sad , # happy ou sad ]
 <\DETAILS>
 
+Variaveis: 
+- Frase_de_Comando : Sacada, Explicativa Curta e direta,
+
 1° Tema. (adjetivos de sentimento, exemplo: Saudade  - idiota.   Tuto: https://www.instagram.com/reel/CmxLKa0uBc2/?igsh=MTM0dnpsb2U5ZnFpYw==
 
 2° Sentimento_Central_do_Tema : Se o Tema é TAL exclarece o que quer dizer com esse tema. o que nele acontece
 
 3° Sentimento_do_SentimentoCentral: Amor. Saudade, Sofrimento,  Superação,
 
-4° Parte A, leve o ouvinte ao Sentimento_do_SentimentoCentral
+4° Parte A, leve o ouvinte ao Sentimento_do_SentimentoCentral com Frase_de_Comando ,
 tuto: https://www.instagram.com/p/Cf95Dkzpm6q/?img_index=1&igsh=c3owdGZmMTdpZzdl
 
 
