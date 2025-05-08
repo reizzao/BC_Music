@@ -1,6 +1,7 @@
 package type_composicao
 
-// return :: modo de fazer tal coisa
+// return :: modo de fazer tal coisa -> todo: deve ser trocada por repositorio
+
 var returnComposicaoFixo FixoComposicao = Objfix_01_Composicao_Fixo
 
 // Function
