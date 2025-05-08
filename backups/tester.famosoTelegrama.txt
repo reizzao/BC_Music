@@ -1,4 +1,3 @@
-package mocks_composicao
 
 // import (
 // 	"github.com/musicalrzj/seed"

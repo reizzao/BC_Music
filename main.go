@@ -1,14 +1,13 @@
 package main
 
 import (
-	// "github.com/musicalrzj/modulos/composicao/mocks_composicao"
-	"github.com/musicalrzj/modulos/voz"
+	"github.com/musicalrzj/modulos/composicao/usecases/type_composicao"
+	// "github.com/musicalrzj/modulos/voz"
 )
 
 func main() {
-	// mocks_composicao.Main_TesterComposicao()
+	type_composicao.Tester_Use_CreateComposicao()
 
-	voz.TesterCreateVoz()
-
+	// voz.TesterCreateVoz()
 
 }
