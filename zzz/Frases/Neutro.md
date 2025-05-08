@@ -12,6 +12,7 @@
 * Sé loco não compensa
 * Primeiro começa depois melhora
 * Dorme com essa
+* Tal coisa é tudo igual, tu tem tal coisa dessa?
 
 
 ## E
