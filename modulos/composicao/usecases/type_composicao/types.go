@@ -18,15 +18,9 @@ type RequestComposicao struct {
 }
 
 // type Composicao struct {
-// 	PerguntasObrigatorias IPerguntasObrigatorias
 // 	Partes                IPartes
 // }
 
-// type IPerguntasObrigatorias struct {
-// 	Tema                       GuiaeResposta
-// 	Sentimento_Central_do_Tema GuiaeResposta
-// 	Sentimento_Master          GuiaeResposta
-// }
 
 // type GuiaeResposta struct{
 // 	Fixo_GuiaResposta Fixo_GuiaResposta
