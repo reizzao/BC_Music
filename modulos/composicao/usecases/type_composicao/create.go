@@ -1,4 +1,4 @@
-package create_composicao
+package type_composicao
 
 // return :: modo de fazer tal coisa
 var returnComposicaoFixo FixoComposicao = Objfix_01_Composicao_Fixo
@@ -12,5 +12,3 @@ func CreateComposicao(r RequestComposicao) IComposicao {
 	}
 	return res
 }
-
-

@@ -27,9 +27,9 @@ type Importantes_Voz struct {
 
 
 var Obv_VozComeco = VozProps{
-	Estimulo: "
+	Estimulo: `
 
-1- Abaixa Laringe, Quase fale B, Cara de Surpreso, Suspira antes de cantar, 
+1- Abaixa Laringe, Quase fale B, Cara de Surpreso, Suspira antes de cantar,
 2- Deixa queixo descer
 3- Franzir Superior da Boca
 4- canta em Staccato_Arrastado gatilho:: Há Entendi!,
@@ -46,10 +46,13 @@ Temos: 3 ambientes, a Tonica_Forte Maior e Tonica_Fraca NaoMaior, e Suave Maior 
 Tutoriais: by: PedroHenriqueSiqueira, https://youtu.be/kh5ncfGRouw?si=Kqwz0HnF576pzhnt
 
 3- Fim: falsete bravo bicudo grave ou agudo, enfatizando harmonicos no fim da vogal final.
-Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==", 
+Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA==",
 
 
 4- Aspira pro Pulmão e Costelas
+
+
+`,
 
 	Abertura_Boca:      "Pequena",
 	Tonal:              "Tonica",
@@ -57,6 +60,7 @@ Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA=
 	Som:                "Grave",
 	Interpretar_Fingir: "Estar Perguntando ?",
 }
+
 
 var Obv_VozMeio = VozProps{
 	Estimulo:           "Acesso: Impulso > Rá te peguei! , Contrair Palato Mole - Fundo Boca",
@@ -85,5 +89,5 @@ var Obv_Importantes_Voz = Importantes_Voz{
 
 	Aspirar: "aspire já com a boca aberta, direto pro pulmão, 1- Aspire, 2- Segure, 3 solte aos poucos.",
 
-Afinacao: "Respeite intervalos Maiores_Espacosos e NaoMaiores_Curtos, já inicie nas Escalas de altura 4 ."
+Afinacao: "Respeite intervalos Maiores_Espacosos e NaoMaiores_Curtos, já inicie nas Escalas de altura 4 .",
 }

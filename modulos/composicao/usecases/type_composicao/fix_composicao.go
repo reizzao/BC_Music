@@ -1,5 +1,4 @@
-package create_composicao
-
+package type_composicao
 
 // seed 01
 var Objfix_01_Composicao_Fixo = FixoComposicao{

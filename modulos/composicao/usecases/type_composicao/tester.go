@@ -1,4 +1,4 @@
-package create_composicao
+package type_composicao
 
 import (
 	"github.com/musicalrzj/global"

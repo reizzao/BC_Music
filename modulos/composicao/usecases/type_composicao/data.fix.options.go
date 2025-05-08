@@ -1,4 +1,4 @@
-package composicao
+package type_composicao
 
 type Op_Movimento_Melodico string
 
@@ -65,4 +65,3 @@ const (
 	AberturaAberta  = "AberturaAberta [ a, e, i ]"
 	AberturaFechada = "AberturaFechada [ o, u, m ]"
 )
-

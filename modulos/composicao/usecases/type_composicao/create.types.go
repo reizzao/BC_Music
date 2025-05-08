@@ -1,5 +1,4 @@
-package create_composicao
-
+package type_composicao
 
 type IComposicao struct {
 	FixoComposicao    FixoComposicao
@@ -17,8 +16,6 @@ type RequestComposicao struct {
 	Sentimento_Central_do_Tema string
 	Sentimento_Master          string
 }
-
-
 
 // type Composicao struct {
 // 	PerguntasObrigatorias IPerguntasObrigatorias
