@@ -14,7 +14,7 @@ Variaveis:
 
 3° Sentimento_Master: Amor. Saudade, Sofrimento,  Superação,
 
-4° Parte A, leve o ouvinte ao Sentimento_Master com Frase_de_Comando ,
+4° Parte A, Melodia: Lenta e pausada, VocalSom: FalandoManso, Missao: leve o ouvinte ao Sentimento_Master com Frase_de_Comando ,
 tuto: https://www.instagram.com/p/Cf95Dkzpm6q/?img_index=1&igsh=c3owdGZmMTdpZzdl
 
 
