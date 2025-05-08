@@ -6,7 +6,7 @@
 <\DETAILS>
 
 Variaveis: 
-- Frase_de_Comando : Sacada, Explicativa Curta e direta, Gera comando em frase que faz o ouvinte entender o porque do que você está sentindo no Sentimento_Master. Vc sabe do Tema mas o ouvinte Não então faça-o entender
+- Frase_de_Comando : Sacada, Explicativa Curta e direta, Gera comando em frase que faz o ouvinte entender o porque do que você está sentindo no Sentimento_Master. Vc sabe do Tema mas o ouvinte Não então faça-o entender, Obs: Não entregue o Outo final da historia (Isso só no refrao)
 
 1° Tema. (adjetivos de sentimento, exemplo: Saudade  - idiota.   Tuto: https://www.instagram.com/reel/CmxLKa0uBc2/?igsh=MTM0dnpsb2U5ZnFpYw==
 
