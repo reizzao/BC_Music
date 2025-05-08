@@ -1,4 +1,5 @@
-package use_composicao
+package create_composicao
+
 
 type IComposicao struct {
 	FixoComposicao    FixoComposicao
@@ -17,20 +18,7 @@ type RequestComposicao struct {
 	Sentimento_Master          string
 }
 
-// Function
-func CreateComposicao(f FixoComposicao, r RequestComposicao) IComposicao {
 
-	res := IComposicao{
-		FixoComposicao:    createFixoFNI(f),
-		RequestComposicao: r,
-	}
-	return res
-}
-
-// funcao interna
-func createFixoFNI(f FixoComposicao) FixoComposicao {
-	return f
-}
 
 // type Composicao struct {
 // 	PerguntasObrigatorias IPerguntasObrigatorias

@@ -1,9 +1,13 @@
 package mocks_composicao
 
 import (
-	u "github.com/musicalrzj/modulos/composicao/use_composicao"
+	t "github.com/musicalrzj/modulos/composicao/usecases/create_composicao"
 )
 
-var seedComposicao_01 = u.IComposicao{
-	FixoComposicao: ,
+var Seed_01_Composicao_Request = t.RequestComposicao {
+	Tema                       : "todo",
+	Sentimento_Central_do_Tema : "todo",
+	Sentimento_Master          : "todo",
 }
+
+//
