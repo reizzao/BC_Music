@@ -28,6 +28,7 @@ type Importantes_Voz struct {
 
 var Obv_VozComeco = VozProps{
 	Estimulo: `
+1 - Apoie a base contraindo 4 dedos abaixo do umbigo. tuto: https://www.instagram.com/reel/DI2IydnSmoz/?igsh=NDhucHBxM2JmNnBl
 
 1- Abaixa Laringe, Quase fale B, Cara de Surpreso, Suspira antes de cantar,
 2- Deixa queixo descer
