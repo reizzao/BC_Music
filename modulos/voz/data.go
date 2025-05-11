@@ -51,6 +51,8 @@ Tutoriais: "https://www.instagram.com/reel/DJKAFPgxNX3/?igsh=MWFzdHdrZDRiMnhhdA=
 
 4- Aspira pro Pulmão e Costelas
 
+5 - Usar_Apoio: 4 dedos embaixo do umbigo, vontade de mijar, tuto: https://www.instagram.com/reel/DJhxA3nsLZw/?igsh=MTR6aXd4cHdsbTVheg==
+
 
 `,
 
