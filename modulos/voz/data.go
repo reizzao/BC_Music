@@ -31,6 +31,11 @@ var Obv_VozComeco = VozProps{
 1 - Apoie a base contraindo 4 dedos abaixo do umbigo. tuto: https://www.instagram.com/reel/DI2IydnSmoz/?igsh=NDhucHBxM2JmNnBl
 
 1- Abaixa Laringe, Quase fale B, Cara de Surpreso, Suspira antes de cantar,
+
+- Projetar com o exercício vibração de labios Pruhuuh
+- 3 fases da frase 1 Medio direção baixa queixo, 2 agudo/flexível joga pro lado boca de I, 3 final pra frente librracao no ar ou falsete.
+tuto: https://www.instagram.com/reel/DIPbE78yVBQ/?igsh=MXI0eWt2NXVodjRleg==
+ 
 2- Deixa queixo descer
 3- Franzir Superior da Boca
 4- canta em Staccato_Arrastado gatilho:: Há Entendi!,
