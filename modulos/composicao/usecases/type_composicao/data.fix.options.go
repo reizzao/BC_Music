@@ -42,7 +42,7 @@ const (
 type Op_Missao_Cena string
 
 const (
-	A_Cena = "Ibtrofucao ao Tema, A_Apresenta_Fato e Responder a essa Apresentação"
+	A_Cena = "introducao ao Tema, A_Apresenta_Fato e Responder a essa Apresentação"
 )
 
 type Op_Gatilho_ParteFrase string
