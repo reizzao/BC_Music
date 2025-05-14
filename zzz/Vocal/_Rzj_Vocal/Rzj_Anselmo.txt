@@ -1,0 +1,5 @@
+
+Timbre_Vogal: 
+ nos_Graves: vogal U
+ nos_Agudos: vogal I
+
