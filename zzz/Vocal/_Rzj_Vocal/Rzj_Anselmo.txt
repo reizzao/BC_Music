@@ -3,3 +3,4 @@ Timbre_Vogal:
  nos_Graves: vogal U
  nos_Agudos: vogal I
 
+Apoio: Apoiar gradualmente nos finais ou nos Agudos.
