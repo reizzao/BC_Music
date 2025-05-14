@@ -48,7 +48,7 @@ const (
 type Op_Gatilho_ParteFrase string
 
 const (
-	GatilhoPergunta = "Fato, Movimento a fazer ou feito, O que esta Acontecendo Agora, Pergunta, Afirmacao,Eu to, eu vou, Atitude Minha reacao ao problema"
+	GatilhoPergunta = "Porque o Sentimento central é esse, Exemplo: Hj eu acordei com o pé direito, Fato, Movimento a fazer ou feito, O que esta Acontecendo Agora, Pergunta, Afirmacao,Eu to, eu vou, Atitude Minha reacao ao problema"
 	GatilhoResposta = "O que, Do que,"
 )
 
