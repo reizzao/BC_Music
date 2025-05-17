@@ -1,26 +1,37 @@
+Regras:
+SemDeizarDuvidas: não gere perguntas
+SemCaguete: sem girundio. indo, vindo, que acabam com indo
+SemViajem : não viaje com subjetivos.
+
+
+---
+
 Parte A
- Missao: Apresenta os resultado do SentimentoCentral, obs: sem entregar o outo, nem soluções.
+ Recado: Apresenta os resultado do SentimentoCentral, obs: sem entregar o outo, nem soluções.
+Frases: frases Curtas
+Metrica: Compassado lenta
+NotasSilabaticas: 3
 
  Gatilhos: [ O Porque esse é o sentimentoCentral? ,  ]
 
 ---
 
 Parte B
-Missao: Explica com mais detalhes o SentimentoCentral
+Recado: Explica com mais detalhes o SentimentoCentral
 
 Gatilhos: [ Lembranças, Reacoes, ]
 
 ---
 
 Refrao
-Missao: Independente, pra cantar com uma mão levantada, a solução o ouro
+Recado: Independente, pra cantar com uma mão levantada, a solução o ouro
 
 Gatilhos: [ a solucao o ouro é,  ]
 
 ---
 
 Opcional_Parte C
-  Missao:
+  Recado:
 
   Gatilhos: [ ,  ]
 
