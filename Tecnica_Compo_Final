@@ -3,6 +3,8 @@ SemDeixarDuvidas: não gere perguntas
 SemCaguete: sem girundio. indo, vindo, que acabam com indo
 SemViajem : não viaje com subjetivos.
 
+Tema: (TM) - gatilhos: Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?
+
 
 ---
 
@@ -13,7 +15,7 @@ Frases: frases Curtas
 Metrica: Compassado lenta
 NotasSilabaticas: 3
 
- Gatilhos: [ O Porque esse é o sentimentoCentral? ,  ]
+ Gatilhos: [ Porque isso aconteceu(SC)?, O Porque esse é o sentimentoCentral? ,  ]
 
 ---
 
@@ -22,14 +24,14 @@ Recado: Curiosidade, Expectativa,  gera um problema pra resolver no refrao, Expl
 
 Frases: frases maiores
 
-Gatilhos: [ Lembranças, Reacoes, ]
+Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, ]
 
 ---
 
 Refrao
 Recado: Universal e independente,Exagero do SentimentoCentral, SACADAS pra Resolver o $Tema, A Grande solução o ouro, 
 
-Gatilhos: [ pra cantar com uma mão levantada,  ]
+Gatilhos: [ Como isso vai acabar(TM), pra cantar com uma mão levantada,  ]
 
 ---
 
