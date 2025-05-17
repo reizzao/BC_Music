@@ -1,14 +1,13 @@
 Regras:
-SemDeizarDuvidas: não gere perguntas
+SemDeixarDuvidas: não gere perguntas
 SemCaguete: sem girundio. indo, vindo, que acabam com indo
 SemViajem : não viaje com subjetivos.
-Partes_Independentes: todas Parte tem que passar o seu recado e serem Independentes, sem deixar pra explicar na próxima.
 
 
 ---
 
 Parte A
- Recado: Apresenta os resultado do SentimentoCentral, obs: sem entregar o outo, nem soluções.
+ Recado: O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o outo, nem soluções.
 Frases: frases Curtas
 Metrica: Compassado lenta
 NotasSilabaticas: 3
@@ -18,16 +17,16 @@ NotasSilabaticas: 3
 ---
 
 Parte B
-Recado: Explica com mais detalhes o SentimentoCentral
+Recado: Explica com mais detalhes o SentimentoCentral, Gera Expectativa que será resolvida no refeao,
 
 Gatilhos: [ Lembranças, Reacoes, ]
 
 ---
 
 Refrao
-Recado: Independente, pra cantar com uma mão levantada, a solução o ouro
+Recado: Resolver o $Tema, A Grande solução o ouro, 
 
-Gatilhos: [ a solucao o ouro é,  ]
+Gatilhos: [ pra cantar com uma mão levantada,  ]
 
 ---
 
