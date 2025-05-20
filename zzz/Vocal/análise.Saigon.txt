@@ -1,5 +1,5 @@
 ---
-Varsóvia: 
+Vars: 
 A : Agudo, G: geave
 Linhas: cada linha 1 comasso
 
