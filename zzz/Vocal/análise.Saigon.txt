@@ -5,10 +5,14 @@ G             A
 Tantas palavras
 G             A
 Meias palavras
-G                                  A
-Nosso apartamento um pedaço de Saigon
-A                                 G
-Me disse adeus no espelho com batom
+A.             G 
+Nosso apartamento 
+G.               A
+um pedaço de Saigon
+A                      G
+Me disse adeus no espelho 
+G.     A
+com batom
 
 --- 
 # PARTE A2
