@@ -4,6 +4,9 @@
 
 # MOTIVADOR
 * Seja você e deixe que o mundo se adapte.
+* Só luz pra me conduzir
+
+
 
 ## A
 * vou nada
