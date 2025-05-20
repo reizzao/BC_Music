@@ -1,4 +1,9 @@
 ---
+Varsóvia: 
+A : Agudo, G: geave
+Linhas: cada linha 1 comasso
+
+---
 # PARTE A1
 
 G             A
