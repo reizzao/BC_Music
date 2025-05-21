@@ -7,9 +7,6 @@ Metricas: Andamentos[ Lento, Medio, Rapido/Balanceio] - Letras Curtas pea seguir
 
 Tema: (TM) - gatilhos: Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?
 
-# Em cada Sessao -  
-  linha_1 situacao , 
-  linha 2 explica, obs podem se repetir as linhas. ]
 
 Sinopse: 
    Emotional:  feliz || naoFeliz
@@ -24,84 +21,134 @@ Parte A
 Evitar: Nao entregar o Ouro
 
 Frases: frases Curtas
-Metrica: Compassado lenta
+Melodia: Saltos: Espaçado , Ritmo:lenta, Som: Grave
 NotasSilabaticas: 3
 
  Gatilhos: [ Porque isso aconteceu(SC)?, O Porque esse é o sentimentoCentral? ,  ]
 
-# linha_1 situacao ,
+Quant_Frases: 2
 
-# linha 2 explica
+# Frase : 1
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
 
-# linha_1 situacao ,
 
-# linha 2 explica
+# Frase : 2
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
 
 
 ---
 Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
 
 
-# linha_1 situacao ,
+Quant_Frases: 2
 
-# linha 2 explica
+# Frase : 1
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
 
-# linha_1 situacao ,
 
-# linha 2 explica
+# Frase : 2
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
 
 
 
 ---
 
 Parte B
-clima: balanceado
+Melodia: Saltos: Mediano , Ritmo: Medio , Som: Medio 
 Frases: frases maiore
 Recado: Curiosidade, Expectativa,  gera um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.
 O_Que_Houve_Pra_Tudo_Estar_Assim
 
 
-# linha_1 situacao ,
+Quant_Frases: 1
 
-# linha 2 explica
+# Frase : 1
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
+
 
 
 ---
 Parte B2
-clima: alterado
+Melodia: Saltos: longo , Ritmo: Rapido , Som: Agudo
 Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver 
 
 Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, ]
 
-# linha_1 situacao ,
+Quant_Frases: 1
 
-# linha 2 explica
+# Frase : 1
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
+
 
 ---
 
 Refrao
+
 Recado: Universal e independente,Exagero do SentimentoCentral, SACADAS pra Resolver o $Tema, A Grande solução o ouro, 
 
 Gatilhos: [ Como isso vai acabar(TM), pra cantar com uma mão levantada,  ]
 
+Quant_Frases: 2
 
-# linha 1 - pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
+# Frase : 1 >> 
+linha 1:: pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
+Melodia: Saltos: Longo , Ritmo: Cadenciado , Som: Agudo
+linha 2 - Pra que , fez o pedido para, Rima1
 
-# linha 2 - Pra que , fez o pedido para, Rima1 
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
 
-# linha 3 - Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2 
 
-# linha 4 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
+
+
+# Frase : 2
+Melodia: Saltos: Curto , Ritmo: Calmo , Som: Grave 
+
+- linha 1 - Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2 
+- linha 2 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
+
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
+
+
+
 
 
 
 ---
 
 Opcional_Parte C
-  Recado: Se obproblema a expectativa não for resolvida no refrao, resolva aqui
+  Recado: Se o problema a expectativa não for resolvida no refrao, resolva aqui, Pode ser um coro que repete vogais.
 
 Frases: frases curtas
 
   Gatilhos: [ ,  ]
 
----
+Quant_Frases: 2
+
+# Frase : 1 >> 
+
+Melodia: Saltos: Longo , Ritmo: Cadenciado , Som: Agudo
+
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
+
+
+
+
+# Frase : 2
+Melodia: Saltos: Curto , Ritmo: Calmo , Som: Grave 
+
+
+assunto : Verbo + Conector + Substantivo
+explicacao : Substantivo + Conector + Verbo
+
+
+
+--- FIM ---
