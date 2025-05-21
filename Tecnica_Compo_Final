@@ -1,3 +1,4 @@
+
 Regras:
 SemDeixarDuvidas: não gere perguntas
 SemCaguete: sem girundio. indo, vindo, que acabam com indo
@@ -6,13 +7,12 @@ Metricas: Andamentos[ Lento, Medio, Rapido/Balanceio] - Letras Curtas pea seguir
 
 Tema: (TM) - gatilhos: Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?
 
-Emotional:  feliz || naoFeliz
-
 # Em cada Sessao -  
   linha_1 situacao , 
   linha 2 explica, obs podem se repetir as linhas. ]
 
 Sinopse: 
+   Emotional:  feliz || naoFeliz
   Sacada da Musica: ???  
   Tema_O_Grande_Fato: ???
 
@@ -29,9 +29,28 @@ NotasSilabaticas: 3
 
  Gatilhos: [ Porque isso aconteceu(SC)?, O Porque esse é o sentimentoCentral? ,  ]
 
+# linha_1 situacao ,
+
+# linha 2 explica
+
+# linha_1 situacao ,
+
+# linha 2 explica
+
 
 ---
 Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
+
+
+# linha_1 situacao ,
+
+# linha 2 explica
+
+# linha_1 situacao ,
+
+# linha 2 explica
+
+
 
 ---
 
@@ -41,14 +60,22 @@ Frases: frases maiore
 Recado: Curiosidade, Expectativa,  gera um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.
 O_Que_Houve_Pra_Tudo_Estar_Assim
 
+
+# linha_1 situacao ,
+
+# linha 2 explica
+
+
 ---
 Parte B2
 clima: alterado
 Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver 
 
-
----
 Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, ]
+
+# linha_1 situacao ,
+
+# linha 2 explica
 
 ---
 
@@ -66,7 +93,7 @@ Gatilhos: [ Como isso vai acabar(TM), pra cantar com uma mão levantada,  ]
 
 # linha 4 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
 
- 
+
 
 ---
 
@@ -78,4 +105,3 @@ Frases: frases curtas
   Gatilhos: [ ,  ]
 
 ---
-
