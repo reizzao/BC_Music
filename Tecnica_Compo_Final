@@ -20,13 +20,25 @@ NotasSilabaticas: 3
 
  Gatilhos: [ Porque isso aconteceu(SC)?, O Porque esse é o sentimentoCentral? ,  ]
 
+
+---
+Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
+
 ---
 
 Parte B
+clima: balanceado
+Frases: frases maiore
 Recado: Curiosidade, Expectativa,  gera um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.
+O_Que_Houve_Pra_Tudo_Estar_Assim
 
-Frases: frases maiores
+---
+Parte B2
+clima: alterado
+Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver 
 
+
+---
 Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, ]
 
 ---
@@ -35,6 +47,17 @@ Refrao
 Recado: Universal e independente,Exagero do SentimentoCentral, SACADAS pra Resolver o $Tema, A Grande solução o ouro, 
 
 Gatilhos: [ Como isso vai acabar(TM), pra cantar com uma mão levantada,  ]
+
+
+# linha 1 - pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
+
+# linha 2 - Pra que , fez o pedido para, Rima1 
+
+# linha 3 - Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2 
+
+# linha 4 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
+
+ 
 
 ---
 
