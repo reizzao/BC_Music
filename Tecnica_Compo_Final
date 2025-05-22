@@ -29,15 +29,15 @@ Quant_Frases: 2
 
 # Frase : 1
 assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
+explicacao : [DoQue, Oque?]  Substantivo + Conector + Verbo
 
 
 gatilhos: [ Porque isso aconteceu(SC)?, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
 
 
 # Frase : 2
-assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
+assunto : [ QueMais, Continua ] Verbo + Conector + Substantivo
+explicacao : [conclui]  Substantivo + Conector + Verbo
 
 
 gatillhos: [
@@ -45,50 +45,48 @@ gatillhos: [
 ---
 Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
 
-Quant_Frases: 2
+Quant_Frases: 1
 
 # Frase : 1
-assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
+tamanhoFrases: longas
+assunto : [ explica melhor a outra parte é verdade] , Verbo + Conector + Substantivo
+explicacao : : [DoQue, Oque?] Substantivo + Conector + Verbo
 
-gatillhos: [
-
-
-# Frase : 2
-assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
-
-gatillhos: [
 
 ---
 
 Parte B
 Melodia: Ritmo: Corrido_Medio , Som: Medio 
 Frases: frases maiores
-Recado: O que vou fazer com isso
-O_Que_Houve_Pra_Tudo_Estar_Assim
+Recado_da_Cena: Gerar Curiodidade, expectativas , O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao
 
 
 Quant_Frases: 1
 
 # Frase : 1
-assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
 
-Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.]
+assunto : Verbo + Conector + Substantivo
+gatilhos_Frase: O que vou fazer com isso
+O_Que_Houve_Pra_Tudo_Estar_Assim
+Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena
+
+explicacao : [ OQue, DoQue?], Substantivo + Conector + Verbo,
+
+
 
 ---
 Parte B2
 Melodia: Ritmo: Corrifo_Rapido , Expessura_Som: Agudo
-Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver 
 
 Quant_Frases: 1
 
 # Frase : 1
 assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
+Gatilhos: [  Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver ]
 
-gatilhos : [
+explicacao : [ EAI ], Substantivo + Conector + Verbo
+
+
 
 
 ---
