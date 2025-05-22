@@ -6,6 +6,11 @@ SemViajem : não viaje com subjetivos.
 Metricas: Andamentos[ Lento, Medio, Rapido/Balanceio] - 
 Letras Curtas pra seguir as notas curtas da melodia facil de gravar.
 
+Use_Sete_Sentidos :
+1 Olfato, 2 Visao, 3 Audicao, 4 Toque, 5 Paladar,
+6 Movimento, 7 Corpo
+
+
 Tema: (TM) - gatilhos: Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?
 
 
@@ -14,40 +19,61 @@ Dados_Guia_Iniciais :
    Tema_OOuro_OGrandeFato: ?
    SentimentoCentral : ?
    Recado_da _Musica: ? 
+  Sacada_da_Inspiracao: ?
 
 ---
 
-Parte A
+### Parte A
  Recado: O grande Porque 
-
 Evitar: Nao entregar o Ouro
 
-Frases: frases Curtas
-Melodia:   Ritmo: pausada , Expessura_Som: Grave
 NotasSilabaticas: 3
 Quant_Frases: 2
 
 # Frase : 1
+
 assunto : Verbo + Conector + Substantivo
-explicacao : [DoQue, Oque?]  Substantivo + Conector + Verbo
-
-
+Melodia:   Ritmo: pausada , Expessura_Som: Grave
+Quant_Palavras: Curtas
+Sete_Sentidos_Usado: Movimento 
 gatilhos: [ Porque isso aconteceu(SC)?, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
+...
+explicacao :   Substantivo + Conector + Verbo
+Melodia:   Ritmo: pausada , Expessura_Som: Grave
+Quant_Palavras: Curtas
+Sete_Sentidos_Usado: Movimento
+Gatilhos: [DoQue, Oque?, Responde Anterior]
 
-
-# Frase : 2
-assunto : [ QueMais, Continua ] Verbo + Conector + Substantivo
-explicacao : [conclui]  Substantivo + Conector + Verbo
-
-
-gatillhos: [
 
 ---
-Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
+
+# Frase : 2
+Frases: frases Curtas
+Melodia:   Ritmo: pausada , Expessura_Som: Grave
+
+assunto :  Verbo + Conector + Substantivo
+Melodia:   Ritmo: pausada , Expessura_Som: Grave
+Quant_Palavras: Curtas
+Sete_Sentidos_Usado: Movimento
+gatillhos: [QueMais, Continua, Responde Anterior, Sacada Resposta, explicando, evidencias que a parte Anterior é verdade]
+...
+explicacao :  Substantivo + Conector + Verbo
+Melodia:   Ritmo: pausada , Expessura_Som: Grave, Detalhe: se for pra fechar o bloco pode mudar melodia.
+Quant_Palavras: Curtas
+Sete_Sentidos_Usado: Movimento
+Gatilhos: [EAI, conclui, sacada]
+
+
+---
+Parte A2_Opcional
+Missao: Só use senao resolver nao conseguir explicar que é verdade a parte A1, no bloco anterior., explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
 
 Quant_Frases: 1
 
 # Frase : 1
+Frases: longas 
+Melodia:   Ritmo: pausada , Expessura_Som: Medio
+
 tamanhoFrases: longas
 assunto : [ explica melhor a outra parte é verdade] , Verbo + Conector + Substantivo
 explicacao : : [DoQue, Oque?] Substantivo + Conector + Verbo
@@ -55,7 +81,7 @@ explicacao : : [DoQue, Oque?] Substantivo + Conector + Verbo
 
 ---
 
-Parte B
+### Parte B
 Melodia: Ritmo: Corrido_Medio , Som: Medio 
 Frases: frases maiores
 Recado_da_Cena: Gerar Curiodidade, expectativas , O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao
@@ -64,9 +90,12 @@ Recado_da_Cena: Gerar Curiodidade, expectativas , O que vou fazer com isso(SC)?,
 Quant_Frases: 1
 
 # Frase : 1
+Frases: frases Curtas
+Melodia:   Ritmo: balanceado , Expessura_Som: Medio
 
 assunto : Verbo + Conector + Substantivo
-gatilhos_Frase: O que vou fazer com isso
+
+gatilhos_Frase: O que vou fazer com isso, dica  da minha atitude pra chegar no alvo (zoando, sacada, trocadilho)
 O_Que_Houve_Pra_Tudo_Estar_Assim
 Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena
 
@@ -76,7 +105,7 @@ explicacao : [ OQue, DoQue?], Substantivo + Conector + Verbo,
 
 ---
 Parte B2
-Melodia: Ritmo: Corrifo_Rapido , Expessura_Som: Agudo
+Melodia: Ritmo: Corrifo_Rapido , Expessura_Som: Grave Medio
 
 Quant_Frases: 1
 
@@ -87,45 +116,58 @@ Gatilhos: [  Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver ]
 explicacao : [ EAI ], Substantivo + Conector + Verbo
 
 
-
-
 ---
 
-Refrao
+### Refrao
 
 Recado: Como isso vai acabar(TM),
 Quant_Frases: 2
 
+---
 # Frase : 1 >> 
-linha 1:: Pra cantar com 1 dedo pra cima, pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
-Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som: Agudo
-linha 2 - Pra que , fez o pedido para, Rima1
+
+Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som:  Agudos
+Quant_Palavras: Longa
+Sete_Sentidos_Usado: Visao (Desejo)
 
 assunto : Verbo + Conector + Substantivo
+
+Missao_Frase: Frase de chanada, pra cantar com um dedo extendido pra cima.
+
+Gatilhos: [O que de verdade sinto, Sacada_da_Inspiracao, Uma Ordem, Atitude, Ludico fala de algo querendo dizer outra coisa as vezes proibida (Trocadilho),  Universal e independente, Exagero do SentimentoCentral, Frases de efeito que podem ser cantadas em loop, SACADAS relacionadas ao Tema, Resolucao do $Tema, A Grande solução o Grande Ouro,  Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
+]
+...
+
 explicacao : Substantivo + Conector + Verbo
 
-Gatilhos: [ pra cantar com uma mão levantada,  Universal e independente, Exagero do SentimentoCentral, Frases de efeito que podem ser cantadas em loop, SACADAS relacionadas ao Tema, Resolucso do $Tema, A Grande solução o Grande Ouro, 
-]
+Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som:  Agudos
+Quant_Palavras: Contraste da Anterior
+Sete_Sentidos_Usado: Movimento
 
+gatilhos : [ Pra que , fez o pedido para, trocadilho sacada pra satisdazer anterior, ]
 
+---
 
 # Frase : 2
-Melodia: Ritmo: Calmo , Expessura_Som: Grave 
-
-- linha 1 - Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2 
-- linha 2 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
 
 assunto : Verbo + Conector + Substantivo
-explicacao : Substantivo + Conector + Verbo
+Melodia: Ritmo: pausado , Expessura_Som: 1 Medio e 1 Grave 
+Sete_Sentidos_Usado: Movimento
+Envolvencia: envolvendo sexual
+Gatilhos: [ Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2  ]
 
-Gatilhos: [ 
+explicacao : Substantivo + Conector + Verbo
+Melodia: Ritmo: pausado , Expessura_Som: 1 Medio e 1 Grave 
+Sete_Sentidos_Usado: Movimento
+Envolvencia: envolvendo sexual
+Gatilhos: [ Declara : Grande Desejo do tema, Ou o Tema, Rima2 ]
 
 
 
 
 ---
 
-Opcional_Parte C
+### Parte C_Opcional
   Recado:  Coro Climático de vogais ou  Resolucao chamativa e potente,  Só use se:: o problema a expectativa não for resolvida no refrao, então resolva aqui!
 
 Frases: frases curtas
