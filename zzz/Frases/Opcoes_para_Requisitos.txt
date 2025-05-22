@@ -1,0 +1,16 @@
+# Opcoes para Requisitos
+
+by_Sentimento_Tema: [
+  Canudinho,
+]
+
+by_SentimentoNatural: [
+  Amor,
+  Saudade,
+
+]
+
+by_Sentimento_Central: [
+  Alguém quér ficar com aquela pessoa,
+
+]
