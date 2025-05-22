@@ -3,6 +3,8 @@
     "@/": "./",
     "@deps": "./src/Global/deps.ts",
     "@global_types": "./src/Global/types/exports.ts",
-    "@example1": "./src/Domain/entities/Example1/exports.ts"
+    "@example1": "./src/Domain/entities/Example1/exports.ts",
+    "@composicao": "./src/Domain/entities/composicao/exports.ts",
+    "@guia_composicao": "./src/Domain/entities/guia_composicao/exports.ts"
   }
 }
