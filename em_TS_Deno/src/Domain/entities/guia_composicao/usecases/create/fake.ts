@@ -3,7 +3,7 @@ import { IRequestCreateGuiaComposicaoDTO } from "@guia_composicao";
 const fakeRequestCreateGuiaComposicaoDTO001: IRequestCreateGuiaComposicaoDTO = {
   Regras: {
     Tema: [
-      "Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?",
+      "Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?, Desejo ou Consumo da Geracao ex: https://www.instagram.com/p/DJ7gE38MwAV/?igsh=bTRjaG0xNGdqZmJ2 , ",
     ],
     Evitar: [
       "SemDeixarDuvidas: não gere perguntas",
