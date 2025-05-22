@@ -36,7 +36,7 @@ assunto : Verbo + Conector + Substantivo
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento 
-gatilhos: [ Porque isso aconteceu(SC)?,  Sintomas do SC, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
+gatilhosFrase: [ Porque isso aconteceu(SC)?,  Sintomas do SC, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
 ...
 explicacao :   Substantivo + Conector + Verbo
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
