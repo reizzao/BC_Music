@@ -3,29 +3,28 @@ Regras:
 SemDeixarDuvidas: não gere perguntas
 SemCaguete: sem girundio. indo, vindo, que acabam com indo
 SemViajem : não viaje com subjetivos.
-Metricas: Andamentos[ Lento, Medio, Rapido/Balanceio] - Letras Curtas pea seguir as notas curtas da melodia facil de gravar.
+Metricas: Andamentos[ Lento, Medio, Rapido/Balanceio] - 
+Letras Curtas pra seguir as notas curtas da melodia facil de gravar.
 
 Tema: (TM) - gatilhos: Porque isso aconteceu? O que vou fazer com isso? Como isso vai acabar?
 
 
-Sinopse: 
+Dados_Guia_Iniciais : 
    Emotional:  feliz || naoFeliz
-  Sacada da Musica: ???  
-  Tema_O_Grande_Fato: ???
+   Tema_OOuro_OGrandeFato: ?
+   SentimentoCentral : ?
+   Recado_da _Musica: ? 
 
 ---
 
 Parte A
- Recado: Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa ai SentimentoCentral,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o outo, nem soluções.
+ Recado: O grande Porque 
 
 Evitar: Nao entregar o Ouro
 
 Frases: frases Curtas
-Melodia: Saltos: Espaçado , Ritmo:lenta, Som: Grave
+Melodia:   Ritmo: pausada , Expessura_Som: Grave
 NotasSilabaticas: 3
-
- Gatilhos: [ Porque isso aconteceu(SC)?, O Porque esse é o sentimentoCentral? ,  ]
-
 Quant_Frases: 2
 
 # Frase : 1
@@ -33,34 +32,40 @@ assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
 
+gatilhos: [ Porque isso aconteceu(SC)?, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
+
+
 # Frase : 2
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
+
+gatillhos: [
 
 ---
 Parte A2 [ explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
 
-
 Quant_Frases: 2
 
 # Frase : 1
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
+gatillhos: [
+
 
 # Frase : 2
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
-
+gatillhos: [
 
 ---
 
 Parte B
-Melodia: Saltos: Mediano , Ritmo: Medio , Som: Medio 
-Frases: frases maiore
-Recado: Curiosidade, Expectativa,  gera um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.
+Melodia: Ritmo: Corrido_Medio , Som: Medio 
+Frases: frases maiores
+Recado: O que vou fazer com isso
 O_Que_Houve_Pra_Tudo_Estar_Assim
 
 
@@ -70,14 +75,12 @@ Quant_Frases: 1
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
-
+Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao, Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena.]
 
 ---
 Parte B2
-Melodia: Saltos: longo , Ritmo: Rapido , Som: Agudo
+Melodia: Ritmo: Corrifo_Rapido , Expessura_Som: Agudo
 Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver 
-
-Gatilhos: [ O que vou fazer com isso(SC)?,Lembranças, Reacoes, ]
 
 Quant_Frases: 1
 
@@ -85,30 +88,31 @@ Quant_Frases: 1
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
+gatilhos : [
+
 
 ---
 
 Refrao
 
-Recado: Universal e independente,Exagero do SentimentoCentral, SACADAS pra Resolver o $Tema, A Grande solução o ouro, 
-
-Gatilhos: [ Como isso vai acabar(TM), pra cantar com uma mão levantada,  ]
-
+Recado: Como isso vai acabar(TM),
 Quant_Frases: 2
 
 # Frase : 1 >> 
-linha 1:: pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
-Melodia: Saltos: Longo , Ritmo: Cadenciado , Som: Agudo
+linha 1:: Pra cantar com 1 dedo pra cima, pedinte, Pede Algo, A Solucao, O Resumao , Ou o Tema , Rima1 
+Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som: Agudo
 linha 2 - Pra que , fez o pedido para, Rima1
 
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
+Gatilhos: [ pra cantar com uma mão levantada,  Universal e independente, Exagero do SentimentoCentral, Frases de efeito que podem ser cantadas em loop, SACADAS relacionadas ao Tema, Resolucso do $Tema, A Grande solução o Grande Ouro, 
+]
 
 
 
 # Frase : 2
-Melodia: Saltos: Curto , Ritmo: Calmo , Som: Grave 
+Melodia: Ritmo: Calmo , Expessura_Som: Grave 
 
 - linha 1 - Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2 
 - linha 2 - Declara : Grande Desejo do tema, Ou o Tema, Rima2
@@ -116,7 +120,7 @@ Melodia: Saltos: Curto , Ritmo: Calmo , Som: Grave
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
-
+Gatilhos: [ 
 
 
 
@@ -124,30 +128,29 @@ explicacao : Substantivo + Conector + Verbo
 ---
 
 Opcional_Parte C
-  Recado: Se o problema a expectativa não for resolvida no refrao, resolva aqui, Pode ser um coro que repete vogais.
+  Recado:  Coro Climático de vogais ou  Resolucao chamativa e potente,  Só use se:: o problema a expectativa não for resolvida no refrao, então resolva aqui!
 
 Frases: frases curtas
-
-  Gatilhos: [ ,  ]
-
 Quant_Frases: 2
 
 # Frase : 1 >> 
 
-Melodia: Saltos: Longo , Ritmo: Cadenciado , Som: Agudo
+Melodia: Saltos: Longo , Ritmo: Cadenciado , Expessura_Som: Agudo
 
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
 
-
+Gatilhos: [ ,  ]
 
 
 # Frase : 2
-Melodia: Saltos: Curto , Ritmo: Calmo , Som: Grave 
+Melodia: Saltos: Curto , Ritmo: Calmo , Expessura_Som: Grave 
 
 
 assunto : Verbo + Conector + Substantivo
 explicacao : Substantivo + Conector + Verbo
+
+Gatilhos: [
 
 
 
