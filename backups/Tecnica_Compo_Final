@@ -24,7 +24,7 @@ Dados_Guia_Iniciais :
 ---
 
 ### Parte A
- Recado: O grande Porque 
+ MissaoDaCena: O grande Porque 
 Evitar: Nao entregar o Ouro
 
 NotasSilabaticas: 3
@@ -66,7 +66,7 @@ Gatilhos: [EAI, conclui, sacada]
 
 ---
 Parte A2_Opcional
-Missao: Só use senao resolver nao conseguir explicar que é verdade a parte A1, no bloco anterior., explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
+MissaoDaCena: Só use senão resolver nao conseguir explicar que é verdade a parte A1, no bloco anterior., explicando, evidencias que a parte Anterior é verdade O_Que_Eu_Quero_Sobre_Desabafo_do_Fato, OqueAconteceraAoResolver ]
 
 Quant_Frases: 1
 
@@ -84,7 +84,7 @@ explicacao : : [DoQue, Oque?] Substantivo + Conector + Verbo
 ### Parte B
 Melodia: Ritmo: Corrido_Medio , Som: Medio 
 Frases: frases maiores
-Recado_da_Cena: Gerar Curiodidade, expectativas , O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao
+MissaoDaCena: Gerar Curiodidade, expectativas , O que vou fazer com isso(SC)?,Lembranças, Reacoes, Gerar Curiosidade, Expectativa, um problema pra resolver no refrao
 
 
 Quant_Frases: 1
@@ -120,7 +120,7 @@ explicacao : [ EAI ], Substantivo + Conector + Verbo
 
 ### Refrao
 
-Recado: Como isso vai acabar(TM),
+MissaoDaCena: Como isso vai acabar(TM),
 Quant_Frases: 2
 
 ---
@@ -168,7 +168,7 @@ Gatilhos: [ Declara : Grande Desejo do tema, Ou o Tema, Rima2 ]
 ---
 
 ### Parte C_Opcional
-  Recado:  Coro Climático de vogais ou  Resolucao chamativa e potente,  Só use se:: o problema a expectativa não for resolvida no refrao, então resolva aqui!
+  MissaoDaCena:  Pode ser um Coral Climático de vogais ou  Resolucao chamativa e potente,  Só use se:: o problema a expectativa não for resolvida no refrao, então resolva aqui!
 
 Frases: frases curtas
 Quant_Frases: 2
