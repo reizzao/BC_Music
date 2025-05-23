@@ -33,13 +33,13 @@ deixe espaço entre os dentes, como se tivesse com o dedo no meio, articule os l
 Local_Timbre : sem força, comece tensionando a parede de fundo do Local_do_Timbre, e a silaba/vogal com acento Circunflexo ^ ,  e sobe gradual
 
 Registros
-  - Grave: acesso: Arruma_Bigode Gentil, local_Timbre : Campainha, Elevar_Palato: Duro oh de Cima, boca de vogal U, com cobertura de Ar
+  - Grave: acorde: Maior, acesso: Arruma_Bigode + Fala Ôh + Gentil, local_Timbre : Campainha, Elevar_Palato: Duro oh de Cima, boca de vogal U, com cobertura de Ar
 
-Transicao : abre bem a boca para usar Efeito de Transicao
+Transicao : acorde: Silencio, abre bem a boca para usar Efeito de Transicao
 Efeitos_de_Transicao : portatto, dry,
 conceito: use os enfeites pra chegar nas notas ao invez de ir reto , tutorial: https://youtu.be/hAgs1_UI8OE?si=CCecJk7-UsMqJ_pN
 
-  - Agudo: acesso: Como se fosse espirrar, Local_Timbre: Naso faringe ,Elevar_Palato: Mole oh de vaixo oerto guela, com menos Ar,
+  - Agudo: acorde: NaoMaior, acesso: Como se fosse espirrar, Local_Timbre: Naso faringe ,Elevar_Palato: Mole oh de vaixo oerto guela, com menos Ar,
 
 
 ### Emitir 
