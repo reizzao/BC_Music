@@ -20,13 +20,13 @@ Quant_Frases: 2
 
 # Frase : 1
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
 gatilhosFrase: [ Porque isso aconteceu(SC)?,  Sintomas do SC, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Meu Recado pra vc é que, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
 ...
-explicacao :   Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
+explicacao_FimAberto :   Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
@@ -39,13 +39,13 @@ Gatilhos: [DoQue, Oque?, Responde Anterior]
 Frases: frases Curtas
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 
-assunto :  Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado :  Verbo + Conector + Substantivo_OpSalto3
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
 gatillhos: [QueMais, Continua, Responde Anterior, Sacada Resposta, explicando, evidencias que a parte Anterior é verdade]
 ...
-explicacao :  Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
+explicacao_FimAberto :  Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia:   Ritmo: pausada , Expessura_Som: Grave, Detalhe: se for pra fechar o bloco pode mudar melodia.
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
@@ -63,8 +63,9 @@ Frases: longas
 Melodia:   Ritmo: pausada , Expessura_Som: Medio
 
 tamanhoFrases: longas
-assunto : [ explica melhor a outra parte é verdade] , Verbo + Conector + Substantivo_OpSalto3
-explicacao : : [DoQue, Oque?] Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
+assunto_FimFechado : [ explica melhor a outra parte é verdade] , Verbo + Conector + Substantivo_OpSalto3
+
+explicacao_FimAberto : : [DoQue, Oque?] Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 
 
 ---
@@ -81,13 +82,13 @@ Quant_Frases: 1
 Frases: frases Curtas
 Melodia:   Ritmo: balanceado , Expessura_Som: Medio
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
 
 gatilhos_Frase: O que vou fazer com isso, dica  da minha atitude pra chegar no alvo (zoando, sacada, trocadilho)
 O_Que_Houve_Pra_Tudo_Estar_Assim
 Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena
 
-explicacao : [ OQue, DoQue?], Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5,
+explicacao_FimAberto : [ OQue, DoQue?], Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5,
 
 
 
@@ -98,10 +99,10 @@ Melodia: Ritmo: Corrifo_Rapido , Expessura_Som: Grave Medio
 Quant_Frases: 1
 
 # Frase : 1
-assunto : Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
 Gatilhos: [  Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver ]
 
-explicacao : [ EAI ], Substantivo_OpSalto5 + Conector + Verbo_OpSalto5
+explicacao_FimAberto : [ EAI ], Substantivo_OpSalto5 + Conector + Verbo_OpSalto5
 
 
 ---
@@ -118,7 +119,7 @@ Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som:  Agudos
 Quant_Palavras: Longa
 Sete_Sentidos_Usado: Visao (Desejo)
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
 
 Missao_Frase: Frase de chanada, pra cantar com um dedo extendido pra cima.
 
@@ -126,7 +127,7 @@ Gatilhos: [O que de verdade sinto, Sacada_da_Inspiracao, Uma Ordem, Atitude, Lud
 ]
 ...
 
-explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
+explicacao_FimAberto : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 
 Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som:  Agudos
 Quant_Palavras: Contraste da Anterior
@@ -138,13 +139,13 @@ gatilhos : [ Pra que , fez o pedido para, trocadilho sacada pra satisdazer anter
 
 # Frase : 2
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
 Melodia: Ritmo: pausado , Expessura_Som: 1 Medio e 1 Grave
 Sete_Sentidos_Usado: Movimento
 Envolvencia: envolvendo sexual
 Gatilhos: [ Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2  ]
 
-explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
+explicacao_FimAberto : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia: Ritmo: pausado , Expessura_Som: 1 Medio e 1 Grave
 Sete_Sentidos_Usado: Movimento
 Envolvencia: envolvendo sexual
@@ -165,8 +166,9 @@ Quant_Frases: 2
 
 Melodia: Saltos: Longo , Ritmo: Cadenciado , Expessura_Som: Agudo
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
-explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
+
+explicacao_FimAberto : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
 
 Gatilhos: [ ,  ]
 
@@ -175,8 +177,9 @@ Gatilhos: [ ,  ]
 Melodia: Saltos: Curto , Ritmo: Calmo , Expessura_Som: Grave
 
 
-assunto : Verbo + Conector + Substantivo_OpSalto3
-explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
+assunto_FimFechado : Verbo + Conector + Substantivo_OpSalto3
+
+explicacao_FimAberto : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
 
 Gatilhos: [
 
