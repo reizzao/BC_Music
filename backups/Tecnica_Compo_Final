@@ -26,7 +26,7 @@ Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
 gatilhosFrase: [ Porque isso aconteceu(SC)?,  Sintomas do SC, O Porque que é esse o sentimentoCentral? , Como estou por causa do SentimentoCentral, Meu Recado pra vc é que, Frases de comando que levam a pessoa até o SentimentoCentral que queremos passar,  O grande problema,Apresenta os resultado do SentimentoCentral, obs: sem entregar o ouro, nem soluções, ]
 ...
-explicacao :   Substantivo + Conector_Entonacao + Verbo_OpSalto5
+explicacao :   Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia:   Ritmo: pausada , Expessura_Som: Grave
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
@@ -45,7 +45,7 @@ Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
 gatillhos: [QueMais, Continua, Responde Anterior, Sacada Resposta, explicando, evidencias que a parte Anterior é verdade]
 ...
-explicacao :  Substantivo + Conector_Entonacao + Verbo_OpSalto5
+explicacao :  Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia:   Ritmo: pausada , Expessura_Som: Grave, Detalhe: se for pra fechar o bloco pode mudar melodia.
 Quant_Palavras: Curtas
 Sete_Sentidos_Usado: Movimento
@@ -64,7 +64,7 @@ Melodia:   Ritmo: pausada , Expessura_Som: Medio
 
 tamanhoFrases: longas
 assunto : [ explica melhor a outra parte é verdade] , Verbo + Conector + Substantivo_OpSalto3
-explicacao : : [DoQue, Oque?] Substantivo + Conector + Verbo_OpSalto5
+explicacao : : [DoQue, Oque?] Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 
 
 ---
@@ -87,7 +87,7 @@ gatilhos_Frase: O que vou fazer com isso, dica  da minha atitude pra chegar no a
 O_Que_Houve_Pra_Tudo_Estar_Assim
 Explica com mais detalhes o SentimentoCentral para o ouvinte imaginar a Cena
 
-explicacao : [ OQue, DoQue?], Substantivo + Conector_Entonacao + Verbo_OpSalto5,
+explicacao : [ OQue, DoQue?], Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5,
 
 
 
@@ -101,7 +101,7 @@ Quant_Frases: 1
 assunto : Verbo + Conector + Substantivo_OpSalto3
 Gatilhos: [  Acao_Pra_Melhorar_O_Cenario , Acao_Insistindo pra Resolver ]
 
-explicacao : [ EAI ], Substantivo + Conector + Verbo_OpSalto5
+explicacao : [ EAI ], Substantivo_OpSalto5 + Conector + Verbo_OpSalto5
 
 
 ---
@@ -126,7 +126,7 @@ Gatilhos: [O que de verdade sinto, Sacada_da_Inspiracao, Uma Ordem, Atitude, Lud
 ]
 ...
 
-explicacao : Substantivo + Conector_Entonacao + Verbo_OpSalto5
+explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 
 Melodia: Ritmo: Espaçado Arrastado Esticado , Expessura_Som:  Agudos
 Quant_Palavras: Contraste da Anterior
@@ -144,7 +144,7 @@ Sete_Sentidos_Usado: Movimento
 Envolvencia: envolvendo sexual
 Gatilhos: [ Acalma_Balanca , O que vai acontecer se o pedido for realizado, Rima2  ]
 
-explicacao : Substantivo + Conector_Entonacao + Verbo_OpSalto5
+explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo_OpSalto5
 Melodia: Ritmo: pausado , Expessura_Som: 1 Medio e 1 Grave
 Sete_Sentidos_Usado: Movimento
 Envolvencia: envolvendo sexual
@@ -166,7 +166,7 @@ Quant_Frases: 2
 Melodia: Saltos: Longo , Ritmo: Cadenciado , Expessura_Som: Agudo
 
 assunto : Verbo + Conector + Substantivo_OpSalto3
-explicacao : Substantivo + Conector_Entonacao + Verbo
+explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
 
 Gatilhos: [ ,  ]
 
@@ -176,7 +176,7 @@ Melodia: Saltos: Curto , Ritmo: Calmo , Expessura_Som: Grave
 
 
 assunto : Verbo + Conector + Substantivo_OpSalto3
-explicacao : Substantivo + Conector_Entonacao + Verbo
+explicacao : Substantivo_OpSalto5 + Conector_Entonacao + Verbo
 
 Gatilhos: [
 
