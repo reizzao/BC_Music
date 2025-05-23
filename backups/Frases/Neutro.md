@@ -16,6 +16,8 @@
 * Primeiro começa depois melhora
 * Dorme com essa
 * Tal coisa é tudo igual, tu tem tal coisa dessa?
+* De quem é a culpa
+* NÃO sufoque o ...
 
 
 ## E
