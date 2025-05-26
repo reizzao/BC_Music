@@ -30,18 +30,28 @@ beneficio: apoia, postura, controla saída de ar
 - Referencia : tenha como alvo um microfone invisível, com o alvo na altura dos labios superiores.
 
 ### 
-Estratégias: 
- - Peito_Cabeca_Peito: articule nessa sequencia: Peito+Cabeca+Peito
-Titoriais: [https://www.instagram.com/p/DJ9NS_bgCt_/?igsh=c2JyOGM4a2Y3aGo2]
 
- - Bigode :
+Fonacao
 
-- Ajeitar_Bigode : Boca de Galanteador (Ex: Endr...) superior  labio tensiona leve ra baixo,(Depois de aspirar)
+Inicio_Ataque_Fonacao: 
+  Estimulo: com staccato leve
+  Conceito: a nota já sai afinada.
+  Local_Timbre: Oral, AjeitaBigode
+  Modifica_Sikaba: com acento Circunflexo ^,
+    Exemplo: Â,
+  
+
+Final_Fonacao :
+ Estimulo: via nasal,
+ Conceito:  a nota tem que abaixar sumir o som gradualmente no final.
+  Local_Timbre: Mostra Dente
+  Modifica_Silaba: o final insere N
+    Exemplo: ÃN
 
 
-Local_Timbre : sem força, comece tensionando a parede de fundo do Local_do_Timbre, e a silaba/vogal com acento Circunflexo ^ ,  e sobe gradual
 
-Emitindo_Notas: alternar em notas [1Fechada, 1 Aberta] (Abafa, solta). Importante: Começa sempre na Nota_Fechada com ^ Circunflexo #ouro.
+
+
 
 Interpretacao: conforme a música passar na voz o tom que traga o sentimento Feliz ou Triste
 
@@ -50,17 +60,10 @@ deixe espaço entre os dentes, como se tivesse com o dedo no meio, articule os l
 
 
 
-### Registros
-- NaoDesfazer_o_Timbre: seja no grave ou agudo não desfazer o  Local_Timbre
-
-  - Grave: acorde: Maior, acesso: Arruma_Bigode + Fala Ôh + Gentil, local_Timbre : Campainha, Elevar_Palato: Duro oh de Cima, boca de vogal U, com cobertura de Ar
-local_padrao: Inicios: ataque sempre no Medio dps busque o alvo.
-
-Finais: acesso: abre lados boca de Curinga
-
-Transicao : acorde: Silencio, abre bem a boca para usar Efeito de Transicao
 Efeitos_de_Transicao : [ portatto, dry,yodel ]
 conceito: use os enfeites pra chegar nas notas ao invez de ir reto , tutorial: https://youtu.be/hAgs1_UI8OE?si=CCecJk7-UsMqJ_pN
+
+- Grave: acorde: Maior, acesso: Ajrira Bigode 
 
   - Agudo: acorde: NaoMaior, acesso: Como se fosse espirrar, Local_Timbre: Naso faringe ,Elevar_Palato: Mole oh de vaixo oerto guela, com menos Ar,
 local_padrao: finais, partes elevadas da musica
