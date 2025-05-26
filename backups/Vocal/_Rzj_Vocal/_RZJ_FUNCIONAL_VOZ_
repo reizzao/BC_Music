@@ -16,6 +16,8 @@ Timbres_Naturais : [  Gravao_Gogó, Campainha_Medio, Agudo_Nasal  ]
 - Postura : peito do Superman Sempre pra Cima,
 
 - Aspirar: Forçar os 2 ossos do fim foi pescoço e Sugar Espaguete com Nariz e Boca.
+A aspiracao será  maior e mais saudavel pelo NARIZ, porque ao acabar Nadal já engata a proxima puxada de ar.
+
 
 - Apoio: 
    manter Costelas abertas e soltar ar barriga para os lados, nao deixa peito fechar
@@ -36,7 +38,7 @@ Fonacao
 Inicio_Ataque_Fonacao: 
   Estimulo: com staccato leve
   Conceito: a nota já sai afinada.
-  Local_Timbre: Oral, AjeitaBigode
+  Local_Timbre: Oral, AjeitaBighode
   Modifica_Sikaba: com acento Circunflexo ^,
     Exemplo: Â,
   
