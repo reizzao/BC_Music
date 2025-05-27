@@ -9,10 +9,10 @@ Postura:
 ---
 
 Emissao: 
-ControleAr: expulse o ar devagar, co se fosse vomitar palavras com ar.
+ControleAr: expulse o ar devagar, como se fosse vomitar palavras com ar.
 
 
-- Palatos: começa no PalatoDuroGrave ( notasBaixoDaEscala) ao PalatoMoleAgudo (notasAltasDaEscala) e fica neste vai e vem
+- Palatos: começa ascendente do PalatoDuroMole_Medio ( notasBaixoDaEscala) - no PalatoCentral marca o Pico do Agudo - descente desce pro PalatoDuro_Grave  (notasAltasDaEscala) e fica neste vai e vem.
 
 - Ressonancia: Desça somente o Queixo e abra um pouco mais a boca, conforme SobeEscala
 - Adicione desde o início nas notas graves a agudas tbm o N_nasal_Estridente que é o HarmonicoAgudo com Brilho
