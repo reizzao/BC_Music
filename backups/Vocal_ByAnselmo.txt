@@ -20,7 +20,7 @@ Emissao:
 
 ## Durante_Emissao :
 
-Ressonancia: do início só fim usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal
+Ressonancia: do início só fim ( do Grave ao Agudo )usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal_SomDeLigacaoTÃN
 
 Controle_Ar: expulse o ar devagar, como se fosse vomitar palavras com ar.
 
