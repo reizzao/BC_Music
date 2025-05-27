@@ -62,7 +62,7 @@ que o coro come
 * Chuvinha fim de tarde só dá vontade ...
 
 ## 0
-*
+* Trocaria de calçada, se cruzasse com esse ex-amor
 *
 
 ## U
