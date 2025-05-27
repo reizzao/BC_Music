@@ -9,10 +9,16 @@ Postura:
 
 Emissao: 
 
-Emissao_Padrao : 
-  Inicio: Palato: PalatoMole , Som: Medio_Macio
-  Transicao: Palato: PalatoCentral, Som: Alavancar
-  Finais: Palato: PalatoDuro, Som: Grave
+## Emissao_Padrao : 
+  Inicio: Palato: PalatoMole , Som: Medio_Macio, Escalar: ascendente,,
+
+  Transicao: Palato: PalatoCentral, Som: Alavancar, Escalar: Mantém,
+
+  Finais: Palato: PalatoDuro, Som: Grave, Escalar: descendente,
+
+---
+
+## Durante_Emissao :
 
 Ressonancia: do início só fim usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal
 
@@ -27,6 +33,9 @@ Consoantes: sobe da um gancho sobe a lingua pra impulsionar
 
 
 ---
+
+## Treinos
+
 Automatizar : tornar normal
 - Falar com Harmonicos agudos , Formato Fala Vogal_Master_UN, inserir N nas vogais , boca de U,
 
