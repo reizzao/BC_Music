@@ -20,12 +20,26 @@ ControleAr: expulse o ar devagar, co se fosse vomitar palavras com ar.
 - a lingua nas vogais sempre relaxada atraz da gengiva inferior
 - só suba e toque a lingua no céu nas consoantes para impulsionar as vogais.
 
-Resumo: Vai e vêm do GravePalatoDuro aí AgudoPalatoMole com HarmonicoAgudo que é o N_Nasal entre as Vogais abafadas com acento Circunflexo do começo ao fim.. 
+Resumo: FormatoEmissao: Vogal_Master_UN, Vai e vêm do GravePalatoDuro aí AgudoPalatoMole com HarmonicoAgudo que é o N_Nasal entre as Vogais abafadas com acento Circunflexo do começo ao fim.. 
 
 
 
 ---
+Automatizar : tornar normal
+- Falar com Harmonicos agudos , Formato Fala Vogal_Master_UN, inserir N nas vogais , boca de U,
 
+---
+
+Treinos_Diarios : 
+1- Soltar Ar SemSom com todas as Vogais Normais e Abafadas
+
+2 - Soltar Ar com Som nas Vogais Abafadas 
+
+3 - Vocalize MÎN ÎN - vai e vem Pakatos do Grave ao Agudo, Grave, ascendente e descedente.
+
+
+
+---
 
 Links 
 
