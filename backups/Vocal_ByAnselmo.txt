@@ -16,6 +16,13 @@ Emissao:
 
   Finais: Palato: PalatoDuro, Som: Grave, Escalar: descendente,
 
+Importantes: [
+- Todos Palatos tem que se levantar na hora qye for usado.,
+
+- 
+
+]
+
 ---
 
 ## Durante_Emissao :
