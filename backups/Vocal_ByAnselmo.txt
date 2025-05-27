@@ -5,22 +5,24 @@ Postura:
 - Aspirar : fundo pelo nariz , com boca aberta, sempre no fim das frases.
 
 
-
 ---
 
 Emissao: 
-ControleAr: expulse o ar devagar, como se fosse vomitar palavras com ar.
+
+Emissao_Padrao : 
+  Inicio: Palato: PalatoMole , Som: Medio_Macio
+  Transicao: Palato: PalatoCentral, Som: Alavancar
+  Finais: Palato: PalatoDuro, Som: Grave
+
+Ressonancia: do início só fim usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal
+
+Controle_Ar: expulse o ar devagar, como se fosse vomitar palavras com ar.
 
 
-- Palatos: começa ascendente do PalatoDuroMole_Medio ( notasBaixoDaEscala) - no PalatoCentral marca o Pico do Agudo - descente desce pro PalatoDuro_Grave  (notasAltasDaEscala) e fica neste vai e vem.
+ Vogais: Abafar com acento Circunflexo, Lingua: atraz da gengiva inferior.
 
-- Ressonancia: Desça somente o Queixo e abra um pouco mais a boca, conforme SobeEscala
-- Adicione desde o início nas notas graves a agudas tbm o N_nasal_Estridente que é o HarmonicoAgudo com Brilho
-- adicione o abafador de vogais que é o acento Circunflexo nas vogais
-- a lingua nas vogais sempre relaxada atraz da gengiva inferior
-- só suba e toque a lingua no céu nas consoantes para impulsionar as vogais.
+Consoantes: sobe da um gancho sobe a lingua pra impulsionar 
 
-Resumo: FormatoEmissao: Vogal_Master_UN, Vai e vêm do GravePalatoDuro aí AgudoPalatoMole com HarmonicoAgudo que é o N_Nasal entre as Vogais abafadas com acento Circunflexo do começo ao fim.. 
 
 
 
