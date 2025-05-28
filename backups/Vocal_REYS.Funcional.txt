@@ -63,7 +63,8 @@ Emissao_Por_Frase:
 
 
 Opcoes_Enfeites_Finais : [
-Hurr do Tchelo,
+Hurr Minerez do Tchelo,
+ÉLL fim com L tipo Muado do Tchelo ..O que é gamacaoLLL,
 Eh,eh repetir última vogal do Belo,
 
 ]
