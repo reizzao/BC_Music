@@ -10,11 +10,13 @@ Postura:
 Emissao: 
 
 ## Emissao_Padrao : 
-  Inicio: Palato: PalatoMole , Som: Medio_Macio, Escalar: ascendente,,
+  Inicio: Palato: PalatoMole , Som: Medio_Macio, Escalar: ascendente,, Timbrar: queixo pra baixo pra não oerser timbre marcante.
 
-  Transicao: Palato: PalatoCentral, Som: Alavancar, Escalar: Mantém,
+  Transicao: Palato: PalatoCentral, Som: Alavancar, Escalar: Mantém,Timbrar: queixo pra baixo pra não oerser timbre marcante.
 
-  Finais: Palato: PalatoDuro, Som: Grave, Escalar: descendente,
+
+  Finais: Palato: PalatoDuro, Som: Grave, Escalar: descendente, Timbrar: queixo pra baixo pra não oerser timbre marcante.
+
 
 Importantes: [
 - Todos Palatos tem que se levantar na hora qye for usado.,
