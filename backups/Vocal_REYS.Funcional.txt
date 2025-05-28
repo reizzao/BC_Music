@@ -15,7 +15,7 @@ Emissao_Por_Frase:
 ## Fases_Padrao :
 
   Inicio:
-    Ataque: acima da uvula, como fosse bocejar, esse palato mole tem que erguer.,
+    Ataque: acima da uvula, como fosse bocejar, esse palato mole tem que já estar erguido ergua-o na aspiração.,
     PalatoElevado: PalatoMole,
     Som: Medio_Macio,
     Escalar: ascendente,
@@ -23,7 +23,11 @@ Emissao_Por_Frase:
       BocaDentro: abre menos,
       BocaAbertura: 1° estagio abre pouco 2 dedos maximo.,
       Queixo: pra baixo pra não oerser timbre     marcante.,
-Apoio: conforme sobe aumenta o ApoioAbdominal   Cabe_Enfeites: [ , ],
+    Apoio: conforme sobe aumenta o ApoioAbdominal
+    Cabe_Enfeites: [ , ],
+    Exercicios: [
+      Nome: Aquecimento10Segundos, By: Anselmo, Link: ( ),
+    ]
 
 
   Transicao:
@@ -37,6 +41,9 @@ Apoio: conforme sobe aumenta o ApoioAbdominal   Cabe_Enfeites: [ , ],
       Queixo: pra baixo pra não oerser timbre marcante.
     Apoio: conforme sobe aumenta o ApoioAbdominal
     Cabe_Enfeites: [ , ],
+    Exercicios: [
+      Nome: , By: , Link: ( ),
+    ]
 
 
   Finais:
@@ -50,6 +57,9 @@ Apoio: conforme sobe aumenta o ApoioAbdominal   Cabe_Enfeites: [ , ],
       Queixo: pra baixo pra não perder timbre marcante.
     Apoio: solta gradualmente o apoio.
     Cabe_Enfeites: [ , ],
+    Exercicios: [
+      Nome: , By: , Link: ( ),
+    ]
 
 Recursos : [
   Ajuda_Ataques: para ajudar impulsionar balance a cabeça(cima a baixo) a cada ataque.,
@@ -99,8 +109,10 @@ Resumo: a emissão se resume em 3 ataques staccatinho nos :: [ PalatoMole, Palat
 
 ExercicioParaEsseObjetivo:
    Vocalizes:
-- UN-UN . IN-IN-AN . AN-AN ( Aspiea Certo no som de sinos )
+- UN-UN . IN-IN-AN . AN-AN
 - KA RO MÍN HÔ BÊN
+
+Aofim_dos_Vocalizes: Aspira Certo nos intervalors finais de som de sinos.
 
 ---
 
