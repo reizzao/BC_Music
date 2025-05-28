@@ -1,9 +1,0 @@
-# Sensacoes
-
-Sentir :
-  Clima: Animado  ,
-  Posicionamento: o superior do peito faça de ajustador pedestal.
-
-  Sensacao_para_Emitir : fala MÂ,MÎ, MÔ ,espaço fundoTrato
-
-  Flow: primeira nota forte,
