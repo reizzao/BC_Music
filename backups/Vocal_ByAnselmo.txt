@@ -19,7 +19,8 @@ Emissao:
     Som: Medio_Macio, 
     Escalar: ascendente, 
     Timbrar: 
-      Boca: abre menos, 
+      BocaDentro: abre menos,
+      BocaAbertura: 1° estagio abre pouco 2 dedos maximo., 
       Queixo: pra baixo pra não oerser timbre marcante.,
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
@@ -28,7 +29,8 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
     Som: Impulso de Alavancar, 
     Escalar: Mantém,
     Timbrar: 
-      Boca: começa a mostrar os Dentes, 
+      BocaDentro: começa a mostrar os Dentes, 
+      BocaAbertura: prepara pra abrir mais 2° estagio.,
       Queixo: pra baixo pra não oerser timbre marcante.
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
@@ -38,11 +40,12 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
     Som: Grave, 
     Escalar: descendente, 
     Timbrar: 
-      Boca: abre pouco mais, mostra os dentes, solta pro ar harmonizar desfarelar.,
+      Boca: mostra os dentes, solta pro ar harmonizar desfarelar.,
+      BocaAbertura: 2° estágio abre mais.,
       Queixo: pra baixo pra não perder timbre marcante.
 Apoio: solta gradualmente o apoio.
 
-ExercicioObjetivo: 
+ExercicioParaEsseObjetivo: 
    Vocalizes: 
 - UN-UN . IN-IN-AN . AN-AN ( Aspiea Certo no som de sinos )
 - KA RO MÍN HÔ BÊN
