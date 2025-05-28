@@ -10,13 +10,30 @@ Postura:
 Emissao: 
 
 ## Emissao_Padrao : 
-  Inicio: Palato: PalatoMole , Som: Medio_Macio, Escalar: ascendente,, Timbrar: queixo pra baixo pra não oerser timbre marcante.
 
-  Transicao: Palato: PalatoCentral, Som: Alavancar, Escalar: Mantém,Timbrar: queixo pra baixo pra não oerser timbre marcante.
+  Inicio: 
+    Palato: PalatoMole , 
+    Som: Medio_Macio, 
+    Escalar: ascendente, 
+    Timbrar: queixo pra baixo pra não oerser timbre marcante., 
+Apoio: conforme sobe aumenta o ApoioAbdominal
+
+  Transicao: 
+    Palato: PalatoCentral, 
+    Som: Alavancar, 
+    Escalar: Mantém,
+    Timbrar: queixo pra baixo pra não oerser timbre marcante.
+Apoio: conforme sobe aumenta o ApoioAbdominal
 
 
-  Finais: Palato: PalatoDuro, Som: Grave, Escalar: descendente, Timbrar: queixo pra baixo pra não oerser timbre marcante.
+  Finais: 
+    Palato: PalatoDuro, 
+    Som: Grave, 
+    Escalar: descendente, 
+    Timbrar: queixo pra baixo pra não oerser timbre marcante.
+Apoio: solta gradualmente o apoio.
 
+---
 
 Importantes: [
 - Todos Palatos tem que se levantar na hora qye for usado.,
