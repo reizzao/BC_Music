@@ -24,7 +24,7 @@ Emissao_Por_Frase:
       BocaAbertura: 1° estagio abre pouco 2 dedos maximo.,
       Queixo: pra baixo pra não oerser timbre     marcante.,
     Apoio: conforme sobe aumenta o ApoioAbdominal
-    Cabe_Enfeites: [ Fry, portamento,  ],
+    Cabe_Enfeites: [ Whysper_sussurrado, Fry, Portamento,  ],
     Exercicio_Especifico: [
       Nome: Aquecimento10Segundos, By: Anselmo, Link: ( ),
     ]
@@ -56,7 +56,7 @@ Emissao_Por_Frase:
       BocaAbertura: 2° estágio abre mais.,
       Queixo: pra baixo pra não perder timbre marcante.
     Apoio: solta gradualmente o apoio.
-    Cabe_Enfeites: [ hysper_sussurrado, melisma, ],
+    Cabe_Enfeites: [ Whysper_sussurrado, melisma, ],
     Exercicio_Especifico: [
       Nome: , By: , Link: ( ),
     ]
