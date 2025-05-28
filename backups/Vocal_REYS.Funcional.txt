@@ -54,6 +54,45 @@ Apoio: conforme sobe aumenta o ApoioAbdominal   Cabe_Enfeites: [ , ],
 Recursos : [
   Ajuda_Ataques: para ajudar impulsionar balance a cabeça(cima a baixo) a cada ataque.,
 
+  Ressonancia: é o Som de N_Nasal_SomDeLigacaoTÃN, use do início ao fim ( do Grave ao Agudo )usar ( HarmonicosAgudos Suave ou Estridente)
+
+  Controle_Ar: expulse o ar devagar, como se fosse vomitar palavras com ar.
+
+  Vogais: Abafar com acento Circunflexo, Lingua: atraz da gengiva inferior.
+
+  Consoantes: sobe da um gancho sobe a lingua pra impulsionar
+
+  PalatoEmUso: Todos Palatos tem que estar levantado para o seu uso.,
+
+  Aberturas_Boca: {
+    NasRegioes_Graves: abre menos a boca
+    NasRegioes_Agudas: abre um pouco mais a boca
+  }
+
+  Acessos: {
+
+    ParaFazer_Grave: Via oral, Como um bobão exagerando no acento Circunflexo nas vogais.
+
+    ParaFazer_Agudo: Via nasal, Como se fosse espirrar, boca mais aberta.
+
+  }
+
+  Sentimentos_Nas_PartesMusica: {
+    Partes_Iniciais:
+      Sentimento: Calmo,
+      Demonstrar: [ sussurro, ],
+      Volume: baixo,
+
+    Partes_Meio:
+      Sentimento: tenso,
+      Demonstrar: [ explicativo, irritado, incisivo,],
+      Volume: medio,
+
+    Partes_Iniciais:
+      Sentimento: forte, Demonstrar: [ agitado, marcante, atitude ],
+      Volume: alto,
+  }
+
 ]
 
 Resumo: a emissão se resume em 3 ataques staccatinho nos :: [ PalatoMole, PalatoCentral, PalatoDuro ],
@@ -71,38 +110,6 @@ OQueNaoFazer : [
   - Não esqueça que a frase se emite atacando os 3 palatos [ PalatoMole, PalatoCentral, PalatoDuro ],
 
 ]
-
----
-
-Regioes:
-  Graves: abre menos a boca
-  Agudas: abre um pouco mais a boca
-
-
----
-
-Importantes: [
-- Todos Palatos tem que se levantar na hora qye for usado.,
-
--
-
-]
-
----
-
-## Durante_Emissao :
-
-Ressonancia: do início só fim ( do Grave ao Agudo )usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal_SomDeLigacaoTÃN
-
-Controle_Ar: expulse o ar devagar, como se fosse vomitar palavras com ar.
-
-
- Vogais: Abafar com acento Circunflexo, Lingua: atraz da gengiva inferior.
-
-Consoantes: sobe da um gancho sobe a lingua pra impulsionar
-
-
-
 
 ---
 
