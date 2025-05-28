@@ -56,10 +56,18 @@ Emissao_Por_Frase:
       BocaAbertura: 2° estágio abre mais.,
       Queixo: pra baixo pra não perder timbre marcante.
     Apoio: solta gradualmente o apoio.
-    Cabe_Enfeites: [ Whysper_sussurrado, melisma, ],
+    Cabe_Enfeites: [ Whysper_sussurrado, melisma, $Opcoes_Enfeites_Finais ],
     Exercicio_Especifico: [
       Nome: , By: , Link: ( ),
     ]
+
+
+Opcoes_Enfeites_Finais : [
+Hurr do Tchelo,
+Eh,eh repetir última vogal do Belo,
+
+]
+
 
 Recursos : [
   Ajuda_Ataques: para ajudar impulsionar balance a cabeça(cima a baixo) a cada ataque.,
