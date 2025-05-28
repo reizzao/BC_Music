@@ -15,14 +15,18 @@ Emissao:
     Palato: PalatoMole , 
     Som: Medio_Macio, 
     Escalar: ascendente, 
-    Timbrar: queixo pra baixo pra não oerser timbre marcante., 
+    Timbrar: 
+      Boca: abre menos, 
+      Queixo: pra baixo pra não oerser timbre marcante.,
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
   Transicao: 
     Palato: PalatoCentral, 
     Som: Alavancar, 
     Escalar: Mantém,
-    Timbrar: queixo pra baixo pra não oerser timbre marcante.
+    Timbrar: 
+      Boca: vai abrindo, 
+      Queixo: pra baixo pra não oerser timbre marcante.
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
 
@@ -30,8 +34,17 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
     Palato: PalatoDuro, 
     Som: Grave, 
     Escalar: descendente, 
-    Timbrar: queixo pra baixo pra não oerser timbre marcante.
+    Timbrar: 
+      Boca: abre pouco mais, 
+      Queixo: pra baixo pra não perder timbre marcante.
 Apoio: solta gradualmente o apoio.
+
+---
+
+Regioes:
+  Graves: abre menos a boca
+  Agudas: abre um pouco mais a boca
+
 
 ---
 
