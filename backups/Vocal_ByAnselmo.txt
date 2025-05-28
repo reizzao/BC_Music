@@ -2,7 +2,7 @@ Postura:
 - PeitoDoSupermam sempre pra frente
 - Apoio: Sentir que está jogando pernas pra cima
 - Laringe: Gogó Baixo: como se quase falasse B
-- Aspirar : fundo pelo nariz , com boca aberta, sempre no fim das frases.
+- Aspirar : sempre no fim das frases, Aspire fundo pelo nariz , com boca aberta, já  levantando o PakatoMole como bocejo já pra emitir.
 
 
 ---
@@ -12,7 +12,7 @@ Emissao:
 ## Emissao_Padrao : 
 
   Inicio: 
-    Palato: PalatoMole , 
+    Palato: PalatoMole, detalhe: já o levanta de start primeiro ato como fosse bocejar, 
     Som: Medio_Macio, 
     Escalar: ascendente, 
     Timbrar: 
