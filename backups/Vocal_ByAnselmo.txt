@@ -42,6 +42,9 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
       Queixo: pra baixo pra não perder timbre marcante.
 Apoio: solta gradualmente o apoio.
 
+ExercicioObjetivo: 
+   Vocalize: UN-UN . IN-IN-ON . ON-ON ( Aspiea Certo no som de sinos )
+
 ---
 
 Regioes:
