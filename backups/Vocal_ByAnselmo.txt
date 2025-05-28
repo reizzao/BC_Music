@@ -25,7 +25,7 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
     Som: Alavancar, 
     Escalar: Mantém,
     Timbrar: 
-      Boca: vai abrindo, 
+      Boca: vai abrindo Mostra Dentes, 
       Queixo: pra baixo pra não oerser timbre marcante.
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
