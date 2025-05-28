@@ -26,7 +26,7 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
 
   Transicao: 
     Palato: PalatoCentral, 
-    Som: Impulso de Alavancar, 
+    Som: unico lugar que poem um pouco de força rapida pra Impulso quando vai Alavancar subir muito., 
     Escalar: Mantém,
     Timbrar: 
       BocaDentro: começa a mostrar os Dentes, 
