@@ -25,7 +25,7 @@ Emissao_Por_Frase:
       Queixo: pra baixo pra não oerser timbre     marcante.,
     Apoio: conforme sobe aumenta o ApoioAbdominal
     Cabe_Enfeites: [ , ],
-    Exercicios: [
+    Exercicio_Especifico: [
       Nome: Aquecimento10Segundos, By: Anselmo, Link: ( ),
     ]
 
@@ -41,7 +41,7 @@ Emissao_Por_Frase:
       Queixo: pra baixo pra não oerser timbre marcante.
     Apoio: conforme sobe aumenta o ApoioAbdominal
     Cabe_Enfeites: [ , ],
-    Exercicios: [
+    Exercicio_Especifico: [
       Nome: , By: , Link: ( ),
     ]
 
@@ -57,7 +57,7 @@ Emissao_Por_Frase:
       Queixo: pra baixo pra não perder timbre marcante.
     Apoio: solta gradualmente o apoio.
     Cabe_Enfeites: [ , ],
-    Exercicios: [
+    Exercicio_Especifico: [
       Nome: , By: , Link: ( ),
     ]
 
@@ -107,7 +107,7 @@ Recursos : [
 
 Resumo: a emissão se resume em 3 ataques staccatinho nos :: [ PalatoMole, PalatoCentral, PalatoDuro ],
 
-ExercicioParaEsseObjetivo:
+Exercicios_Objetivo_Geral:
    Vocalizes:
 - UN-UN . IN-IN-AN . AN-AN
 - KA RO MÍN HÔ BÊN
