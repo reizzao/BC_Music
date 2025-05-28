@@ -1,0 +1,134 @@
+Postura:
+  Peito: PeitoDoSuperman sempre pra frente e aberto
+
+  Apoio: Sentir que está jogando pernas pra cima
+
+  Laringe: Gogó Baixo: como se quase falasse B
+
+  Aspirar : sempre no fim das frases, Aspire fundo pelo nariz , com boca aberta, já  levantando o PalatoMole como bocejo já pra emitir.
+
+
+---
+
+Emissao_Por_Frase:
+
+## Fases_Padrao :
+
+  Inicio:
+    Ataque: acima da uvula, como fosse bocejar, esse palato mole tem que erguer.,
+    PalatoElevado: PalatoMole,
+    Som: Medio_Macio,
+    Escalar: ascendente,
+    Timbrar:
+      BocaDentro: abre menos,
+      BocaAbertura: 1° estagio abre pouco 2 dedos maximo.,
+      Queixo: pra baixo pra não oerser timbre     marcante.,
+Apoio: conforme sobe aumenta o ApoioAbdominal   Cabe_Enfeites: [ , ],
+
+
+  Transicao:
+    Ataque: meio do céu da boca,
+    PalatoElevado: PalatoCentral,
+    Som: unico lugar que poem um pouco de força rapida pra Impulso quando vai Alavancar subir muito.,
+    Escalar: Mantém,
+    Timbrar:
+      BocaDentro: começa a mostrar os Dentes,
+      BocaAbertura: prepara pra abrir mais 2° estagio.,
+      Queixo: pra baixo pra não oerser timbre marcante.
+    Apoio: conforme sobe aumenta o ApoioAbdominal
+    Cabe_Enfeites: [ , ],
+
+
+  Finais:
+    Ataque: dentes superiores,
+    PalatoElevado: PalatoDuro,
+    Som: Grave,
+    Escalar: descendente,
+    Timbrar:
+      Boca: mostra os dentes, solta pro ar harmonizar desfarelar.,
+      BocaAbertura: 2° estágio abre mais.,
+      Queixo: pra baixo pra não perder timbre marcante.
+    Apoio: solta gradualmente o apoio.
+    Cabe_Enfeites: [ , ],
+
+Recursos : [
+  Ajuda_Ataques: para ajudar impulsionar balance a cabeça(cima a baixo) a cada ataque.,
+
+]
+
+Resumo: a emissão se resume em 3 ataques staccatinho nos :: [ PalatoMole, PalatoCentral, PalatoDuro ],
+
+ExercicioParaEsseObjetivo:
+   Vocalizes:
+- UN-UN . IN-IN-AN . AN-AN ( Aspiea Certo no som de sinos )
+- KA RO MÍN HÔ BÊN
+
+---
+
+OQueNaoFazer : [
+  - Não esquecer de aspirar já levandando o PalatoMole
+  - Não atacar fora do PalatoMole.,
+  - Não esqueça que a frase se emite atacando os 3 palatos [ PalatoMole, PalatoCentral, PalatoDuro ],
+
+]
+
+---
+
+Regioes:
+  Graves: abre menos a boca
+  Agudas: abre um pouco mais a boca
+
+
+---
+
+Importantes: [
+- Todos Palatos tem que se levantar na hora qye for usado.,
+
+-
+
+]
+
+---
+
+## Durante_Emissao :
+
+Ressonancia: do início só fim ( do Grave ao Agudo )usar ( HarmonicosAgudos Suave ou Estridente) Som de N_Nasal_SomDeLigacaoTÃN
+
+Controle_Ar: expulse o ar devagar, como se fosse vomitar palavras com ar.
+
+
+ Vogais: Abafar com acento Circunflexo, Lingua: atraz da gengiva inferior.
+
+Consoantes: sobe da um gancho sobe a lingua pra impulsionar
+
+
+
+
+---
+
+## Treinos
+
+Automatizar : tornar normal
+- Falar com Harmonicos agudos , Formato Fala Vogal_Master_UN, inserir N nas vogais , boca de U,
+
+---
+
+Treinos_Diarios :
+1- Soltar Ar SemSom com todas as Vogais Normais e Abafadas
+
+2 - Soltar Ar com Som nas Vogais Abafadas
+
+3 - Vocalize MÎN ÎN - vai e vem Pakatos do Grave ao Agudo, Grave, ascendente e descedente.
+
+
+
+---
+
+Links
+
+Boas_Interpretacoes :
+   byAnaFer Fases: Sussurro + Medio + Forte > https://www.instagram.com/reel/DKK5M17yEK0/?igsh=MWpoYXBtZm9sdWVtMw==
+
+
+
+
