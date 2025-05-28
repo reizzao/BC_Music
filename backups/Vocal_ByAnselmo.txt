@@ -15,7 +15,7 @@ Emissao:
 ## Emissao_Padrao : 
 
   Inicio: 
-    Palato: PalatoMole, detalhe: já o levanta de start primeiro ato como fosse bocejar, 
+    Palato: PalatoMole, detalhe: já o levanta de start primeiro ato como fosse bocejar, libera Ar_Em_Som por cima da Uvula_Campainha., 
     Som: Medio_Macio, 
     Escalar: ascendente, 
     Timbrar: 
@@ -25,10 +25,10 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
 
   Transicao: 
     Palato: PalatoCentral, 
-    Som: Alavancar, 
+    Som: Impulso de Alavancar, 
     Escalar: Mantém,
     Timbrar: 
-      Boca: vai abrindo Mostra Dentes, 
+      Boca: começa a mostrar os Dentes, 
       Queixo: pra baixo pra não oerser timbre marcante.
 Apoio: conforme sobe aumenta o ApoioAbdominal
 
@@ -38,12 +38,14 @@ Apoio: conforme sobe aumenta o ApoioAbdominal
     Som: Grave, 
     Escalar: descendente, 
     Timbrar: 
-      Boca: abre pouco mais, 
+      Boca: abre pouco mais, mostra os dentes, solta pro ar harmonizar desfarelar.,
       Queixo: pra baixo pra não perder timbre marcante.
 Apoio: solta gradualmente o apoio.
 
 ExercicioObjetivo: 
-   Vocalize: UN-UN . IN-IN-ON . ON-ON ( Aspiea Certo no som de sinos )
+   Vocalizes: 
+- UN-UN . IN-IN-AN . AN-AN ( Aspiea Certo no som de sinos )
+- KA RO MÍN HÔ BÊN
 
 ---
 
