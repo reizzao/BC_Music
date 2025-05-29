@@ -9,6 +9,12 @@ Apoiar : 4° sensação que vai Levantar as 2 pernas., usar numa crescente princ
 
 
 ---
+Som_Notas_Funcionais
+  Tonica: TÃN,
+  Subdominante: DÓN,
+  Dominante: TÓN,
+
+---
 
 Emissao_Por_Frase:
 
