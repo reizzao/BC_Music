@@ -29,6 +29,7 @@ Emissao_Por_Frase:
       BocaDentro: abre menos,
       BocaAbertura: 1° estagio abre pouco 2 dedos maximo.,
       Queixo: pra baixo pra não oerser timbre     marcante.,
+      Macetes: terminar acrescentando letra N,
     Apoio: conforme sobe aumenta o ApoioAbdominal
     Cabe_Enfeites: [ Whysper_sussurrado, Fry, Portamento,  ],
     Exercicio_Especifico: [
@@ -45,6 +46,7 @@ Emissao_Por_Frase:
       BocaDentro: começa a mostrar os Dentes,
       BocaAbertura: prepara pra abrir mais 2° estagio.,
       Queixo: pra baixo pra não oerser timbre marcante.
+      Macetes: terminar acrescentando letra N,
     Apoio: conforme sobe aumenta o ApoioAbdominal
     Cabe_Enfeites: [ Yodel, appogiatura, ],
     Exercicio_Especifico: [
@@ -61,6 +63,7 @@ Emissao_Por_Frase:
       Boca: mostra os dentes, solta pro ar harmonizar desfarelar.,
       BocaAbertura: 2° estágio abre mais.,
       Queixo: pra baixo pra não perder timbre marcante.
+      Macetes: terminar acrescentando letra N, 
     Apoio: solta gradualmente o apoio.
     Cabe_Enfeites: [ Whysper_sussurrado, melisma, $Opcoes_Enfeites_Finais ],
     Exercicio_Especifico: [
