@@ -25,6 +25,7 @@ Emissao_Por_Frase:
     PalatoElevado: PalatoMole,
     Som: Medio_Macio,
     Escalar: ascendente,
+    NaFrase: a tonica repouso,
     Timbrar:
       BocaDentro: abre menos,
       BocaAbertura: 1° estagio abre pouco 2 dedos maximo.,
@@ -42,6 +43,7 @@ Emissao_Por_Frase:
     PalatoElevado: PalatoCentral,
     Som: unico lugar que poem um pouco de força rapida pra Impulso quando vai Alavancar subir muito.,
     Escalar: Mantém,
+    NaFrase: a tensa,pergunta, suspende pausa ou falsa pausa, deixa no ar
     Timbrar:
       BocaDentro: começa a mostrar os Dentes,
       BocaAbertura: prepara pra abrir mais 2° estagio.,
@@ -59,6 +61,7 @@ Emissao_Por_Frase:
     PalatoElevado: PalatoDuro,
     Som: Grave,
     Escalar: descendente,
+    NaFrase: a resposta, a última palavra, espalha harmonizando.
     Timbrar:
       Boca: mostra os dentes, solta pro ar harmonizar desfarelar.,
       BocaAbertura: 2° estágio abre mais.,
