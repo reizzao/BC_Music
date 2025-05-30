@@ -1,20 +1,24 @@
-Postura:
-  Peito: 1° PeitoDoSuperman sempre pra frente e aberto
+---
+Global
 
-  Laringe: 2° Gogó Baixo: como se quase falasse B
+  Postura:
+    Peito: 1° PeitoDoSuperman sempre pra frente e aberto
 
-  Aspirar : 3° sempre no fim das frases, Aspire fundo pelo nariz , com boca aberta, já  levantando o PalatoMole como bocejo já pra emitir.
+   Laringe: 2° Gogó Baixo: como se quase falasse B
 
-  CriarPressaoDeAr :: Aspira pras Costelas, prende trava dps emite, sensacao: Obrigado Motorista!,
+   Aspirar : 3° sempre no fim das frases, Aspire fundo pelo nariz , com boca aberta, já  levantando o PalatoMole como bocejo já pra emitir.
 
-Projetar_Emissao: faça a soltura do bocejo, grito do Lerdão.
+   CriarPressaoDeAr :: Aspira pras Costelas, prende trava dps emite, sensacao: Obrigado Motorista!,
 
-Harmonizar: mantenha o garmonico agudo forte di nariz com a parte do oral
+  Projetar_Emissao: faça a soltura do bocejo, grito do Lerdão.
 
-Apoiar : 4° sensação que vai Levantar as 2 pernas., usar numa crescente principalmente nos agudos,mas já venha enriquecendo o abdômen gradualmente.
+  Harmonizar: mantenha o garmonico agudo forte di nariz com a parte do oral
+
+  Apoiar : 4° sensação que vai Levantar as 2 pernas., usar numa crescente principalmente nos agudos,mas já venha enriquecendo o abdômen gradualmente.
 
 
 ---
+
 Som_Notas_Funcionais
   Tonica: TÃN,
   Subdominante: DÓN,
