@@ -30,7 +30,7 @@ Emissao_Por_Frase:
 
 ## Fases_Padrao :
 
-Resumo_Emissao: a cada emissão expelir o mesmo ar sem voltar, com sinuetas : Medio + Fraco + Forte, em Estável Sobe e Desce de vocalize Padrão Escala.
+Resumo_Emissao: a cada emissão expelir o mesmo ar sem voltar, com sinuetas : Medio + Fraco + Forte, em 3_FasesDeVocalize_Padrão_Escala :: [Estável + Sobe + Desce].
 
   Inicio:
     Ataque: acima da uvula, inicio sempre fraco, 1° ato:: sempre sensacao de espera tipo fry antes, empurro de ar de bocejo nas vogais no mesmo ar, .,
