@@ -5,7 +5,11 @@ Postura:
 
   Aspirar : 3° sempre no fim das frases, Aspire fundo pelo nariz , com boca aberta, já  levantando o PalatoMole como bocejo já pra emitir.
 
-Projecso: CriarPressaoDeAr :: Aspira pras Costelas, prende trava dps emite, sensacao: Obrigado Motorista!,
+  CriarPressaoDeAr :: Aspira pras Costelas, prende trava dps emite, sensacao: Obrigado Motorista!,
+
+Projetar_Emissao: faça a soltura do bocejo, grito do Lerdão.
+
+Harmonizar: mantenha o garmonico agudo forte di nariz com a parte do oral
 
 Apoiar : 4° sensação que vai Levantar as 2 pernas., usar numa crescente principalmente nos agudos,mas já venha enriquecendo o abdômen gradualmente.
 
