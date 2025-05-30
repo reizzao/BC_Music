@@ -31,7 +31,7 @@ Emissao_Por_Frase:
 ## Fases_Padrao :
 
   Inicio:
-    Ataque: acima da uvula, como fosse bocejar, esse palato mole tem que já estar erguido ergua-o na aspiração.,
+    Ataque: acima da uvula, inicio sempre fraco, 1° ato:: sempre sensacao de espera tipo fry antes, empurro de ar de bocejo nas vogais no mesmo ar, .,
     PalatoElevado: PalatoMole,
     Som: Medio_Macio,
     Escalar: ascendente,
